@@ -1,0 +1,53 @@
+'use client'
+
+import { useState } from 'react'
+import { Button } from "@/components/ui/button"
+
+export default function Component() {
+  const totalQuestions = 5
+  const [currentQuestion, setCurrentQuestion] = useState(1)
+
+  const nextQuestion = () => {
+    if (currentQuestion < totalQuestions) {
+      setCurrentQuestion(currentQuestion + 1)
+    }
+  }
+
+  return (
+    <div className="w-full max-w-md mx-auto space-y-4">
+      <style jsx>{`
+        @keyframes slowBlink {
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0.5; }
+        }
+        .slow-blink {
+          animation: slowBlink 1s ease-in-out infinite;
+        }
+      `}</style>
+      <div className="flex justify-between items-center">
+        {[...Array(totalQuestions)].map((_, index) => (
+          <div
+            key={index}
+            className={`w-4 h-4 rounded-full transition-all duration-5000 ${
+              index < currentQuestion
+                ? 'bg-primary scale-100'
+                : index === currentQuestion - 1
+                ? 'bg-primary scale-125 slow-blink'
+                : 'bg-secondary'
+            }`}
+          />
+        ))}
+      </div>
+      <p className="text-center text-sm text-primary">
+        Question {currentQuestion} of {totalQuestions}
+      </p>
+      <Button 
+        onClick={nextQuestion} 
+        disabled={currentQuestion === totalQuestions}
+        className="w-full"
+      >
+        {currentQuestion === totalQuestions ? 'Finish Test' : 'Next Question'}
+      </Button>
+    </div>
+  )
+}
