@@ -1,0 +1,42 @@
+{
+  "title": "¡Tus Resultados Ikigai Están Listos!",
+  "subtitle": "Obtén acceso instantáneo a tu perfil Ikigai personalizado y recomendaciones de carrera.",
+  "formTitle": "Ingresa Tu Email para Acceder a Tus Resultados",
+  "emailLabel": "Dirección de Email",
+  "emailPlaceholder": "tu@email.com",
+  "whatYouGet": "Lo que obtendrás:",
+  "benefits": {
+    "analysis": "Análisis detallado de personalidad Ikigai",
+    "recommendations": "Recomendaciones de carrera personalizadas",
+    "report": "Tu reporte completo de perfil Ikigai",
+    "tips": "Opcional: Consejos de desarrollo profesional por email"
+  },
+  "privacy": "Respetamos tu privacidad. Sin spam, cancela suscripción en cualquier momento.",
+  "buttons": {
+    "submit": "Obtener Mis Resultados",
+    "submitting": "Guardando...",
+    "skip": "Omitir"
+  },
+  "legal": "Al continuar, aceptas nuestra",
+  "privacyPolicy": "Política de Privacidad",
+  "and": "y",
+  "termsOfService": "Términos de Servicio",
+  "toasts": {
+    "emailSaved": {
+      "title": "Email Guardado",
+      "description": "¡Tus resultados están listos! Redirigiendo..."
+    },
+    "error": {
+      "title": "Error",
+      "description": "Error al guardar el email. Por favor intenta de nuevo."
+    },
+    "invalidEmail": {
+      "title": "Email Inválido",
+      "description": "Por favor ingresa una dirección de email válida"
+    },
+    "invalidSession": {
+      "title": "Sesión Inválida",
+      "description": "El ID de sesión es inválido. Por favor intenta de nuevo."
+    }
+  }
+}

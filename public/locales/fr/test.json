@@ -1,0 +1,212 @@
+{
+  "title": "Test Ikigai Complet",
+  "subtitle": "Découvrez le but de votre vie en 18 questions",
+  "description": "Répondez honnêtement à chaque question pour obtenir votre analyse Ikigai personnalisée.",
+  "progress": {
+    "question": "Question {{current}} sur {{total}}",
+    "completed": "{{percentage}}% terminé"
+  },
+  "previousButton": "Précédent",
+  "nextButton": "Suivant",
+  "submitButton": "Terminer le Test",
+  "startButton": "Commencer le Test",
+  "continueButton": "Continuer le Test",
+  "loading": "Chargement des questions...",
+  "completing": "Analyse de vos réponses...",
+  "movingToNext": "Passage à la question suivante...",
+  "instructions": {
+    "title": "Instructions",
+    "description": "Prenez votre temps pour réfléchir à chaque question. Il n'y a pas de bonnes ou mauvaises réponses - soyez simplement honnête avec vous-même.",
+    "tip": "Conseil: Cliquez sur votre réponse pour passer automatiquement à la question suivante."
+  },
+  "categories": {
+    "passion": "Passion - Ce que vous aimez",
+    "mission": "Mission - Ce dont le monde a besoin",
+    "vocation": "Vocation - Ce en quoi vous êtes doué",
+    "profession": "Profession - Ce pour quoi vous pouvez être payé"
+  },
+  "completion": {
+    "title": "Test Terminé!",
+    "subtitle": "Merci d'avoir terminé le test Ikigai",
+    "processing": "Nous analysons vos réponses pour créer votre profil personnalisé...",
+    "redirect": "Vous serez redirigé vers vos résultats dans quelques instants."
+  },
+  "errors": {
+    "startSession": "Impossible de démarrer le test. Veuillez réessayer.",
+    "saveAnswer": "Impossible de sauvegarder votre réponse. Veuillez réessayer.",
+    "completeTest": "Impossible de terminer le test. Veuillez réessayer.",
+    "loadQuestions": "Impossible de charger les questions. Veuillez rafraîchir la page.",
+    "network": "Erreur de connexion. Veuillez vérifier votre connexion internet."
+  },
+  "validation": {
+    "selectAnswer": "Veuillez sélectionner une réponse avant de continuer.",
+    "allQuestionsRequired": "Toutes les questions doivent être répondues pour terminer le test."
+  },
+  "instruction": "Choisissez la réponse qui vous correspond le mieux :",
+  "complete": "Terminé",
+  
+  "testQuestions": {
+    "13": {
+      "text": "Quand vous avez du temps libre, vous préférez :",
+      "options": {
+        "133": "Lire un livre ou regarder un documentaire",
+        "134": "Aller courir ou aller à la salle de sport",
+        "135": "Enfin vous attaquer à ce projet bricolage qui vous tracasse",
+        "136": "Rattraper des amis autour d'un café"
+      }
+    },
+    "14": {
+      "text": "Votre ami déménage et a besoin d'aide. Vous proposez de :",
+      "options": {
+        "137": "Organiser le déménagement et coordonner les équipes",
+        "138": "Porter les cartons et faire le travail physique",
+        "139": "Aider à emballer et organiser les affaires",
+        "140": "Apporter à manger et soutenir moralement"
+      }
+    },
+    "15": {
+      "text": "Lors d'un événement social, vous avez souvent tendance à :",
+      "options": {
+        "141": "Échanger des idées et discuter de sujets profonds",
+        "142": "Organiser des activités pour le groupe",
+        "143": "Aider à servir et vous assurer que tout le monde va bien",
+        "144": "Profiter des conversations légères et du moment présent"
+      }
+    },
+    "16": {
+      "text": "Face à un problème, votre premier réflexe est de :",
+      "options": {
+        "145": "Analyser la situation et chercher des solutions créatives",
+        "146": "Prendre les devants et agir rapidement",
+        "147": "Consulter d'autres personnes pour avoir leurs avis",
+        "148": "Réfléchir calmement et planifier votre approche"
+      }
+    },
+    "17": {
+      "text": "Votre collègue vous demande conseil pour améliorer son espace de travail. Vous suggérez :",
+      "options": {
+        "149": "Des solutions innovantes et personnalisées",
+        "150": "Des méthodes pratiques et efficaces",
+        "151": "D'écouter ses besoins spécifiques d'abord",
+        "152": "Des changements simples qui ont fait leurs preuves"
+      }
+    },
+    "18": {
+      "text": "Lors d'une réunion de travail, vous avez souvent tendance à :",
+      "options": {
+        "153": "Diriger la discussion pour prendre des décisions",
+        "154": "Partager vos conseils sur tous les sujets",
+        "155": "Vous assurer que chacun ait l'occasion de parler",
+        "156": "Proposer des solutions aux problèmes qui surgissent"
+      }
+    },
+    "19": {
+      "text": "En voyage, vous êtes le plus excité par :",
+      "options": {
+        "157": "Visiter des sites historiques et des musées",
+        "158": "Explorer la nature et atteindre votre objectif de pas quotidien",
+        "159": "Rencontrer de nouvelles personnes et découvrir la culture",
+        "160": "Capturer de nouvelles photos"
+      }
+    },
+    "20": {
+      "text": "Vos amis vous décrivent comme :",
+      "options": {
+        "161": "Ayant le sens des affaires",
+        "162": "Un leader naturel",
+        "163": "Toujours actif",
+        "164": "La personne de référence pour l'aide technologique"
+      }
+    },
+    "21": {
+      "text": "Au travail, vous êtes le plus énergisé par :",
+      "options": {
+        "165": "Aider un collègue à apprendre quelque chose de nouveau",
+        "166": "Organiser une activité ou sortie de groupe",
+        "167": "Comprendre comment surmonter les défis",
+        "168": "Diriger l'équipe vers l'atteinte des objectifs"
+      }
+    },
+    "22": {
+      "text": "Votre type de livre ou film préféré est :",
+      "options": {
+        "169": "Documentaires ou drames",
+        "170": "Quelque chose qui fait monter l'adrénaline",
+        "171": "Histoires touchantes sur les situations des gens",
+        "172": "Biographies de personnes qui ont réussi"
+      }
+    },
+    "23": {
+      "text": "En planifiant l'avenir, qu'avez-vous à l'esprit ?",
+      "options": {
+        "173": "Trouver des moyens de soutenir quelqu'un",
+        "174": "Rester en bonne santé et actif à long terme",
+        "175": "Continuer à apprendre et enseigner",
+        "176": "Construire des connexions solides avec les autres"
+      }
+    },
+    "24": {
+      "text": "En achetant un cadeau, vous avez tendance à :",
+      "options": {
+        "177": "Choisir un gadget cool",
+        "178": "Choisir une activité de groupe",
+        "179": "Acheter un outil de productivité",
+        "180": "Choisir quelque chose qui stimule l'esprit"
+      }
+    },
+    "25": {
+      "text": "Votre travail de rêve implique :",
+      "options": {
+        "181": "Diriger une équipe",
+        "182": "Résoudre des défis techniques",
+        "183": "Faire une différence",
+        "184": "Enseigner aux autres"
+      }
+    },
+    "26": {
+      "text": "Au travail, on vous demande souvent de :",
+      "options": {
+        "185": "Gérer les tâches techniques",
+        "186": "Résoudre des problèmes difficiles",
+        "187": "Encadrer les nouvelles recrues",
+        "188": "Aider à développer des stratégies"
+      }
+    },
+    "27": {
+      "text": "Lors d'un road trip avec des amis, vous êtes celui qui :",
+      "options": {
+        "189": "Décide de l'itinéraire et planifie les arrêts",
+        "190": "S'occupe de la navigation",
+        "191": "Maintient les conversations",
+        "192": "Suggère de visiter un endroit qui soutient une bonne cause"
+      }
+    },
+    "28": {
+      "text": "En essayant un nouveau passe-temps, vous êtes attiré par :",
+      "options": {
+        "193": "Quelque chose qui vous fait réfléchir profondément",
+        "194": "Quelque chose que vous pourriez transformer en entreprise",
+        "195": "Quelque chose qui rassemble les gens",
+        "196": "Quelque chose où vous pouvez apprendre et enseigner aux autres"
+      }
+    },
+    "29": {
+      "text": "Vos amis vous décriraient comme :",
+      "options": {
+        "197": "Logique et analytique",
+        "198": "Un excellent communicateur et auditeur",
+        "199": "Compatissant et compréhensif",
+        "200": "Quelqu'un qui rassemble les gens"
+      }
+    },
+    "30": {
+      "text": "En cuisinant quelque chose de spécial, vous :",
+      "options": {
+        "201": "Cherchez une recette avec une histoire intéressante",
+        "202": "Utilisez des ingrédients du marché fermier local",
+        "203": "Expérimentez avec les proportions jusqu'à ce que ce soit parfait",
+        "204": "Invitez des amis pour le partager avec vous"
+      }
+    }
+  }
+}

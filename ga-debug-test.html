@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GA4 Debug Test</title>
+</head>
+<body>
+    <h1>Google Analytics Debug Test</h1>
+    <button onclick="testGA()">Test GA Event</button>
+    <div id="results"></div>
+
+    <script>
+        // Test GA implementation
+        function testGA() {
+            const results = document.getElementById('results');
+            
+            if (window.gtag && window.dataLayer) {
+                results.innerHTML += '<p>✅ GA4 is loaded and working</p>';
+                results.innerHTML += '<p>DataLayer events: ' + window.dataLayer.length + '</p>';
+                
+                // Send test event
+                window.gtag('event', 'test_button_click', {
+                    event_category: 'testing',
+                    event_label: 'debug_test',
+                    value: 1
+                });
+                
+                results.innerHTML += '<p>✅ Test event sent to GA4</p>';
+            } else {
+                results.innerHTML += '<p>❌ GA4 not loaded</p>';
+            }
+        }
+
+        // Check if GA loads
+        setTimeout(() => {
+            const results = document.getElementById('results');
+            if (window.gtag) {
+                results.innerHTML += '<p>GA4 Status: ✅ Loaded</p>';
+            } else {
+                results.innerHTML += '<p>GA4 Status: ❌ Not loaded</p>';
+            }
+        }, 2000);
+    </script>
+</body>
+</html>

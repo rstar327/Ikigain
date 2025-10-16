@@ -1,0 +1,36 @@
+{
+  "title": "Ikigai Blog",
+  "subtitle": "Insights and guides for finding your purpose",
+  "categories": {
+    "all": "All",
+    "selfDiscovery": "Self Discovery",
+    "careerGuidance": "Career Guidance",
+    "lifeBalance": "Life Balance",
+    "motivation": "Motivation",
+    "mindfulness": "Mindfulness"
+  },
+  "readingTime": "{{minutes}} min read",
+  "publishedOn": "Published on {{date}}",
+  "tags": "Tags",
+  "relatedPosts": "Related Posts",
+  "sharePost": "Share Post",
+  "backToBlog": "Back to Blog",
+  "noPostsFound": "No posts found",
+  "searchPlaceholder": "Search articles...",
+  "filterBy": "Filter by",
+  "sortBy": "Sort by",
+  "sortOptions": {
+    "newest": "Newest",
+    "oldest": "Oldest",
+    "popular": "Most Popular"
+  },
+  "loadMore": "Load More Posts",
+  "subscribe": {
+    "title": "Subscribe to our newsletter",
+    "description": "Get the latest insights on Ikigai and personal development",
+    "placeholder": "Your email address",
+    "button": "Subscribe",
+    "success": "Thank you for subscribing!",
+    "error": "Error subscribing. Please try again."
+  }
+}

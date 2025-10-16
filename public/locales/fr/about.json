@@ -1,0 +1,213 @@
+{
+  "seo": {
+    "title": "À Propos de Nous - L'Histoire Derrière Ikigain.org | Notre Mission",
+    "description": "Découvrez l'histoire de Sindy et Karlis, les fondateurs d'Ikigain.org. Apprenez comment leur voyage personnel vers l'épanouissement a créé cette plateforme transformatrice.",
+    "keywords": "à propos ikigain, fondateurs, mission, histoire, développement personnel, ikigai"
+  },
+  "hero": {
+    "title": "Notre Histoire",
+    "subtitle": "Comment Nous Avons Découvert Notre Ikigai",
+    "description": "L'histoire de deux entrepreneurs qui ont transformé leur propre recherche de sens en une mission d'aider des milliers d'autres à trouver leur but."
+  },
+  "founders": {
+    "title": "Rencontrez les Fondateurs",
+    "subtitle": "Sindy et Karlis - Une équipe dédiée à votre épanouissement",
+    "sindy": {
+      "name": "Sindy Vilmane",
+      "role": "Fondatrice & Experte en Développement Personnel",
+      "bio": "Sindy a découvert l'Ikigai pendant une période de transition majeure dans sa vie. Passionnée par l'aide aux autres dans leur croissance personnelle, elle a créé Ikigain.org pour partager les outils et insights qui ont transformé sa propre vie.",
+      "linkedin": "Voir le Profil LinkedIn"
+    },
+    "karlis": {
+      "name": "Karlis Vilmanis", 
+      "role": "Co-fondateur & Développeur Principal",
+      "bio": "Karlis apporte son expertise technique pour créer une expérience utilisateur exceptionnelle. Son approche méthodique du développement reflète sa propre recherche d'excellence et de précision dans tout ce qu'il entreprend.",
+      "linkedin": "Voir le Profil LinkedIn"
+    }
+  },
+  "mission": {
+    "title": "Notre Mission",
+    "subtitle": "Rendre l'épanouissement personnel accessible à tous",
+    "description": "Nous croyons que chaque personne mérite de vivre une vie alignée avec son but profond. Notre mission est de démocratiser l'accès aux outils de développement personnel et de rendre la découverte de l'Ikigai simple, accessible et pratique.",
+    "values": {
+      "title": "Nos Valeurs",
+      "authenticity": {
+        "title": "Authenticité",
+        "description": "Nous croyons en la valeur de l'authenticité personnelle et encourageons chacun à embrasser sa véritable nature."
+      },
+      "growth": {
+        "title": "Croissance",
+        "description": "Le développement personnel est un voyage continu que nous soutenons à chaque étape."
+      },
+      "accessibility": {
+        "title": "Accessibilité",
+        "description": "Les outils de transformation personnelle doivent être accessibles à tous, indépendamment du contexte socio-économique."
+      },
+      "community": {
+        "title": "Communauté",
+        "description": "Nous construisons une communauté bienveillante où chacun peut grandir et s'épanouir."
+      }
+    }
+  },
+  "journey": {
+    "title": "Notre Voyage Ikigai",
+    "subtitle": "Comment tout a commencé",
+    "story": "L'idée d'Ikigain.org est née de notre propre expérience de recherche de sens et d'épanouissement. Comme beaucoup, nous avons traversé des périodes d'incertitude sur notre direction de vie. La découverte du concept japonais d'Ikigai a été un tournant décisif.",
+    "discovery": "En explorant nos propres passions, talents, valeurs et les besoins du monde, nous avons trouvé non seulement notre but individuel, mais aussi notre mission commune : aider d'autres personnes dans cette même démarche de découverte.",
+    "creation": "C'est ainsi qu'est né Ikigain.org - une plateforme conçue pour rendre la découverte de l'Ikigai accessible, pratique et transformatrice pour des milliers de personnes à travers le monde."
+  },
+  "impact": {
+    "title": "Notre Impact",
+    "subtitle": "Ensemble, nous transformons des vies",
+    "stats": {
+      "users": "10 000+",
+      "usersLabel": "Personnes ont découvert leur Ikigai",
+      "satisfaction": "87%",
+      "satisfactionLabel": "Rapportent une satisfaction de vie accrue",
+      "countries": "25+",
+      "countriesLabel": "Pays utilisent notre plateforme"
+    }
+  },
+  "whyCreated": {
+    "title": "Pourquoi Nous Avons Créé Ikigain.org",
+    "subtitle": "Notre motivation profonde",
+    "reasons": [
+      "Démocratiser l'accès aux outils de développement personnel de qualité",
+      "Offrir une approche scientifique et pratique de la découverte de soi",
+      "Créer une communauté bienveillante de personnes en quête d'épanouissement",
+      "Traduire les concepts japonais anciens en outils modernes et accessibles"
+    ]
+  },
+  "worldwide": {
+    "title": "Un Impact Mondial",
+    "description": "Ce qui a commencé comme un projet personnel est devenu un mouvement international. Des utilisateurs du monde entier découvrent leur Ikigai et transforment leur vie grâce à notre plateforme."
+  },
+  "cta": {
+    "title": "Rejoignez Notre Mission",
+    "subtitle": "Commencez votre propre voyage vers l'épanouissement",
+    "testButton": "Découvrir Mon Ikigai",
+    "communityButton": "Rejoindre la Communauté"
+  },
+  "title": "À propos de nous",
+  "description": "Découvrez l'histoire de Sindy et Karlis, les fondateurs d'Ikigain.org. Apprenez comment leur voyage personnel vers l'épanouissement a créé cette plateforme transformatrice.",
+  "keywords": "à propos ikigain, fondateurs, mission, histoire, développement personnel, ikigai",
+  "structuredData": {
+    "organizationDescription": "Ikigain.org est une plateforme de développement personnel qui aide les gens à découvrir leur Ikigai - leur raison d'être unique."
+  },
+  "founder": {
+    "imageAlt": "Sindy tenant les cartes Ikigai",
+    "greeting": "Salut ! Je suis Sindy",
+    "story": [
+      "Je crois que vous vous êtes posé des questions comme 'Qu'est-ce que le succès pour moi?' ou 'Est-ce que je vis la vie qui me correspond vraiment?' Moi aussi, je me suis posé ces questions.",
+      "Pendant des années, j'ai cherché quelque chose qui pourrait m'aider à naviguer dans ce voyage de découverte de soi. C'est alors que j'ai découvert l'Ikigai - le concept japonais de 'raison d'être'.",
+      "L'Ikigai a transformé ma compréhension de ce que signifie vivre de manière authentique. Il ne s'agit pas seulement de trouver votre passion ou votre carrière idéale - il s'agit de découvrir l'intersection unique de ce que vous aimez, ce en quoi vous excellez, ce dont le monde a besoin, et ce pour quoi vous pouvez être payé.",
+      "Maintenant, j'ai créé Ikigain.org pour partager cette sagesse transformatrice avec vous. Notre plateforme combine la philosophie japonaise ancienne avec la psychologie moderne pour vous aider à découvrir votre chemin unique vers l'épanouissement."
+    ]
+  },
+  "missionSection": {
+    "title": "Notre Mission",
+    "description": "Nous aidons les individus à découvrir leur Ikigai unique à travers des évaluations scientifiquement fondées, des insights personnalisés et des conseils pratiques."
+  },
+  "approach": {
+    "evidenceBased": {
+      "title": "Basé sur la Science",
+      "description": "Nos évaluations sont fondées sur des principes psychologiques établis et validées par plus de 10 000 utilisateurs."
+    },
+    "personalized": {
+      "title": "Personnalisé",
+      "description": "Chaque recommandation est adaptée à votre profil unique, vos forces et vos aspirations personnelles."
+    },
+    "comprehensive": {
+      "title": "Complet",
+      "description": "De la découverte initiale à l'orientation de carrière, nous vous accompagnons à chaque étape de votre voyage."
+    }
+  },
+  "shopPreview": {
+    "title": "Ressources Premium",
+    "subtitle": "Approfondissez votre voyage Ikigai avec nos cartes et guides exclusifs",
+    "description": "Découvrez notre collection soigneusement conçue de cartes Ikigai et de ressources qui vous guident à travers chaque aspect de la découverte de votre but.",
+    "features": [
+      "52 cartes de réflexion guidée",
+      "Guide complet d'utilisation",
+      "Exercices pratiques quotidiens",
+      "Conseils d'experts en développement personnel"
+    ],
+    "price": "$19.90",
+    "originalPrice": "$29.95",
+    "imageAlt": "Cartes Ikigai Premium",
+    "shopButton": "Voir la Boutique"
+  },
+  "team": {
+    "title": "Notre Équipe",
+    "subtitle": "Rencontrez les personnes passionnées derrière Ikigain.org",
+    "ikigaiJourneyTitle": "Notre Voyage Ikigai",
+    "introduction": "Salut ! Je m'appelle Sindy. Je crois que vous vous êtes posé des questions comme 'Qu'est-ce que le succès pour moi?' 'Est-ce que je vis vraiment la vie qui me correspond?' ou 'Qu'est-ce qui me rendrait vraiment heureux?'",
+    "ikigaiPower": "L'Ikigai a le pouvoir de transformer votre façon de voir la vie. Il ne s'agit pas seulement de trouver votre passion ou votre carrière idéale - il s'agit de découvrir cette intersection unique où ce que vous aimez rencontre ce en quoi vous excellez, ce dont le monde a besoin, et ce pour quoi vous pouvez être payé.",
+    "discovery": "C'est cette découverte transformatrice qui m'a inspirée à créer Ikigain.org - pour partager cette sagesse ancienne avec vous de manière moderne et accessible.",
+    "whyCreatedTitle": "Pourquoi Nous Avons Créé Ceci",
+    "cardsHelp": "Ces cartes vous aident à explorer votre Ikigai de manière pratique et réfléchie. Chaque carte contient des questions puissantes et des exercices conçus pour approfondir votre compréhension de vous-même.",
+    "whyDiscovery": "La raison pour laquelle j'ai voulu créer quelque chose comme ça, c'est parce que découvrir votre Ikigai ne devrait pas être compliqué ou intimidant. Cela devrait être un voyage joyeux de découverte de soi.",
+    "conclusion": "Avec ces cartes et notre plateforme en ligne, vous avez tout ce dont vous avez besoin pour commencer à vivre une vie plus alignée et épanouissante.",
+    "connectTitle": "Connectez-vous avec Nous",
+    "familyIntro": "Nous sommes Sindy et Karlis, une équipe mari et femme passionnée par l'aide aux autres pour découvrir leur but dans la vie. Ensemble, nous avons créé Ikigain.org comme un espace où la sagesse ancienne rencontre la technologie moderne.",
+    "daughter": "En tant que parents d'une petite fille, nous comprenons l'importance de créer un monde où chacun peut prospérer et vivre de manière authentique. C'est cette vision qui anime notre travail chaque jour.",
+    "dedication": "Notre dévouement va au-delà de la création d'outils - nous construisons une communauté où les gens peuvent grandir, apprendre et se soutenir mutuellement dans leur voyage vers l'épanouissement.",
+    "worldwideAccess": "Accès Mondial aux Outils d'Épanouissement",
+    "connectDescription": "Nous aimerions nous connecter avec vous ! Suivez-nous sur LinkedIn pour des insights, des mises à jour, et pour faire partie de notre communauté grandissante.",
+    "connectWith": "Connectez-vous avec",
+    "sindyImageAlt": "Photo de profil de Sindy",
+    "sindyRole": "Fondatrice & Experte en Développement Personnel",
+    "karlisImageAlt": "Photo de profil de Karlis", 
+    "karlisRole": "Co-fondateur & Développeur Principal"
+  },
+  "howItWorks": {
+    "title": "Comment Ça Marche",
+    "description": "Notre processus simple en trois étapes vous guide de la découverte initiale à la transformation personnelle."
+  },
+  "personalityTypes": {
+    "title": "Types de Personnalité Ikigai",
+    "description": "Découvrez quel type de personnalité Ikigai vous êtes et apprenez comment exploiter vos forces uniques.",
+    "types": {
+      "creative": {
+        "title": "Enthousiaste Créatif",
+        "description": "Vous prospérez dans des environnements qui valorisent l'innovation et l'expression créative.",
+        "tags": ["Créatif", "Innovateur", "Artiste", "Visionnaire"]
+      },
+      "skilled": {
+        "title": "Expert Spécialisé",
+        "description": "Vous excellez dans le développement d'une expertise approfondie dans des domaines spécifiques.",
+        "tags": ["Expert", "Technique", "Spécialisé", "Compétent"]
+      },
+      "purposeDriven": {
+        "title": "Leader Orienté But",
+        "description": "Vous êtes motivé par la création d'un impact positif et la direction d'équipes vers un objectif commun.",
+        "tags": ["Leader", "Impact", "Social", "Mission"]
+      },
+      "careerFocused": {
+        "title": "Ambitieux Axé Carrière",
+        "description": "Vous prospérez en fixant et atteignant des objectifs professionnels ambitieux.",
+        "tags": ["Ambitieux", "Carrière", "Objectifs", "Réussite"]
+      }
+    }
+  },
+  "discoverYourType": "Découvrir Votre Type",
+  "howItWorksSteps": {
+    "step1": {
+      "title": "Auto-Réflexion",
+      "description": "18 questions soigneusement conçues explorent vos passions, compétences, valeurs et aspirations à travers les quatre dimensions de l'Ikigai."
+    },
+    "step2": {
+      "title": "Analyse",
+      "description": "Notre algorithme analyse vos réponses en utilisant des cadres psychologiques établis pour identifier votre profil Ikigai unique."
+    },
+    "step3": {
+      "title": "Insights Personnalisés",
+      "description": "Recevez des recommandations détaillées, des suggestions de carrière et des étapes concrètes pour aligner votre vie avec votre but."
+    }
+  },
+  "readySection": {
+    "title": "Prêt à Trouver Votre But ?",
+    "subtitle": "Faites le premier pas vers une vie plus épanouissante. Découvrez votre Ikigai aujourd'hui.",
+    "startButton": "Commencer Votre Voyage"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "title": "Free Ikigai Type Test",
+  "subtitle": "Quick 5-Minute Personality Ikigai Test",
+  "description": "Discover your Ikigai personality type in just 5 minutes with our quick type test. Perfect for getting an initial understanding of your profile before taking the full Ikigai test.",
+  "previousButton": "Previous",
+  "nextButton": "Next",
+  "progressText": "Question {{current}} of {{total}}",
+  "resultsTitle": "Your Ikigai Type",
+  "resultsSubtitle": "Based on your responses, here's your personality type",
+  "primaryType": "Primary Type",
+  "secondaryType": "Secondary Type",
+  "learnMore": "Learn More About {{type}}",
+  "takeFullTest": "Take Full Ikigai Test",
+  "retakeTest": "Retake Type Test",
+  "questions": [
+    {
+      "question": "What motivates you most in life?",
+      "options": [
+        "Creating something beautiful or meaningful",
+        "Achieving ambitious goals and recognition",
+        "Making a positive impact on others",
+        "Discovering new experiences and knowledge",
+        "Building something lasting and valuable"
+      ]
+    },
+    {
+      "question": "How do you prefer to spend your free time?",
+      "options": [
+        "Engaging in creative activities",
+        "Working on personal or professional projects",
+        "Volunteering or helping others",
+        "Learning something new or traveling",
+        "Organizing and improving my environment"
+      ]
+    },
+    {
+      "question": "What type of work appeals to you most?",
+      "options": [
+        "Work that allows for self-expression",
+        "Roles with clear goals and success metrics",
+        "Positions that let me help others",
+        "Jobs that offer variety and new challenges",
+        "Roles that require planning and structuring"
+      ]
+    },
+    {
+      "question": "What is your greatest strength?",
+      "options": [
+        "Imagination and creativity",
+        "Determination and goal-orientation",
+        "Empathy and understanding others",
+        "Curiosity and adaptability",
+        "Organization and attention to detail"
+      ]
+    },
+    {
+      "question": "What makes you feel most fulfilled?",
+      "options": [
+        "Expressing my unique vision",
+        "Accomplishing a challenging goal",
+        "Seeing others thrive because of my help",
+        "Understanding something completely new",
+        "Completing a well-structured project"
+      ]
+    },
+    {
+      "question": "How do you handle problems?",
+      "options": [
+        "I look for innovative and creative solutions",
+        "I develop a strategic plan to overcome them",
+        "I seek support and consider how it affects others",
+        "I research different approaches and perspectives",
+        "I break the problem into manageable steps"
+      ]
+    },
+    {
+      "question": "What type of environment inspires you most?",
+      "options": [
+        "Artistic and creative spaces",
+        "Competitive and results-oriented environments",
+        "Places where I can connect with and help others",
+        "Diverse and stimulating environments",
+        "Organized and structured spaces"
+      ]
+    },
+    {
+      "question": "What's your approach to learning?",
+      "options": [
+        "I prefer learning through experimentation",
+        "I focus on skills that help me achieve my goals",
+        "I learn best when I can share knowledge",
+        "I like exploring many different topics",
+        "I prefer a systematic and structured approach"
+      ]
+    },
+    {
+      "question": "What gives you the most energy?",
+      "options": [
+        "Working on projects I'm passionate about",
+        "Overcoming challenges and achieving success",
+        "Making a difference in someone's life",
+        "Discovering new possibilities",
+        "Creating order and efficiency"
+      ]
+    },
+    {
+      "question": "How do you see yourself in 5 years?",
+      "options": [
+        "Creating work that inspires others",
+        "Having achieved leadership positions",
+        "Having positively impacted many lives",
+        "Having explored new fields and experiences",
+        "Having built something lasting and important"
+      ]
+    },
+    {
+      "question": "Your approach to personal growth involves:",
+      "options": [
+        "Exploring your inner world and creativity",
+        "Setting and achieving bigger goals",
+        "Developing deeper relationships",
+        "Learning from diverse experiences",
+        "Building skills and expertise"
+      ]
+    },
+    {
+      "question": "In stressful situations, you tend to:",
+      "options": [
+        "Withdraw and reflect deeply",
+        "Push harder toward your goals",
+        "Reach out to others for support",
+        "Seek new perspectives and solutions",
+        "Create structure and organize your approach"
+      ]
+    },
+    {
+      "question": "Your definition of success includes:",
+      "options": [
+        "Creating something meaningful that reflects your values",
+        "Achieving recognition and reaching your ambitious goals",
+        "Making a positive difference in people's lives",
+        "Having rich experiences and continuous learning",
+        "Building something lasting and valuable"
+      ]
+    }
+  ],
+  "typeDescriptions": {
+    "dreamer": {
+      "name": "The Dreamer",
+      "description": "You are a visionary full of imagination, depth, and untapped ideas. You feel most alive when you can envision positive futures and inspire others toward a better version of reality."
+    },
+    "achiever": {
+      "name": "The Achiever", 
+      "description": "You are a goal-oriented person with a strong drive to succeed. You feel most fulfilled when you overcome challenges and achieve ambitious goals that others consider impossible."
+    },
+    "helper": {
+      "name": "The Helper",
+      "description": "You are a naturally empathetic person who finds purpose in lifting others up. You feel most energized when you can support, nurture, and help others reach their potential."
+    },
+    "explorer": {
+      "name": "The Explorer",
+      "description": "You are a curious and adaptable person who thrives on novelty and discovery. You feel most alive when exploring new ideas, places, and possibilities."
+    },
+    "builder": {
+      "name": "The Builder",
+      "description": "You are a practical and systems-oriented person who finds purpose in creating lasting structures. You feel most satisfied when you can build, organize, and improve the systems around your life."
+    }
+  },
+  "seo": {
+    "title": "Free Ikigai Type Test - Discover Your Ikigai Personality | 5 Minutes",
+    "description": "Take our free Ikigai type test in 5 minutes. Discover if you're a Dreamer, Achiever, Helper, Explorer, or Builder. Free personality test based on Japanese philosophy.",
+    "keywords": "ikigai type test, ikigai personality test, free ikigai test, ikigai personality types, quick ikigai test",
+    "ogTitle": "Free Ikigai Type Test - 5 Minutes | Discover Your Personality",
+    "ogDescription": "Quick and free test to discover your Ikigai personality type. Instant results with personalized recommendations."
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "title": "Ikigai Test",
+  "subtitle": "Discover your life's purpose",
+  "description": "Answer these questions honestly to discover your unique Ikigai",
+  "instruction": "Choose the option that best describes you.",
+  "instructions": {
+    "title": "Instructions",
+    "points": [
+      "Answer all questions honestly",
+      "There are no right or wrong answers",
+      "Trust your first instinct",
+      "Take time to reflect on each question"
+    ]
+  },
+  "progress": {
+    "question": "Question {{current}} of {{total}}",
+    "completed": "{{percentage}}% completed"
+  },
+  "questions": {
+    "categories": {
+      "passion": "Passion",
+      "mission": "Mission", 
+      "profession": "Profession",
+      "vocation": "Vocation"
+    }
+  },
+  "answers": {
+    "scale": {
+      "1": "Strongly disagree",
+      "2": "Disagree", 
+      "3": "Neutral",
+      "4": "Agree",
+      "5": "Strongly agree"
+    },
+    "required": "Please select an answer",
+    "placeholder": "Share your thoughts..."
+  },
+  "navigation": {
+    "previous": "Previous",
+    "next": "Next",
+    "finish": "Finish test",
+    "skip": "Skip question"
+  },
+  "completion": {
+    "title": "Test Completed!",
+    "description": "Your Ikigai results are ready",
+    "message": "Processing your responses to generate your personalized Ikigai profile...",
+    "processing": "Analyzing results...",
+    "redirect": "Redirecting to your results..."
+  },
+  "errors": {
+    "startSession": "Failed to start test session",
+    "completeTest": "Failed to complete test",
+    "saveAnswer": "Failed to save answer"
+  },
+  "buttons": {
+    "previous": "Previous",
+    "next": "Next",
+    "completeTest": "Complete Test",
+    "completing": "Completing Test...",
+    "processingMessage": "Processing your answers and generating your Ikigai analysis..."
+  },
+  "testQuestions": {
+    "13": {
+      "text": "When you have some free time, you prefer to:",
+      "options": {
+        "133": "Read a book or dive into a documentary",
+        "134": "Go for a run or hit the gym",
+        "135": "Finally tackle that DIY project that's been bugging you",
+        "136": "Catch up with friends over coffee"
+      }
+    },
+    "14": {
+      "text": "Your friend is moving to a new place and needs help. You offer to:",
+      "options": {
+        "137": "Research the best neighborhoods and schools",
+        "138": "Help them pack and organize their belongings",
+        "139": "Create a vision board for their new space",
+        "140": "Connect them with reliable movers and services"
+      }
+    },
+    "15": {
+      "text": "At a social event, you often:",
+      "options": {
+        "141": "Share interesting articles or ideas you've discovered",
+        "142": "Organize activities or games for everyone",
+        "143": "Tell stories that inspire or entertain",
+        "144": "Make sure everyone feels included and comfortable"
+      }
+    },
+    "16": {
+      "text": "When faced with a problem, your first instinct is to:",
+      "options": {
+        "145": "Research and gather information",
+        "146": "Create a step-by-step plan",
+        "147": "Think outside the box for creative solutions",
+        "148": "Ask others for their perspectives and help"
+      }
+    },
+    "17": {
+      "text": "Your coworker asks for advice on improving their workspace. You suggest:",
+      "options": {
+        "149": "Looking up ergonomic studies and productivity research",
+        "150": "Organizing and decluttering systematically",
+        "151": "Adding plants, art, or inspiring decorations",
+        "152": "Creating a space that encourages collaboration"
+      }
+    },
+    "18": {
+      "text": "During a job meeting, you often:",
+      "options": {
+        "153": "Bring up relevant data or case studies",
+        "154": "Keep everyone on track with the agenda",
+        "155": "Suggest innovative approaches to challenges",
+        "156": "Ensure all voices are heard and valued"
+      }
+    },
+    "19": {
+      "text": "When traveling, you are most excited about:",
+      "options": {
+        "157": "Learning about local history and culture",
+        "158": "Planning efficient itineraries and logistics",
+        "159": "Discovering hidden gems and unique experiences",
+        "160": "Meeting locals and making new connections"
+      }
+    },
+    "20": {
+      "text": "Your friends describe you as:",
+      "options": {
+        "161": "The one who always has interesting facts",
+        "162": "The reliable organizer who gets things done",
+        "163": "The creative dreamer with big ideas",
+        "164": "The caring friend who's always there to help"
+      }
+    },
+    "21": {
+      "text": "At work, you're most energized by:",
+      "options": {
+        "165": "Diving deep into research and analysis",
+        "166": "Completing projects efficiently and effectively",
+        "167": "Brainstorming and exploring new possibilities",
+        "168": "Collaborating and supporting team members"
+      }
+    },
+    "22": {
+      "text": "Your favorite type of book or movie is:",
+      "options": {
+        "169": "Documentaries or non-fiction that teach something new",
+        "170": "Thrillers or mysteries with clear resolutions",
+        "171": "Fantasy or sci-fi that explores new worlds",
+        "172": "Stories about human relationships and emotions"
+      }
+    },
+    "23": {
+      "text": "When planning for the future, what's on your mind?",
+      "options": {
+        "173": "Staying curious and continuing to learn",
+        "174": "Building stability and achieving concrete goals",
+        "175": "Pursuing dreams and making a meaningful impact",
+        "176": "Creating positive relationships and community"
+      }
+    },
+    "24": {
+      "text": "When buying a gift, you tend to:",
+      "options": {
+        "177": "Research the perfect item based on their interests",
+        "178": "Choose something practical they'll actually use",
+        "179": "Pick something unique or personally meaningful",
+        "180": "Ask others for suggestions to make sure it's right"
+      }
+    },
+    "25": {
+      "text": "Your dream job involves:",
+      "options": {
+        "181": "Continuous learning and intellectual challenges",
+        "182": "Clear objectives and tangible results",
+        "183": "Creative freedom and visionary thinking",
+        "184": "Making a difference in people's lives"
+      }
+    },
+    "26": {
+      "text": "At work, you're often asked to:",
+      "options": {
+        "185": "Provide insights and expertise on complex topics",
+        "186": "Lead projects and ensure they're completed on time",
+        "187": "Come up with creative solutions to challenges",
+        "188": "Mediate conflicts and support team dynamics"
+      }
+    },
+    "27": {
+      "text": "On a road trip with friends, you're the one who:",
+      "options": {
+        "189": "Researches interesting stops and local attractions",
+        "190": "Plans the route and manages the logistics",
+        "191": "Suggests spontaneous detours and adventures",
+        "192": "Keeps everyone's spirits up and resolves conflicts"
+      }
+    },
+    "28": {
+      "text": "When trying out a new hobby, you're drawn to:",
+      "options": {
+        "193": "Activities that challenge your intellect",
+        "194": "Crafts or skills that produce tangible results",
+        "195": "Artistic or expressive pursuits",
+        "196": "Group activities that involve helping others"
+      }
+    },
+    "29": {
+      "text": "Your friends would describe you as:",
+      "options": {
+        "197": "The knowledgeable one who loves learning",
+        "198": "The dependable one who gets things done",
+        "199": "The visionary one with inspiring ideas",
+        "200": "The supportive one who cares about everyone"
+      }
+    },
+    "30": {
+      "text": "When cooking something special, you:",
+      "options": {
+        "201": "Research authentic recipes and techniques",
+        "202": "Follow a proven recipe step-by-step",
+        "203": "Experiment with creative flavor combinations",
+        "204": "Cook something you know your guests will love"
+      }
+    }
+  }
+}

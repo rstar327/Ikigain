@@ -1,0 +1,127 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ikigain.org/sitemap.xml
+
+# Allow all important pages for SEO indexing
+Allow: /
+Allow: /home
+Allow: /about
+Allow: /what-is-ikigai
+Allow: /ikigai-personality-types
+Allow: /privacy
+Allow: /terms
+
+# Test pages
+Allow: /test
+Allow: /full-ikigai-test
+Allow: /ikigai-test
+Allow: /ikigai-type-test
+
+# Individual personality type pages (Quick Type Test)
+Allow: /ikigai-types/builder
+Allow: /ikigai-types/explorer
+Allow: /ikigai-types/dreamer
+Allow: /ikigai-types/achiever
+Allow: /ikigai-types/helper
+
+# Individual personality type pages (Main Ikigai Test)
+Allow: /ikigai-types/creative-enthusiast
+Allow: /ikigai-types/skilled-expert
+Allow: /ikigai-types/purpose-driven-leader
+Allow: /ikigai-types/career-focused-achiever
+
+# Blog pages
+Allow: /blog
+Allow: /blog/*
+
+# Positive Words pages (all 26 letters)
+Allow: /positive-words
+Allow: /positive-words-that-start-with-a
+Allow: /positive-words-that-start-with-b
+Allow: /positive-words-that-start-with-c
+Allow: /positive-words-that-start-with-d
+Allow: /positive-words-that-start-with-e
+Allow: /positive-words-that-start-with-f
+Allow: /positive-words-that-start-with-g
+Allow: /positive-words-that-start-with-h
+Allow: /positive-words-that-start-with-i
+Allow: /positive-words-that-start-with-j
+Allow: /positive-words-that-start-with-k
+Allow: /positive-words-that-start-with-l
+Allow: /positive-words-that-start-with-m
+Allow: /positive-words-that-start-with-n
+Allow: /positive-words-that-start-with-o
+Allow: /positive-words-that-start-with-p
+Allow: /positive-words-that-start-with-q
+Allow: /positive-words-that-start-with-r
+Allow: /positive-words-that-start-with-s
+Allow: /positive-words-that-start-with-t
+Allow: /positive-words-that-start-with-u
+Allow: /positive-words-that-start-with-v
+Allow: /positive-words-that-start-with-w
+Allow: /positive-words-that-start-with-x
+Allow: /positive-words-that-start-with-y
+Allow: /positive-words-that-start-with-z
+
+# Shop pages
+Allow: /shop
+Allow: /shop/checkout
+Allow: /shop/success
+
+# Spanish versions of all pages
+Allow: /es/
+Allow: /es/home
+Allow: /es/about
+Allow: /es/what-is-ikigai
+Allow: /es/ikigai-personality-types
+Allow: /es/privacy
+Allow: /es/terms
+Allow: /es/test
+Allow: /es/full-ikigai-test
+Allow: /es/ikigai-test
+Allow: /es/ikigai-type-test
+Allow: /es/ikigai-types/
+Allow: /es/blog
+Allow: /es/blog/*
+Allow: /es/shop
+Allow: /es/shop/checkout
+Allow: /es/shop/success
+
+# Disallow admin, API, and internal pages
+Disallow: /admin/
+Disallow: /api/
+Disallow: /dev-admin-login
+Disallow: /login-test
+Disallow: /test-simple
+Disallow: /test-access
+Disallow: /email-collection/
+Disallow: /results/
+Disallow: /test-results/
+Disallow: /premium-results/
+Disallow: /premium-test-results/
+Disallow: /dashboard
+Disallow: /upsell
+Disallow: /upgrade
+Disallow: /premium-features
+Disallow: /checkout
+Disallow: /_next/
+Disallow: /src/
+Disallow: /es/admin/
+Disallow: /es/email-collection/
+Disallow: /es/results/
+Disallow: /es/test-results/
+Disallow: /es/premium-results/
+Disallow: /es/premium-test-results/
+Disallow: /es/dashboard
+Disallow: /es/upsell
+Disallow: /es/upgrade
+Disallow: /es/premium-features
+Disallow: /es/checkout
+
+# Allow important files
+Allow: /favicon.ico
+Allow: /manifest.json
+Allow: /sitemap.xml
+Allow: /robots.txt

@@ -1,0 +1,170 @@
+{
+  "seo": {
+    "title": "Free Ikigai Test - Discover Your Reason for Being | What is Ikigai Quiz",
+    "description": "Take our free Ikigai test to discover what is Ikigai and find your life purpose. Free Ikigai quiz helps you explore your reason for being with this comprehensive Ikigai assessment.",
+    "keywords": "ikigai test, free ikigai test, ikigai quiz, what is ikigai, ikigai test free, free ikigai quiz, ikigai meaning, ikigai questionnaire, ikigai career test, life purpose test",
+    "ogTitle": "Discover Your Ikigai: Take the Journey to Find Your True Self",
+    "ogDescription": "Ever ask yourself, 'What truly makes me happy?' or 'What's my purpose?' Take our free Ikigai test to discover your reason for being."
+  },
+  "hero": {
+    "title": "Free Ikigai Test - Discover Your Reason for Being",
+    "subtitle": "What is Ikigai? Take Our Free Ikigai Quiz",
+    "question1": "Ever ask yourself, \"What truly makes me happy?\" or \"What's my purpose?\"",
+    "personalStory": "I used to feel lost too — until I discovered",
+    "ikigaiMeaning": "Ikigai",
+    "ikigaiDefinition": "the Japanese concept meaning \"a reason for being.\"",
+    "impact": "It changed how I live, and now I've created a simple",
+    "testDescription": "free Ikigai test",
+    "purpose": "to help you find your own Ikigai through this comprehensive",
+    "comprehensiveQuiz": "Ikigai quiz",
+    "cta": "Take the Free Ikigai Test"
+  },
+  "whatIsIkigai": {
+    "title": "So, what is Ikigai?",
+    "description": "What is Ikigai? Ikigai is a Japanese concept meaning \"reason for being\" - it's about finding the balance between four essential areas of life:",
+    "whatYouLove": {
+      "title": "What You Love",
+      "description": "Your passions and interests."
+    },
+    "whatWorldNeeds": {
+      "title": "What the World Needs",
+      "description": "Your contribution to society."
+    },
+    "whatYouCanBePaidFor": {
+      "title": "What You Can Be Paid For",
+      "description": "Your career and financial security."
+    },
+    "whatYouAreGoodAt": {
+      "title": "What You're Good At",
+      "description": "Your skills and strengths."
+    },
+    "sweetSpot": "The sweet spot where these four areas overlap is your Ikigai—your true purpose that brings you joy and fulfillment.",
+    "ourTest": "Our free Ikigai test is a comprehensive tool designed to help you uncover this unique combination in your life.",
+    "searchingText": "If you've been searching for how to find Ikigai or wondering \"what is Ikigai,\" this free Ikigai quiz and Ikigai assessment is perfect for you."
+  },
+  "howItWorks": {
+    "title": "How Does Our Free Ikigai Test Work?",
+    "description": "It's simple! Our free Ikigai test guides you through reflective questions that explore your passions, strengths, values, and how these align with the world around you.",
+    "visualization": "Through this free Ikigai quiz, you'll be able to visualize your Ikigai—that powerful intersection where happiness and purpose meet.",
+    "benefits": "Many find that this Ikigai test free assessment not only clarifies their personal purpose but also helps align their career with their values.",
+    "cta": "Start Your Journey"
+  },
+  "needTest": {
+    "title": "Do you need this Free Ikigai Test?",
+    "description": "Definitely! Whether you're at the beginning of your self-discovery journey, navigating a tough life transition, or simply wanting to understand \"what is Ikigai\" better, this free Ikigai test will guide you to greater clarity and direction.",
+    "outcome": "It's a step towards uncovering what truly drives you, and it can help you reassess your career path with the insights gained from this comprehensive free Ikigai quiz."
+  },
+  "whatYouDiscover": {
+    "title": "Unlock the key to a meaningful life with our Free Ikigai Test",
+    "description": "This free Ikigai quiz will help you learn about your strengths, passions, and purpose. Here's what you'll discover:",
+    "coreStrengths": {
+      "title": "Your Core Strengths",
+      "description": "You'll uncover the skills and qualities that make you unique—your natural talents and abilities that set you apart from others. Whether it's your problem-solving skills, creativity, leadership abilities, or interpersonal talents, this test will reveal what you excel at and how to leverage it in your life and career.",
+      "example": "Example Insight: You are a natural leader, driven by a desire to inspire and motivate those around you. Your ability to communicate and build relationships is one of your greatest strengths.",
+      "cardTitle": "Discover Your Unique Abilities"
+    },
+    "whatDrivesYou": {
+      "title": "What Drives You",
+      "description": "This test will help you identify what truly excites and energizes you—the activities and passions that light you up inside. You'll discover how to align these passions with your daily life to feel more fulfilled and motivated.",
+      "example": "Example Insight: You thrive when you're creating something new, whether it's through art, problem-solving, or bringing fresh ideas to life. Your passion for innovation makes you stand out.",
+      "cardTitle": "Uncover Your Passions"
+    },
+    "missionPurpose": {
+      "title": "Your Mission and Purpose",
+      "description": "Find out how you can contribute to the world in a way that aligns with your values. You'll uncover how your passions and skills intersect with what the world needs, giving you a clear sense of purpose.",
+      "example": "Example Insight: You are driven by a strong sense of purpose and the desire to make a positive impact. Whether it's through helping others or addressing global challenges, your mission is to create meaningful change.",
+      "cardTitle": "Find Your Mission"
+    },
+    "vocation": {
+      "title": "Your Vocation",
+      "description": "Learn how to turn your passions and skills into a sustainable career. You'll discover career opportunities that not only pay the bills but also feed your soul, creating a perfect balance between purpose and prosperity.",
+      "example": "Example Insight: Your ability to connect with others and create innovative solutions makes you ideal for roles in consulting, coaching, or social entrepreneurship. You can build a career that's both financially rewarding and personally meaningful.",
+      "cardTitle": "Build Your Career"
+    }
+  },
+  "readyToStart": {
+    "title": "Ready to Get Started?",
+    "description": "Your journey to finding your Ikigai starts with a single step. Our free Ikigai test is designed to be reflective, insightful, and most importantly, transformative.",
+    "takeTime": "Take your time with each question, and remember: there are no wrong answers, only honest insights about who you truly are.",
+    "cta": "Start the Free Ikigai Test"
+  },
+  "testimonials": {
+    "title": "What People Say About Our Ikigai Test",
+    "sarah": {
+      "quote": "This free Ikigai test helped me realize that my true passion was in sustainable design. I've never been happier in my career.",
+      "name": "Sarah M.",
+      "role": "UX Designer"
+    },
+    "david": {
+      "quote": "I was stuck in corporate consulting for years. This quiz showed me that my calling was in education and social impact.",
+      "name": "David L.",
+      "role": "Social Impact Consultant"
+    },
+    "maria": {
+      "quote": "After 15 years in marketing, I discovered my Ikigai in food sustainability. Now I run my own consultancy.",
+      "name": "María R.",
+      "role": "Sustainability Consultant"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions About the Ikigai Test",
+    "q1": "How long does the test take?",
+    "a1": "The free Ikigai test typically takes 10-15 minutes to complete. There are 18 thoughtful questions, and we recommend taking your time with each one.",
+    "q2": "Is it really free?",
+    "a2": "Yes, our basic Ikigai test is completely free. You'll receive valuable insights about your purpose and personality type at no cost.",
+    "q3": "What makes this test different?",
+    "a3": "Our test is based on the authentic Japanese concept of Ikigai, not just Western personality tests. It focuses on the intersection of passion, skill, purpose, and financial sustenance.",
+    "q4": "Can I retake the test?",
+    "a4": "Absolutely. We recommend retaking the test every 6-12 months as your Ikigai can evolve as you grow and change."
+  },
+  "readyToStart": {
+    "title": "Ready to Get Started?",
+    "description": "Your journey to finding your Ikigai starts with a single step. Our free Ikigai test is designed to be reflective, insightful, and most importantly, transformative.",
+    "takeTime": "Take your time with each question, and remember: there are no wrong answers, only honest insights about who you truly are.",
+    "cta": "Start the Free Ikigai Test"
+  },
+  "actionPlan": {
+    "title": "A Personalized Roadmap for Action",
+    "description": "We don't just stop at insights! After completing the test, you'll receive a step-by-step action plan tailored to your results. This plan is designed to help you take small, meaningful steps toward aligning your life with your Ikigai.",
+    "exampleTitle": "Your Free Ikigai Test Action Plan Example:",
+    "phase1": {
+      "title": "1-3 Months:",
+      "description": "Start exploring your passions through small projects, hobbies, or volunteer work."
+    },
+    "phase2": {
+      "title": "3-6 Months:",
+      "description": "Build deeper connections with like-minded individuals or begin developing new skills related to your Mission."
+    },
+    "phase3": {
+      "title": "6-12 Months:",
+      "description": "Seek advanced opportunities, like certifications, career transitions, or long-term projects that align with your Ikigai."
+    },
+    "phase4": {
+      "title": "Beyond 12 Months:",
+      "description": "Integrate your Ikigai fully into your life by pursuing meaningful work and mentoring others."
+    }
+  },
+  "testimonials": {
+    "title": "What People Say About Our Ikigai Test",
+    "sarah": {
+      "quote": "This free Ikigai test helped me realize that my true passion was in sustainable design. I've never been happier in my career.",
+      "name": "Sarah M.",
+      "role": "UX Designer"
+    },
+    "david": {
+      "quote": "I was stuck in corporate consulting for years. This quiz showed me that my calling was in education and social impact.",
+      "name": "David L.",
+      "role": "Social Impact Consultant"
+    },
+    "maria": {
+      "quote": "After 15 years in marketing, I discovered my Ikigai in food sustainability. Now I run my own consultancy.",
+      "name": "María R.",
+      "role": "Sustainability Consultant"
+    }
+  },
+  "finalCTA": {
+    "title": "Your Ikigai is Waiting",
+    "description": "Don't wait any longer to discover your reason for being. Join thousands who have found clarity, purpose, and direction through our free Ikigai test.",
+    "cta": "Discover Your Ikigai Now"
+  }
+}

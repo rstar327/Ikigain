@@ -1,0 +1,413 @@
+{
+  "pageTitle": "Tipos de personalidad Ikigai",
+  "pageDescription": "Descubre los cinco tipos únicos de personalidad Ikigai y cómo cada uno encuentra su propósito de vida",
+  "heroTitle": "Los 5 tipos de personalidad Ikigai",
+  "heroSubtitle": "Cada persona encuentra su propósito de manera única",
+  "dominant": "Dominante",
+  "characteristics": "Características clave",
+  "strengths": "Fortalezas",
+  "challenges": "Áreas de crecimiento",
+  "careerPaths": "Mejores coincidencias profesionales",
+  "developmentTips": "Consejos de desarrollo",
+  "match": "coincidencia",
+  "salary": "Salario",
+  "builder": {
+    "name": "El Constructor",
+    "title": "El Constructor - Tipo de personalidad Ikigai",
+    "description": "Los Constructores encuentran propósito creando sistemas tangibles y estructuras duraderas",
+    "coreDescription": "Te sientes más realizado cuando construyes algo significativo, ya sea un sistema, un negocio, una familia o un legado. Tu Ikigai proviene del progreso constante hacia una visión a largo plazo.",
+    "purposeSourceTitle": "Tu Fuente de Propósito",
+    "purposeSourceDescription": "Tu Ikigai fluye de crear un impacto duradero a través de la construcción sistemática y reflexiva de algo significativo.",
+    "coreStrengths": "Fortalezas principales",
+    "strengths": [
+      "Pensamiento sistemático y enfoque estructurado",
+      "Habilidades prácticas de resolución de problemas",
+      "Fuerte orientación hacia resultados tangibles",
+      "Excelentes habilidades organizativas y de planificación"
+    ],
+    "challenges": "Desafíos comunes",
+    "challengesList": [
+      "Puede sentirse frustrado con conceptos abstractos",
+      "Prefiere la estabilidad al cambio",
+      "Puede ser demasiado enfocado en los detalles"
+    ],
+    "nurturing": "Cómo nutrir tu tipo Constructor",
+    "nurturingTips": [
+      "Busca proyectos con resultados tangibles",
+      "Desarrolla sistemas y procesos que otros puedan usar",
+      "Encuentra formas de construir algo duradero"
+    ],
+    "journaling": "Preguntas de reflexión",
+    "journalingPrompts": [
+      "¿Qué sistemas o estructuras has construido de los que te sientes orgulloso?",
+      "¿Cómo puedes usar tus habilidades organizativas para ayudar a otros?",
+      "¿Qué proyecto tangible te gustaría crear?"
+    ],
+    "ctaTitle": "¿Listo para construir tu Ikigai?",
+    "ctaDescription": "Toma nuestro test integral de Ikigai para descubrir tu camino único hacia el propósito y la realización.",
+    "takeFullTest": "Tomar el Test de Ikigai",
+    "takeQuickTest": "Test Gratuito de Tipo Ikigai"
+  },
+  "explorer": {
+    "name": "El Explorador",
+    "title": "El Explorador - Tipo de personalidad Ikigai",
+    "description": "Los Exploradores encuentran propósito descubriendo nuevas ideas, lugares y posibilidades",
+    "coreDescription": "Tu Ikigai vive en la exploración, ya sea de nuevos lugares, nuevas ideas o nuevas partes de ti mismo. Prosperás cuando estás expandiendo tu mundo y aprendiendo de la experiencia.",
+    "purposeSourceTitle": "Tu Fuente de Propósito",
+    "purposeSourceDescription": "Tu Ikigai fluye de la alegría del descubrimiento y la expansión continua de tu comprensión y experiencia.",
+    "coreStrengths": "Fortalezas principales",
+    "strengths": [
+      "Curiosidad natural y amor por el aprendizaje",
+      "Adaptabilidad y flexibilidad",
+      "Pensamiento innovador y creatividad",
+      "Apertura a nuevas experiencias"
+    ],
+    "challenges": "Desafíos comunes",
+    "challengesList": [
+      "Puede tener dificultades con la rutina",
+      "Tendencia a comenzar muchos proyectos sin terminar",
+      "Puede sentirse inquieto en entornos tradicionales"
+    ],
+    "nurturing": "Cómo nutrir tu tipo Explorador",
+    "nurturingTips": [
+      "Busca variedad en tu trabajo y vida personal",
+      "Abraza oportunidades de aprendizaje continuo",
+      "Encuentra formas de compartir tus descubrimientos"
+    ],
+    "journaling": "Preguntas de reflexión",
+    "journalingPrompts": [
+      "¿Qué nuevas ideas o experiencias te han emocionado recientemente?",
+      "¿Cómo puedes incorporar más exploración en tu vida diaria?",
+      "¿Qué te gustaría descubrir o aprender a continuación?"
+    ],
+    "ctaTitle": "¿Listo para explorar tu Ikigai?",
+    "ctaDescription": "Toma nuestro test integral de Ikigai para descubrir tu camino único hacia el propósito y la realización.",
+    "takeFullTest": "Tomar el Test de Ikigai",
+    "takeQuickTest": "Test Gratuito de Tipo Ikigai"
+  },
+  "dreamer": {
+    "name": "El Soñador",
+    "title": "El Soñador - Tipo de personalidad Ikigai",
+    "description": "Los Soñadores encuentran propósito visualizando e inspirando futuros positivos",
+    "coreDescription": "Eres un visionario, lleno de imaginación, profundidad e ideas sin explotar. Te sientes más vivo cuando estás creando algo nuevo o inspirando a otros con tu perspectiva única.",
+    "purposeSourceTitle": "Tu Fuente de Propósito",
+    "purposeSourceDescription": "Tu Ikigai fluye de tu capacidad para visualizar posibilidades que aún no existen e inspirar a otros a creer en esas posibilidades.",
+    "coreStrengths": "Fortalezas principales",
+    "strengths": [
+      "Visión creativa e imaginación",
+      "Capacidad para inspirar y motivar a otros",
+      "Perspectiva única y pensamiento original",
+      "Fuerte intuición y perspicacia"
+    ],
+    "challenges": "Desafíos comunes",
+    "challengesList": [
+      "Puede tener dificultades para convertir ideas en acción",
+      "Tiende a perderse en pensamientos",
+      "Puede ser demasiado idealista"
+    ],
+    "nurturing": "Cómo nutrir tu tipo Soñador",
+    "nurturingTips": [
+      "Encuentra formas de materializar tus visiones",
+      "Busca colaboradores que complementen tus habilidades",
+      "Practica técnicas de mindfulness para mantener el enfoque"
+    ],
+    "journaling": "Preguntas de reflexión",
+    "journalingPrompts": [
+      "¿Qué futuro positivo visualizas para ti mismo o para el mundo?",
+      "¿Cómo puedes dar pequeños pasos hacia hacer realidad tus sueños?",
+      "¿Qué aspectos de tu visión te inspiran más?"
+    ],
+    "ctaTitle": "¿Listo para soñar tu Ikigai?",
+    "ctaDescription": "Toma nuestro test integral de Ikigai para descubrir tu camino único hacia el propósito y la realización.",
+    "takeFullTest": "Tomar el Test de Ikigai",
+    "takeQuickTest": "Test Gratuito de Tipo Ikigai"
+  },
+  "achiever": {
+    "name": "El Triunfador",
+    "title": "El Triunfador - Tipo de personalidad Ikigai",
+    "description": "Los Triunfadores encuentran propósito alcanzando metas ambiciosas y superando desafíos",
+    "coreDescription": "Estás impulsado por el logro y la satisfacción de alcanzar tus metas. Tu Ikigai proviene de empujar límites y lograr lo que otros podrían considerar imposible.",
+    "purposeSourceTitle": "Tu Fuente de Propósito",
+    "purposeSourceDescription": "Tu Ikigai fluye de la búsqueda de la excelencia y la satisfacción de superar desafíos que te importan.",
+    "coreStrengths": "Fortalezas principales",
+    "strengths": [
+      "Fuerte orientación hacia objetivos",
+      "Determinación y persistencia",
+      "Espíritu competitivo natural",
+      "Excelentes habilidades de liderazgo"
+    ],
+    "challenges": "Desafíos comunes",
+    "challengesList": [
+      "Puede ser demasiado enfocado en resultados",
+      "Tendencia a descuidar el equilibrio vida-trabajo",
+      "Puede ser impaciente con procesos lentos"
+    ],
+    "nurturing": "Cómo nutrir tu tipo Triunfador",
+    "nurturingTips": [
+      "Establece metas desafiantes pero alcanzables",
+      "Celebra tanto el progreso como los resultados finales",
+      "Busca oportunidades de liderazgo y mentoría"
+    ],
+    "journaling": "Preguntas de reflexión",
+    "journalingPrompts": [
+      "¿Qué logros te han dado más satisfacción y por qué?",
+      "¿Cómo puedes usar tus habilidades de liderazgo para ayudar a otros?",
+      "¿Qué objetivo desafiante te gustaría perseguir a continuación?"
+    ],
+    "ctaTitle": "¿Listo para lograr tu Ikigai?",
+    "ctaDescription": "Toma nuestro test integral de Ikigai para descubrir tu camino único hacia el propósito y la realización.",
+    "takeFullTest": "Tomar el Test de Ikigai",
+    "takeQuickTest": "Test Gratuito de Tipo Ikigai"
+  },
+  "helper": {
+    "name": "El Ayudante",
+    "title": "El Ayudante - Tipo de personalidad Ikigai",
+    "description": "Los Ayudantes encuentran propósito apoyando y elevando a otros",
+    "coreDescription": "Te sientes naturalmente atraído a ayudar a otros y marcar una diferencia positiva en sus vidas. Tu Ikigai proviene de la profunda satisfacción de saber que has contribuido al bienestar de alguien más.",
+    "purposeSourceTitle": "Tu Fuente de Propósito",
+    "purposeSourceDescription": "Tu Ikigai fluye del cuidado genuino que sientes por otros y la alegría que experimentas al hacer sus vidas mejores.",
+    "coreStrengths": "Fortalezas principales",
+    "strengths": [
+      "Profunda empatía y comprensión",
+      "Excelentes habilidades de comunicación",
+      "Fuerte orientación hacia el servicio",
+      "Capacidad natural para crear conexiones"
+    ],
+    "challenges": "Desafíos comunes",
+    "challengesList": [
+      "Puede descuidar sus propias necesidades",
+      "Tendencia a asumir demasiadas responsabilidades",
+      "Puede tener dificultades para establecer límites"
+    ],
+    "nurturing": "Cómo nutrir tu tipo Ayudante",
+    "nurturingTips": [
+      "Practica el autocuidado y establece límites saludables",
+      "Busca roles donde puedas hacer una diferencia significativa",
+      "Conecta con otros que compartan tus valores"
+    ],
+    "journaling": "Preguntas de reflexión",
+    "journalingPrompts": [
+      "¿Cuándo te has sentido más satisfecho ayudando a otros?",
+      "¿Cómo puedes cuidar mejor de ti mismo mientras sirves a otros?",
+      "¿Qué causa o comunidad te gustaría apoyar más?"
+    ],
+    "ctaTitle": "¿Listo para ayudar con tu Ikigai?",
+    "ctaDescription": "Toma nuestro test integral de Ikigai para descubrir tu camino único hacia el propósito y la realización.",
+    "takeFullTest": "Tomar el Test de Ikigai",
+    "takeQuickTest": "Test Gratuito de Tipo Ikigai"
+  },
+  "mainPageTitle": "Tipos de personalidad Ikigai - Guía completa de los 4 tipos principales",
+  "mainPageDescription": "Descubre los 4 tipos principales de personalidad Ikigai y sus características. Aprende cómo cada tipo aborda la pasión, misión, vocación y profesión de manera diferente.",
+  "mainHeroTitle": "Tipos de personalidad",
+  "mainHeroSubtitle": "Descubre los cuatro tipos principales de personalidad Ikigai y comprende cómo tu área dominante moldea tu camino hacia el propósito y la realización.",
+  "discoverYourType": "Descubre tu tipo",
+  "understandingTitle": "Comprendiendo tu área dominante",
+  "understandingDescription": "Aunque todos tienen elementos de las cuatro áreas, tu área dominante revela tu principal fuente de motivación y realización.",
+  "detailedBreakdownTitle": "Desglose detallado de tipos",
+  "detailedBreakdownDescription": "Cada tipo de personalidad Ikigai tiene características únicas, fortalezas y desafíos. Comprende cómo estos tipos se manifiestan en la vida real.",
+  "characteristics": "Características",
+  "strengths": "Fortalezas",
+  "challenges": "Desafíos",
+  "careerPaths": "Trayectorias profesionales",
+  "developmentTips": "Consejos de desarrollo",
+  "match": "Compatibilidad",
+  "salary": "Salario",
+  "dominant": "Dominante",
+  "creativeEnthusiast": {
+    "name": "Entusiasta Creativo",
+    "description": "Impulsado por la pasión y la creatividad, prosperas en entornos que permiten la expresión artística y la innovación.",
+    "characteristics": [
+      "Altamente imaginativo y visionario",
+      "Valora la autoexpresión y autenticidad",
+      "Motivado por desafíos creativos",
+      "Disfruta experimentando con nuevas ideas",
+      "Encuentra energía en actividades artísticas"
+    ],
+    "strengths": [
+      "Resolución innovadora de problemas",
+      "Fuerte sentido estético",
+      "Habilidad para inspirar a otros",
+      "Habilidades naturales de narración",
+      "Pensamiento adaptable y flexible"
+    ],
+    "challenges": [
+      "Puede tener dificultades con tareas rutinarias",
+      "A veces dificultad con fechas límite",
+      "Puede ser sensible a la crítica",
+      "Puede carecer de perspicacia comercial",
+      "Propenso a bloqueos creativos"
+    ],
+    "careerPaths": [
+      { "title": "Diseñador UX/UI", "match": 92, "salary": "$65,000 - $120,000" },
+      { "title": "Director Creativo", "match": 88, "salary": "$80,000 - $150,000" },
+      { "title": "Terapeuta de Arte", "match": 85, "salary": "$45,000 - $80,000" },
+      { "title": "Creativo de Marketing", "match": 83, "salary": "$50,000 - $95,000" },
+      { "title": "Diseñador de Producto", "match": 80, "salary": "$70,000 - $130,000" }
+    ],
+    "developmentTips": [
+      "Practica técnicas de gestión del tiempo",
+      "Desarrolla habilidades comerciales y de marketing",
+      "Construye un portafolio sólido",
+      "Conecta con otros creativos",
+      "Aprende a recibir y actuar sobre comentarios"
+    ]
+  },
+  "skilledPractitioner": {
+    "name": "Practicante Especializado",
+    "description": "Sobresales a través del dominio y la experiencia, encontrando satisfacción en desarrollar y aplicar habilidades especializadas.",
+    "characteristics": [
+      "Orientado a los detalles y preciso",
+      "Disfruta dominar habilidades complejas",
+      "Valora la competencia y experiencia",
+      "Motivado por el aprendizaje continuo",
+      "Prefiere profundidad sobre amplitud"
+    ],
+    "strengths": [
+      "Trabajo de alta calidad",
+      "Fuertes habilidades analíticas",
+      "Excelentes habilidades de resolución de problemas",
+      "Confiable y consistente",
+      "Habilidades naturales de enseñanza"
+    ],
+    "challenges": [
+      "Puede quedarse atascado en perfeccionismo",
+      "Puede ser resistente al cambio",
+      "A veces tiene dificultades con la delegación",
+      "Puede carecer de perspectiva amplia",
+      "Propenso al agotamiento por exceso de trabajo"
+    ],
+    "careerPaths": [
+      { "title": "Ingeniero de Software", "match": 95, "salary": "$80,000 - $180,000" },
+      { "title": "Científico de Datos", "match": 92, "salary": "$90,000 - $200,000" },
+      { "title": "Especialista Médico", "match": 90, "salary": "$200,000 - $500,000" },
+      { "title": "Científico de Investigación", "match": 88, "salary": "$70,000 - $150,000" },
+      { "title": "Consultor Técnico", "match": 85, "salary": "$75,000 - $160,000" }
+    ],
+    "developmentTips": [
+      "Practica habilidades de delegación",
+      "Desarrolla habilidades de liderazgo",
+      "Construye conocimiento comercial más amplio",
+      "Aprende a gestionar el equilibrio vida-trabajo",
+      "Cultiva la mentalidad de crecimiento"
+    ]
+  },
+  "purposeDrivenHelper": {
+    "name": "Ayudante Impulsado por Propósito",
+    "description": "Encuentras significado ayudando a otros y contribuyendo a causas más grandes que tú mismo.",
+    "characteristics": [
+      "Fuertemente orientado a valores",
+      "Motivado por hacer la diferencia",
+      "Empático y compasivo",
+      "Enfocado en el impacto social",
+      "Encuentra energía ayudando a otros"
+    ],
+    "strengths": [
+      "Fuerte brújula moral",
+      "Excelentes habilidades interpersonales",
+      "Habilidad para motivar e inspirar",
+      "Pensamiento orientado a sistemas",
+      "Resistencia emocional"
+    ],
+    "challenges": [
+      "Puede descuidar necesidades personales",
+      "Propenso al agotamiento por compasión",
+      "A veces dificultad con límites",
+      "Puede ser demasiado idealista",
+      "Puede tener dificultades con conflictos"
+    ],
+    "careerPaths": [
+      { "title": "Trabajador Social", "match": 95, "salary": "$40,000 - $80,000" },
+      { "title": "Director de ONG", "match": 92, "salary": "$60,000 - $120,000" },
+      { "title": "Consejero/Terapeuta", "match": 90, "salary": "$50,000 - $100,000" },
+      { "title": "Consultor de Sostenibilidad", "match": 88, "salary": "$65,000 - $130,000" },
+      { "title": "Especialista en Políticas Públicas", "match": 85, "salary": "$55,000 - $110,000" }
+    ],
+    "developmentTips": [
+      "Practica el autocuidado regularmente",
+      "Establece límites saludables",
+      "Desarrolla habilidades de gestión de proyectos",
+      "Construye capacidades de recaudación de fondos",
+      "Aprende a medir y comunicar el impacto"
+    ]
+  },
+  "strategicAchiever": {
+    "name": "Triunfador Estratégico",
+    "description": "Encuentras propósito construyendo empresas exitosas y creando valor económico a través del pensamiento estratégico.",
+    "characteristics": [
+      "Orientado a objetivos y ambicioso",
+      "Pensador estratégico natural",
+      "Motivado por el crecimiento y éxito",
+      "Cómodo con riesgo y incertidumbre",
+      "Enfocado en resultados medibles"
+    ],
+    "strengths": [
+      "Fuerte acumen comercial",
+      "Excelentes habilidades de liderazgo",
+      "Pensamiento estratégico",
+      "Habilidades de gestión de riesgos",
+      "Capacidad para escalar sistemas"
+    ],
+    "challenges": [
+      "Puede descuidar el equilibrio vida-trabajo",
+      "A veces impaciente con procesos lentos",
+      "Puede ser demasiado competitivo",
+      "Riesgo de agotamiento por exceso de trabajo",
+      "Puede luchar con delegación"
+    ],
+    "careerPaths": [
+      { "title": "Emprendedor/CEO", "match": 95, "salary": "$80,000 - $500,000+" },
+      { "title": "Consultor de Estrategia", "match": 92, "salary": "$90,000 - $200,000" },
+      { "title": "Director de Producto", "match": 90, "salary": "$120,000 - $250,000" },
+      { "title": "Analista de Inversiones", "match": 88, "salary": "$80,000 - $200,000" },
+      { "title": "Director de Desarrollo de Negocio", "match": 85, "salary": "$85,000 - $180,000" }
+    ],
+    "developmentTips": [
+      "Cultiva la inteligencia emocional",
+      "Aprende a delegar efectivamente",
+      "Desarrolla habilidades de gestión de equipos",
+      "Practica la toma de decisiones basada en datos",
+      "Construye una red profesional sólida"
+    ]
+  },
+  "mixedTypes": {
+    "title": "Comprendiendo los tipos mixtos",
+    "description": "Muchas personas tienen puntuaciones equilibradas en múltiples áreas. Esto crea tipos híbridos únicos con sus propias fortalezas y oportunidades.",
+    "creativeExpert": {
+      "name": "Experto Creativo",
+      "description": "Alto en pasión y vocación, estos individuos sobresalen en campos creativos que requieren habilidad técnica.",
+      "tags": ["Diseño", "Innovación", "Maestría técnica"]
+    },
+    "socialEntrepreneur": {
+      "name": "Emprendedor Social",
+      "description": "Combinando misión y profesión, crean empresas con propósito e impacto social.",
+      "tags": ["Impacto", "Liderazgo", "Cambio social"]
+    },
+    "artisticHelper": {
+      "name": "Ayudante Artístico",
+      "description": "Unidos por pasión y misión, usan la creatividad para hacer una diferencia positiva.",
+      "tags": ["Creatividad", "Propósito", "Servicio"]
+    },
+    "strategicSpecialist": {
+      "name": "Especialista Estratégico",
+      "description": "Fuertes en vocación y profesión, dominan habilidades técnicas con acumen comercial.",
+      "tags": ["Experiencia", "Estrategia", "Resultados"]
+    },
+    "balancedVisionary": {
+      "name": "Visionario Equilibrado",
+      "description": "Con puntuaciones altas en todas las áreas, tienen potencial para el liderazgo transformacional.",
+      "tags": ["Liderazgo", "Visión", "Equilibrio"]
+    },
+    "emergingPurpose": {
+      "name": "Propósito Emergente",
+      "description": "Puntuaciones moderadas sugieren un ikigai en desarrollo con muchas posibilidades.",
+      "tags": ["Crecimiento", "Exploración", "Potencial"]
+    }
+  },
+  "callToAction": {
+    "title": "Descubre tu tipo de Ikigai",
+    "description": "Realiza nuestro test completo para descubrir qué tipo resuena más contigo",
+    "takeTest": "Haz el test",
+    "freeTest": "Prueba gratuita de tipo",
+    "fullAssessment": "Test completo de Ikigai"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "title": "About Us - Our Story | Ikigai Test - What is Ikigai",
+  "description": "Meet Sindy, founder of Ikigain. Learn how her personal journey with Japanese philosophy and Ikigai led to creating interactive Ikigai test tools and comprehensive life purpose discovery.",
+  "keywords": "about ikigain, sindy ikigai, ikigai founder, our story, ikigai platform, self-discovery tools",
+  "heroTitle": "About Ikigain",
+  "heroDescription": "Learn about our mission to help people discover their life's purpose through the ancient Japanese wisdom of Ikigai. Meet our founder Sindy and discover how this platform came to be.",
+  "takeTestNow": "Take Your Test Now",
+  "founderStory": {
+    "title": "Our Founder's Story",
+    "subtitle": "From searching for purpose to helping others find theirs - the journey that led to creating this Ikigai test."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "To make the ancient Japanese wisdom of Ikigai accessible to everyone through modern, interactive Ikigai tests that help people discover their life's purpose and create meaningful change."
+  },
+  "values": {
+    "title": "Our Values",
+    "authenticity": {
+      "title": "Authenticity",
+      "description": "We stay true to the original Japanese concept of Ikigai, not Western interpretations."
+    },
+    "personalization": {
+      "title": "Personalization",
+      "description": "Every Ikigai test is tailored to provide unique insights for your individual journey."
+    },
+    "action": {
+      "title": "Action-Oriented",
+      "description": "We provide practical, actionable guidance that helps you make real changes in your life."
+    },
+    "privacy": {
+      "title": "Privacy",
+      "description": "Your personal data and results are kept secure and never shared without your consent."
+    }
+  },
+  "platform": {
+    "title": "Our Platform",
+    "description": "Built with modern technology to provide accurate, comprehensive Ikigai tests that help you understand yourself better.",
+    "features": {
+      "comprehensive": {
+        "title": "Comprehensive Ikigai Test",
+        "description": "Our multi-layered approach evaluates all aspects of your Ikigai journey."
+      },
+      "personalized": {
+        "title": "Personalized Results",
+        "description": "Get detailed insights tailored specifically to your unique situation and goals."
+      },
+      "actionable": {
+        "title": "Actionable Guidance",
+        "description": "Receive practical steps and recommendations you can implement immediately."
+      },
+      "ongoing": {
+        "title": "Ongoing Support",
+        "description": "Access resources, tools, and community support for your continuous growth."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Discover Your Ikigai?",
+    "description": "Join thousands of people who have found clarity and purpose through our Ikigai test.",
+    "button": "Start Your Journey"
+  },
+  "founder": {
+    "greeting": "Hi! My name is Sindy!",
+    "story": [
+      "I believe You have asked yourself questions like – What is success to me? Do I even want to be successful? How to find the inner drive for waking up in the mornings? What makes me truly happy? Am I happy now?",
+      "Yap! Actually, I was there… constantly asking myself those questions. I had lost YEARS looking for things that excite me and make me happy.",
+      "One day I came across Japanese philosophy and a book called \"Ikigai\" and it consumed me. Not only I had to tell the world about this amazing Japanese perception – I had to do it in the most interactive way possible.",
+      "Soon enough the idea of creating a card game came. Long story short, I can now help anyone get to know IKIGAI concept through a playful activity called IKIGAIN Cards."
+    ],
+    "imageAlt": "Sindy, founder of Ikigain, holding the Ikigai Self-Discovery Cards"
+  },
+  "team": {
+    "ikigaiJourneyTitle": "My Ikigai Journey",
+    "whyCreatedTitle": "Why I Created This Platform",
+    "worldwideAccess": "Making Ikigai accessible worldwide through interactive tools and comprehensive assessments"
+  },
+  "structuredData": {
+    "organizationDescription": "A platform dedicated to helping people discover their life's purpose through the ancient Japanese concept of Ikigai, offering interactive assessments and self-discovery tools."
+  },
+  "missionSection": {
+    "title": "Our Mission",
+    "description": "We believe everyone deserves to live a life of purpose and fulfillment. Our mission is to help people discover their Ikigai through scientifically-backed Ikigai tests and personalized guidance."
+  },
+  "approach": {
+    "evidenceBased": {
+      "title": "Evidence-Based",
+      "description": "Our Ikigai tests are grounded in psychological research and the authentic Japanese concept of Ikigai."
+    },
+    "personalized": {
+      "title": "Personalized",
+      "description": "Every Ikigai test is tailored to provide unique insights for your individual journey and goals."
+    },
+    "comprehensive": {
+      "title": "Comprehensive",
+      "description": "We provide holistic insights that cover all aspects of your life and purpose discovery."
+    }
+  },
+  "shopPreview": {
+    "title": "Discover Your Ikigai with Our Self-Discovery Cards",
+    "subtitle": "Transform your life with 35 thoughtfully designed cards that guide you through self-reflection and purpose discovery",
+    "description": "A beautiful card game specially made for self-coaching and self-observation inspired by the Japanese philosophy of Ikigai – the reason for living.",
+    "features": [
+      "35 beautifully designed cards",
+      "5 chapters: Heart, Lungs, Hands, Mind & Soul",
+      "Perfect for personal growth and reflection"
+    ],
+    "shopButton": "Shop Ikigain Cards",
+    "price": "$19.90",
+    "originalPrice": "$29.95",
+    "imageAlt": "Ikigai Self-Discovery Cards - 35 beautifully designed cards for personal growth"
+  },
+  "team": {
+    "title": "Meet Our Team",
+    "subtitle": "The family behind the Ikigain journey",
+    "introduction": "Finding purpose in life can be a winding and sometimes uncertain path. We often find ourselves at crossroads, asking, \"What is my purpose?\" It's a deeply personal question, yet universal in its resonance. For me, the answer began to reveal itself through self-reflection, discovery, and a powerful tool: the Ikigain self-discovery cards. These cards helped me tap into my true passions and opened doors to the next chapter of my life.",
+    "ikigaiPower": "Ikigai, a Japanese concept meaning \"reason for being,\" is the intersection of what you love, what you're good at, what the world needs, and what you can be paid for. For me, this concept became a guiding star. Through the Ikigain cards, I embarked on a journey of self-discovery, reflecting on my desires, skills, and the contributions I wanted to make to the world.",
+    "discovery": "As a mother, I understand firsthand the exhaustion that follows childbirth. The sleepless nights, the constant demands, and the physical and emotional drain—it can feel overwhelming. I wanted to find a way to help other mothers who feel this same exhaustion. This led me to discover my own Ikigai: creating products that are not only useful but also deeply meaningful.",
+    "cardsHelp": "The Ikigain self-discovery cards provided me with clarity, helping me define my passions and understand how I could turn them into something valuable for others. Through daily reflection and commitment to this process, I found my way to a purpose that energizes me every day. This is the power of Ikigai—finding that perfect harmony between passion, mission, and profession.",
+    "whyDiscovery": "Whether you're a mom navigating the challenges of parenthood, a professional seeking more fulfillment in your career, or someone simply trying to understand what brings joy and meaning into your life, self-discovery is key. Taking time to reflect and listen to your inner voice can unlock insights that lead you to your true purpose. The Ikigain self-discovery cards offer a structured, yet gentle way to explore these parts of yourself.",
+    "conclusion": "My journey isn't unique—many of us feel the desire to live more purposefully, to find our Ikigai. With tools like the Ikigain self-discovery cards, you can embark on your own journey toward a fulfilling life. Let's embrace the next chapter of life together, guided by our Ikigai.",
+    "familyIntro": "As you all know, my name is Sindy, and I am the founder of this incredible Ikigain journey. But I'm not walking this path alone—my family is at the core of everything I do. My husband, Karlis, is not only my partner in life but also a driving force behind our business. With his deep expertise in eCommerce, especially on Amazon, we've been able to bring the IKIGAIN brand to life in a way that reaches people far and wide.",
+    "daughter": "And of course, there's our daughter, Gabriel. She's not only the light of our lives but also our official product tester! Every product we create is tested and loved by Gabriel. Her comfort and happiness are always top of mind, which is why I know our products will resonate with other parents.",
+    "dedication": "As a family, we're dedicated to sharing the values of Ikigai and helping others find their own purpose and joy. We're excited to continue this journey with you and are always working on creating new products that inspire, comfort, and bring a sense of purpose to daily life.",
+    "connectTitle": "Let's Connect",
+    "connectDescription": "I'd love to connect with you personally and continue this conversation! You can find me on LinkedIn, where I share more about my Ikigain journey, tips for finding purpose, and insights into entrepreneurship. My husband, Karlis, is also on LinkedIn if you're interested in the world of eCommerce, Amazon strategies, or just want to learn more about our brand-building journey.",
+    "connectWith": "Connect with",
+    "sindyRole": "Founder & Creator",
+    "karlisRole": "eCommerce & Strategy Expert",
+    "sindyImageAlt": "Sindy Vilmane - Founder & Creator",
+    "karlisImageAlt": "Karlis Vilmanis - eCommerce & Strategy Expert"
+  },
+  "ikigainCards": {
+    "title": "What Is Ikigai?",
+    "description": "Ikigain is a card game specially made for self-coaching and self-observation inspired by the Japanese philosophy of Ikigai – the reason for living. This seemingly playful activity can do so much as a move towards gaining happiness, satisfaction, and a sense of fulfillment.",
+    "details": [
+      "Ikigain consists of 35 question & task cards divided into 5 chapters – the Heart, the Lungs, the Hands, the Mind, and the Soul. Each question & task card consists of three parts or three tasks – one to think about, one to write an answer to, and one to make into action.",
+      "There is no right or wrong way to fill Ikigain cards. Only by doing, you will find the way you feel more pleased with."
+    ],
+    "chaptersTitle": "Ikigain Card Game: 5 Chapters",
+    "chapters": {
+      "heart": {
+        "title": "What you Love",
+        "subtitle": "The Heart",
+        "description": "The Heart chapter will help You to define the things that excite, interest & enliven You and without which You couldn't imagine Your life."
+      },
+      "mind": {
+        "title": "What you are good at",
+        "subtitle": "The Mind", 
+        "description": "The Mind chapter will make You aware of Your talents and skills. The tasks of this chapter will help You to understand what You want to do in Your life."
+      },
+      "lungs": {
+        "title": "What is your place in the world?",
+        "subtitle": "The Lungs",
+        "description": "The Lungs chapter is about finding Your place in the world. The tasks will lead You to the realization of Your true potential and encourage You to experiment & explore more."
+      },
+      "hands": {
+        "title": "What can you be paid for?",
+        "subtitle": "The Hands",
+        "description": "The Hands chapter will guide You to understand what You can be paid for. The tasks will help You to realize Your economic potential and find ways to monetize Your skills."
+      },
+      "soul": {
+        "title": "What does the world need?",
+        "subtitle": "The Soul",
+        "description": "The Soul chapter focuses on contribution and service. The tasks will help You understand how You can serve others and make a meaningful impact in the world."
+      }
+    }
+  },
+  "shopButton": "Get Your Ikigain Cards",
+  "personalityTypes": {
+    "title": "Discover Your Ikigai Type",
+    "description": "Our Ikigai test identifies your primary Ikigai type based on your dominant strengths and inclinations. Each type has unique characteristics and career recommendations.",
+    "types": {
+      "creative": {
+        "title": "Creative Enthusiast",
+        "description": "Driven by passion and creativity, you thrive in environments that allow artistic expression and innovation.",
+        "tags": ["Creative", "Artistic", "Innovative"]
+      },
+      "skilled": {
+        "title": "Skilled Expert",
+        "description": "You excel through mastery and expertise, finding fulfillment in becoming the best at what you do.",
+        "tags": ["Expert", "Skilled", "Professional"]
+      },
+      "purposeDriven": {
+        "title": "Purpose-Driven Leader",
+        "description": "You're motivated by making a meaningful impact and contributing to something greater than yourself.",
+        "tags": ["Leader", "Impact", "Purpose"]
+      },
+      "careerFocused": {
+        "title": "Career-Focused Achiever",
+        "description": "You find satisfaction in professional success, advancement, and achieving your career goals.",
+        "tags": ["Achievement", "Success", "Career"]
+      }
+    }
+  },
+  "discoverYourType": "Discover Your Type",
+  "howItWorks": {
+    "title": "How Our Ikigai Test Works",
+    "description": "Our comprehensive Ikigai test process is designed to provide accurate, actionable insights about your Ikigai."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Blog Ikigai",
+  "subtitle": "Insights et conseils pour découvrir votre but dans la vie",
+  "description": "Explorez des articles approfondis sur l'Ikigai, le développement de carrière, et la découverte du but dans la vie de nos experts et de la communauté.",
+  "readMore": "Lire Plus",
+  "readTime": "min de lecture",
+  "publishedOn": "Publié le",
+  "author": "Auteur",
+  "category": "Catégorie",
+  "tags": "Mots-clés",
+  "relatedPosts": "Articles Similaires",
+  "sharePost": "Partager l'Article",
+  "comments": "Commentaires",
+  "leaveComment": "Laisser un Commentaire",
+  "searchPlaceholder": "Rechercher des articles...",
+  "filterByCategory": "Filtrer par Catégorie",
+  "allCategories": "Toutes les Catégories",
+  "sortBy": "Trier par",
+  "newest": "Plus Récents",
+  "oldest": "Plus Anciens",
+  "popular": "Populaires",
+  "noResults": "Aucun article trouvé",
+  "loadMore": "Charger Plus",
+  "featuredPost": "Article en Vedette",
+  "categories": {
+    "ikigai": "Ikigai",
+    "career": "Carrière",
+    "personal-development": "Développement Personnel",
+    "psychology": "Psychologie",
+    "wellness": "Bien-être",
+    "leadership": "Leadership",
+    "productivity": "Productivité"
+  },
+  "newsletter": {
+    "title": "Restez Connecté",
+    "subtitle": "Recevez les derniers articles sur l'Ikigai directement dans votre boîte mail",
+    "emailPlaceholder": "Votre adresse email",
+    "subscribe": "S'Abonner",
+    "success": "Merci ! Vous êtes inscrit à notre newsletter.",
+    "error": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "stats": {
+    "totalArticles": "Articles au Total",
+    "monthlyReaders": "Lecteurs Mensuels",
+    "satisfactionRate": "Taux de Satisfaction",
+    "comments": "Commentaires"
+  },
+  "backToHome": "Retour à l'Accueil",
+  "seo": {
+    "title": "Blog Ikigai - Conseils d'Experts sur la Découverte du But dans la Vie | Ikigain",
+    "description": "Découvrez des articles d'experts sur l'Ikigai, le développement de carrière, et la découverte du but dans la vie. Conseils pratiques et insights pour vivre pleinement.",
+    "keywords": "blog ikigai, articles ikigai, conseils carrière, développement personnel, but dans la vie, orientation professionnelle",
+    "ogTitle": "Blog Ikigai - Insights d'Experts sur la Découverte du But",
+    "ogDescription": "Articles approfondis sur l'Ikigai et le développement de carrière par nos experts. Découvrez comment trouver et vivre votre but dans la vie."
+  }
+}

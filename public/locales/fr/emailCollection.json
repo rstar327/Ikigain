@@ -1,0 +1,42 @@
+{
+  "title": "Vos Résultats Ikigai Sont Prêts !",
+  "subtitle": "Obtenez un accès instantané à votre profil Ikigai personnalisé et vos recommandations de carrière.",
+  "formTitle": "Entrez Votre Email pour Accéder à Vos Résultats",
+  "emailLabel": "Adresse Email",
+  "emailPlaceholder": "votre@email.com",
+  "whatYouGet": "Ce que vous obtiendrez :",
+  "benefits": {
+    "analysis": "Analyse détaillée de la personnalité Ikigai",
+    "recommendations": "Recommandations de carrière personnalisées",
+    "report": "Votre rapport complet de profil Ikigai",
+    "tips": "Optionnel : Conseils de développement de carrière par email"
+  },
+  "privacy": "Nous respectons votre vie privée. Pas de spam, désabonnement à tout moment.",
+  "buttons": {
+    "submit": "Obtenir Mes Résultats",
+    "submitting": "Enregistrement...",
+    "skip": "Ignorer"
+  },
+  "legal": "En continuant, vous acceptez notre",
+  "privacyPolicy": "Politique de Confidentialité",
+  "and": "et",
+  "termsOfService": "Conditions d'Utilisation",
+  "toasts": {
+    "emailSaved": {
+      "title": "Email Enregistré",
+      "description": "Vos résultats sont prêts ! Redirection..."
+    },
+    "error": {
+      "title": "Erreur",
+      "description": "Échec de l'enregistrement de l'email. Veuillez réessayer."
+    },
+    "invalidEmail": {
+      "title": "Email Invalide",
+      "description": "Veuillez entrer une adresse email valide"
+    },
+    "invalidSession": {
+      "title": "Session Invalide",
+      "description": "L'ID de session est invalide. Veuillez réessayer."
+    }
+  }
+}

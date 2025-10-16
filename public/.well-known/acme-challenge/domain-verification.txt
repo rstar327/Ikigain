@@ -1,0 +1,5 @@
+ikigain.org domain verification for SSL certificate generation
+This file enables Let's Encrypt ACME challenge verification
+Domain: ikigain.org
+Created: July 23, 2025
+Purpose: Force SSL certificate provisioning for bare domain access

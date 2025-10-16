@@ -1,0 +1,419 @@
+{
+  "pageTitle": "Ikigai Personality Types",
+  "pageDescription": "Discover the five unique Ikigai personality types and how each finds their life's purpose",
+  "heroTitle": "The 5 Ikigai Personality Types",
+  "heroSubtitle": "Each person finds their purpose in a unique way",
+  "dominant": "Dominant",
+  "characteristics": "Key Characteristics",
+  "strengths": "Strengths",
+  "challenges": "Growth Areas",
+  "careerPaths": "Top Career Matches",
+  "developmentTips": "Development Tips",
+  "match": "match",
+  "salary": "Salary",
+  "builder": {
+    "name": "The Builder",
+    "title": "The Builder - Ikigai Personality Type",
+    "description": "Builders find purpose in creating tangible systems and lasting structures",
+    "coreDescription": "You feel most fulfilled when building something meaningful—whether that's a system, a business, a family, or a legacy. Your Ikigai comes from steady progress toward long-term vision.",
+    "purposeSourceTitle": "Your Purpose Source",
+    "purposeSourceDescription": "Your Ikigai flows from creating lasting impact through systematic, thoughtful construction of something meaningful.",
+    "coreStrengths": "Core Strengths",
+    "strengths": [
+      "Systematic thinking and structured approach",
+      "Practical problem-solving abilities",
+      "Strong orientation toward tangible results",
+      "Excellent organizational and planning skills"
+    ],
+    "challenges": "Common Challenges",
+    "challengesList": [
+      "May feel frustrated with abstract concepts",
+      "Prefers stability over change",
+      "Can be overly focused on details"
+    ],
+    "nurturing": "How to Nurture Your Builder Type",
+    "nurturingTips": [
+      "Seek projects with tangible outcomes",
+      "Develop systems and processes others can use",
+      "Find ways to build something lasting"
+    ],
+    "journaling": "Reflection Questions",
+    "journalingPrompts": [
+      "What systems or structures have you built that you're proud of?",
+      "How can you use your organizational skills to help others?",
+      "What tangible project would you like to create?"
+    ],
+    "ctaTitle": "Ready to Build Your Ikigai?",
+    "ctaDescription": "Take our comprehensive Ikigai test to discover your unique path to purpose and fulfillment.",
+    "takeFullTest": "Take the Ikigai Test",
+    "takeQuickTest": "Free Ikigai Type Test"
+  },
+  "explorer": {
+    "name": "The Explorer",
+    "title": "The Explorer - Ikigai Personality Type",
+    "description": "Explorers find purpose in discovering new ideas, places, and possibilities",
+    "coreDescription": "Your Ikigai lives in exploration—whether that's new places, new ideas, or new parts of yourself. You thrive when you're expanding your world and learning from experience.",
+    "purposeSourceTitle": "Your Purpose Source",
+    "purposeSourceDescription": "Your Ikigai flows from the joy of discovery and the continuous expansion of your understanding and experience.",
+    "coreStrengths": "Core Strengths",
+    "strengths": [
+      "Natural curiosity and love of learning",
+      "Adaptability and flexibility",
+      "Innovative thinking and creativity",
+      "Openness to new experiences"
+    ],
+    "challenges": "Common Challenges",
+    "challengesList": [
+      "May struggle with routine",
+      "Tendency to start many projects without finishing",
+      "Can feel restless in traditional environments"
+    ],
+    "nurturing": "How to Nurture Your Explorer Type",
+    "nurturingTips": [
+      "Seek variety in your work and personal life",
+      "Embrace continuous learning opportunities",
+      "Find ways to share your discoveries"
+    ],
+    "journaling": "Reflection Questions",
+    "journalingPrompts": [
+      "What new ideas or experiences have excited you recently?",
+      "How can you incorporate more exploration into your daily life?",
+      "What would you like to discover or learn next?"
+    ],
+    "ctaTitle": "Ready to Explore Your Ikigai?",
+    "ctaDescription": "Take our comprehensive Ikigai test to discover your unique path to purpose and fulfillment.",
+    "takeFullTest": "Take the Ikigai Test",
+    "takeQuickTest": "Free Ikigai Type Test"
+  },
+  "dreamer": {
+    "name": "The Dreamer",
+    "title": "The Dreamer - Ikigai Personality Type",
+    "description": "Dreamers find purpose in envisioning and inspiring positive futures",
+    "coreDescription": "You are a visionary, full of imagination, depth, and untapped ideas. You feel most alive when you're creating something new or inspiring others with your unique perspective.",
+    "purposeSourceTitle": "Your Purpose Source",
+    "purposeSourceDescription": "Your Ikigai flows from your ability to envision possibilities that don't yet exist and inspire others to believe in those possibilities.",
+    "coreStrengths": "Core Strengths",
+    "strengths": [
+      "Creative vision and imagination",
+      "Ability to inspire and motivate others",
+      "Unique perspective and original thinking",
+      "Strong intuition and insight"
+    ],
+    "challenges": "Common Challenges",
+    "challengesList": [
+      "May struggle with practical implementation",
+      "Tendency to be overly idealistic",
+      "Can become frustrated with real-world limitations"
+    ],
+    "nurturing": "How to Nurture Your Dreamer Type",
+    "nurturingTips": [
+      "Find ways to express your creativity",
+      "Connect with others who share your vision",
+      "Develop practical skills to realize your dreams"
+    ],
+    "journaling": "Reflection Questions",
+    "journalingPrompts": [
+      "What vision of the future inspires you most?",
+      "How can you use your imagination to help others?",
+      "What dream would you like to turn into reality?"
+    ],
+    "ctaTitle": "Ready to Dream Your Ikigai?",
+    "ctaDescription": "Take our comprehensive Ikigai test to discover your unique path to purpose and fulfillment.",
+    "takeFullTest": "Take the Ikigai Test",
+    "takeQuickTest": "Free Ikigai Type Test"
+  },
+  "achiever": {
+    "name": "The Achiever",
+    "title": "The Achiever - Ikigai Personality Type",
+    "description": "Achievers find purpose in reaching goals and overcoming challenges",
+    "coreDescription": "You are driven by accomplishment and the satisfaction of reaching your goals. Your Ikigai comes from pushing boundaries and achieving what others might consider impossible.",
+    "purposeSourceTitle": "Your Purpose Source",
+    "purposeSourceDescription": "Your Ikigai flows from the pursuit of excellence and the satisfaction of overcoming challenges that matter to you.",
+    "coreStrengths": "Core Strengths",
+    "strengths": [
+      "Strong goal orientation",
+      "Determination and persistence",
+      "Natural competitive spirit",
+      "Leadership abilities"
+    ],
+    "challenges": "Common Challenges",
+    "challengesList": [
+      "May be overly focused on outcomes",
+      "Tendency to push too hard",
+      "Can struggle to relax and enjoy the journey"
+    ],
+    "nurturing": "How to Nurture Your Achiever Type",
+    "nurturingTips": [
+      "Set meaningful and challenging goals",
+      "Celebrate achievements along the way",
+      "Find ways to compete that benefit others"
+    ],
+    "journaling": "Reflection Questions",
+    "journalingPrompts": [
+      "What achievements have given you the most satisfaction?",
+      "How can you use your determination to create positive impact?",
+      "What challenge would you like to overcome next?"
+    ],
+    "ctaTitle": "Ready to Achieve Your Ikigai?",
+    "ctaDescription": "Take our comprehensive Ikigai test to discover your unique path to purpose and fulfillment.",
+    "takeFullTest": "Take the Ikigai Test",
+    "takeQuickTest": "Free Ikigai Type Test"
+  },
+  "helper": {
+    "name": "The Helper",
+    "title": "The Helper - Ikigai Personality Type",
+    "description": "Helpers find purpose in supporting and uplifting others",
+    "coreDescription": "You are naturally drawn to helping others and making a positive difference in their lives. Your Ikigai comes from the deep satisfaction of knowing you've contributed to someone else's wellbeing.",
+    "purposeSourceTitle": "Your Purpose Source",
+    "purposeSourceDescription": "Your Ikigai flows from the genuine care you feel for others and the joy you experience in making their lives better.",
+    "coreStrengths": "Core Strengths",
+    "strengths": [
+      "Natural empathy and understanding",
+      "Strong interpersonal skills",
+      "Genuine compassion and care",
+      "Natural orientation toward service"
+    ],
+    "challenges": "Common Challenges",
+    "challengesList": [
+      "May neglect their own needs",
+      "Tendency to avoid conflict",
+      "Can struggle with setting boundaries"
+    ],
+    "nurturing": "How to Nurture Your Helper Type",
+    "nurturingTips": [
+      "Find ways to help that also nourish you",
+      "Learn to care for yourself",
+      "Seek opportunities to support causes you care about"
+    ],
+    "journaling": "Reflection Questions",
+    "journalingPrompts": [
+      "When have you felt most fulfilled helping others?",
+      "How can you balance helping others with caring for yourself?",
+      "What positive impact do you want to have on others' lives?"
+    ],
+    "ctaTitle": "Ready to Help Your Ikigai?",
+    "ctaDescription": "Take our comprehensive Ikigai test to discover your unique path to purpose and fulfillment.",
+    "takeFullTest": "Take the Ikigai Test",
+    "takeQuickTest": "Free Ikigai Type Test"
+  },
+  "callToAction": {
+    "title": "Discover Your Ikigai Type",
+    "description": "Take our comprehensive test to discover which of these types resonates most with you",
+    "freeTest": "Free Type Test",
+    "fullAssessment": "Complete Ikigai Test"
+  },
+  "mainPageTitle": "Ikigai Personality Types - Complete Guide to 4 Main Types",
+  "mainPageDescription": "Discover the 4 main Ikigai personality types and their characteristics. Learn how each type approaches passion, mission, vocation, and profession differently.",
+  "mainHeroTitle": "Ikigai Personality Types",
+  "mainHeroSubtitle": "Discover the four primary Ikigai personality types and understand how your dominant area shapes your path to purpose and fulfillment.",
+  "discoverYourType": "Discover Your Type",
+  "understandingTitle": "Understanding Your Dominant Area",
+  "understandingDescription": "While everyone has elements of all four areas, your dominant area reveals your primary source of motivation and fulfillment.",
+  "detailedBreakdownTitle": "Detailed Type Breakdown",
+  "detailedBreakdownDescription": "Each Ikigai personality type has unique characteristics, strengths, and challenges. Understand how these types manifest in real life.",
+  "characteristics": "Characteristics",
+  "strengths": "Strengths",
+  "challenges": "Challenges",
+  "careerPaths": "Career Paths",
+  "developmentTips": "Development Tips",
+  "match": "Match",
+  "salary": "Salary",
+  "dominant": "Dominant",
+  "creativeEnthusiast": {
+    "name": "Creative Enthusiast",
+    "description": "Driven by passion and creativity, you thrive in environments that allow artistic expression and innovation.",
+    "characteristics": [
+      "Highly imaginative and visionary",
+      "Values self-expression and authenticity",
+      "Motivated by creative challenges",
+      "Enjoys experimenting with new ideas",
+      "Finds energy in artistic pursuits"
+    ],
+    "strengths": [
+      "Innovative problem-solving",
+      "Strong aesthetic sense",
+      "Ability to inspire others",
+      "Natural storytelling abilities",
+      "Adaptable and flexible thinking"
+    ],
+    "challenges": [
+      "May struggle with routine tasks",
+      "Sometimes difficulty with deadlines",
+      "Can be sensitive to criticism",
+      "May lack business acumen",
+      "Prone to creative blocks"
+    ],
+    "careerPaths": [
+      { "title": "UX/UI Designer", "match": 92, "salary": "$65,000 - $120,000" },
+      { "title": "Creative Director", "match": 88, "salary": "$80,000 - $150,000" },
+      { "title": "Art Therapist", "match": 85, "salary": "$45,000 - $80,000" },
+      { "title": "Marketing Creative", "match": 83, "salary": "$50,000 - $95,000" },
+      { "title": "Product Designer", "match": 80, "salary": "$70,000 - $130,000" }
+    ],
+    "developmentTips": [
+      "Practice time management techniques",
+      "Develop business and marketing skills",
+      "Build a strong portfolio",
+      "Network with other creatives",
+      "Learn to receive and act on feedback"
+    ]
+  },
+  "skilledPractitioner": {
+    "name": "Skilled Practitioner",
+    "description": "You excel through mastery and expertise, finding fulfillment in developing and applying specialized skills.",
+    "characteristics": [
+      "Detail-oriented and precise",
+      "Enjoys mastering complex skills",
+      "Values competence and expertise",
+      "Motivated by continuous learning",
+      "Prefers depth over breadth"
+    ],
+    "strengths": [
+      "High-quality work output",
+      "Strong analytical abilities",
+      "Excellent problem-solving skills",
+      "Reliable and consistent",
+      "Natural teaching abilities"
+    ],
+    "challenges": [
+      "May get stuck in perfectionism",
+      "Can be resistant to change",
+      "Sometimes struggles with delegation",
+      "May lack broad perspective",
+      "Prone to burnout from overwork"
+    ],
+    "careerPaths": [
+      { "title": "Software Engineer", "match": 95, "salary": "$80,000 - $180,000" },
+      { "title": "Data Scientist", "match": 92, "salary": "$90,000 - $200,000" },
+      { "title": "Medical Specialist", "match": 90, "salary": "$200,000 - $500,000" },
+      { "title": "Research Scientist", "match": 88, "salary": "$70,000 - $150,000" },
+      { "title": "Technical Consultant", "match": 85, "salary": "$75,000 - $160,000" }
+    ],
+    "developmentTips": [
+      "Practice delegation skills",
+      "Develop leadership abilities",
+      "Build broader business knowledge",
+      "Learn to manage work-life balance",
+      "Cultivate growth mindset"
+    ]
+  },
+  "purposeDrivenHelper": {
+    "name": "Purpose-Driven Helper",
+    "description": "You find meaning in helping others and contributing to causes larger than yourself.",
+    "characteristics": [
+      "Strongly values-driven",
+      "Motivated by making a difference",
+      "Empathetic and compassionate",
+      "Focused on social impact",
+      "Finds energy in helping others"
+    ],
+    "strengths": [
+      "Strong moral compass",
+      "Excellent interpersonal skills",
+      "Ability to motivate and inspire",
+      "Systems-oriented thinking",
+      "Emotional resilience"
+    ],
+    "challenges": [
+      "May neglect personal needs",
+      "Prone to compassion fatigue",
+      "Sometimes difficulty with boundaries",
+      "Can be overly idealistic",
+      "May struggle with conflict"
+    ],
+    "careerPaths": [
+      { "title": "Social Worker", "match": 95, "salary": "$40,000 - $80,000" },
+      { "title": "Non-Profit Director", "match": 92, "salary": "$60,000 - $120,000" },
+      { "title": "Counselor/Therapist", "match": 90, "salary": "$50,000 - $100,000" },
+      { "title": "Sustainability Consultant", "match": 88, "salary": "$65,000 - $130,000" },
+      { "title": "Policy Specialist", "match": 85, "salary": "$55,000 - $110,000" }
+    ],
+    "developmentTips": [
+      "Practice self-care regularly",
+      "Set healthy boundaries",
+      "Develop project management skills",
+      "Build fundraising capabilities",
+      "Learn to measure and communicate impact"
+    ]
+  },
+  "strategicAchiever": {
+    "name": "Strategic Achiever",
+    "description": "You find purpose in building successful ventures and creating economic value through strategic thinking.",
+    "characteristics": [
+      "Goal-oriented and ambitious",
+      "Natural strategic thinker",
+      "Motivated by growth and success",
+      "Comfortable with risk and uncertainty",
+      "Focused on measurable outcomes"
+    ],
+    "strengths": [
+      "Strong business acumen",
+      "Excellent leadership skills",
+      "Strategic thinking ability",
+      "Risk management skills",
+      "Ability to scale systems"
+    ],
+    "challenges": [
+      "May neglect work-life balance",
+      "Sometimes impatient with slow processes",
+      "Can be overly competitive",
+      "Risk of burnout from overwork",
+      "May struggle with delegation"
+    ],
+    "careerPaths": [
+      { "title": "Entrepreneur/CEO", "match": 95, "salary": "$80,000 - $500,000+" },
+      { "title": "Strategy Consultant", "match": 92, "salary": "$90,000 - $200,000" },
+      { "title": "Product Manager", "match": 90, "salary": "$120,000 - $250,000" },
+      { "title": "Investment Analyst", "match": 88, "salary": "$80,000 - $200,000" },
+      { "title": "Business Development Director", "match": 85, "salary": "$85,000 - $180,000" }
+    ],
+    "developmentTips": [
+      "Cultivate emotional intelligence",
+      "Learn to delegate effectively",
+      "Develop team management skills",
+      "Practice data-driven decision making",
+      "Build a strong professional network"
+    ]
+  },
+  "mixedTypes": {
+    "title": "Understanding Mixed Types",
+    "description": "Many people have balanced scores across multiple areas. This creates unique hybrid types with their own strengths and opportunities.",
+    "creativeExpert": {
+      "name": "Creative Expert",
+      "description": "High in both passion and vocation, these individuals excel in creative fields that require technical skill.",
+      "tags": ["Design", "Innovation", "Technical mastery"]
+    },
+    "socialEntrepreneur": {
+      "name": "Social Entrepreneur",
+      "description": "Combining mission and profession, they create purpose-driven businesses with social impact.",
+      "tags": ["Impact", "Leadership", "Social change"]
+    },
+    "artisticHelper": {
+      "name": "Artistic Helper",
+      "description": "United by passion and mission, they use creativity to make a positive difference.",
+      "tags": ["Creativity", "Purpose", "Service"]
+    },
+    "strategicSpecialist": {
+      "name": "Strategic Specialist",
+      "description": "Strong in vocation and profession, they master technical skills with business acumen.",
+      "tags": ["Expertise", "Strategy", "Results"]
+    },
+    "balancedVisionary": {
+      "name": "Balanced Visionary",
+      "description": "With high scores across all areas, they have potential for transformational leadership.",
+      "tags": ["Leadership", "Vision", "Balance"]
+    },
+    "emergingPurpose": {
+      "name": "Emerging Purpose",
+      "description": "Moderate scores suggest a developing ikigai with many possibilities ahead.",
+      "tags": ["Growth", "Exploration", "Potential"]
+    }
+  },
+  "callToAction": {
+    "title": "Discover Your Ikigai Type",
+    "description": "Take our comprehensive test to discover which type resonates most with you",
+    "takeTest": "Take the Test",
+    "freeTest": "Free Type Test",
+    "fullAssessment": "Complete Ikigai Test"
+  }
+}

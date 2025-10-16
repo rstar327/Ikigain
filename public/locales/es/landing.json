@@ -1,0 +1,350 @@
+{
+  "hero": {
+    "title": "Descubre tu Ikigai",
+    "subtitle": "Encuentra tu propósito de vida y carrera ideal",
+    "description": "Una evaluación integral que te ayuda a descubrir la intersección perfecta entre lo que amas, en lo que eres bueno, lo que el mundo necesita y por lo que te pueden pagar.",
+    "cta": "Comenzar evaluación gratuita",
+    "learnMore": "Saber más",
+    "timeRequired": "5 minutos",
+    "testedUsers": "10,000+ evaluados",
+    "rating": "4.8/5 estrellas"
+  },
+  "whatIsIkigai": {
+    "title": "¿Qué es Ikigai?",
+    "description": "¿Alguna vez sientes que solo estás pasando por las emociones? Ikigai combina \"iki\" (vida) y \"gai\" (valor): tu razón de ser. No se trata de escalar el Everest o resolver problemas globales. Como dice el neurocientífico Ken Mogi: \"Ikigai puede ser pequeño. Puede ser la alegría de tu rutina matutina.\"",
+    "passion": "Lo que amas",
+    "passionDesc": "Tu pasión: las cosas que te iluminan y hacen que el tiempo vuele. Podría ser pintar, entrenar, resolver problemas o plantar tomates. Si te trae alegría, pertenece aquí.",
+    "mission": "Lo que el mundo necesita", 
+    "missionDesc": "Donde el significado se profundiza. Se trata de contribución: ofrecer algo que importa a otros, ya sea apoyo, servicio, creatividad o innovación.",
+    "profession": "En lo que eres bueno",
+    "professionDesc": "Talentos naturales o habilidades que has perfeccionado con el tiempo. No se trata de ser perfecto; se trata de reconocer dónde brillas y te sientes seguro.",
+    "vocation": "Por lo que te pueden pagar",
+    "vocationDesc": "Encontrar una manera de convertir tu pasión y habilidades en algo que pueda sostenerte. Si paga las cuentas y alimenta tu propósito, estás en el camino correcto."
+  },
+  "howItWorks": {
+    "title": "Cómo funciona",
+    "description": "Obtén tus insights personalizados de Ikigai en solo tres pasos simples.",
+    "step1": "Responde preguntas reflexivas",
+    "step1Desc": "Completa nuestra evaluación integral sobre tus intereses, valores y aspiraciones",
+    "step2": "Análisis personalizado",
+    "step2Desc": "Nuestro algoritmo analiza tus respuestas para identificar patrones únicos",
+    "step3": "Recibe tu informe",
+    "step3Desc": "Obtén insights personalizados y recomendaciones de carrera específicas"
+  },
+  "assessments": {
+    "title": "Elige tu evaluación",
+    "description": "Ofrecemos dos formas diferentes de explorar tu Ikigai, cada una diseñada para diferentes necesidades y limitaciones de tiempo.",
+    "free": {
+      "title": "Test Gratuito de Tipo Ikigai",
+      "subtitle": "Perfecto para comenzar",
+      "description": "Descubre tu tipo dominante de personalidad Ikigai: Soñador, Triunfador, Ayudador, Explorador o Constructor. Obtén insights instantáneos sobre tus motivaciones principales y coincidencias profesionales básicas.",
+      "duration": "5-10 minutos",
+      "features": [
+        "Identificación del tipo de personalidad",
+        "Descripción básica de fortalezas",
+        "Recomendaciones generales de carrera"
+      ],
+      "cta": "Comenzar test gratuito"
+    },
+    "premium": {
+      "title": "Test de Ikigai",
+      "description": "Análisis profundo con orientación profesional detallada",
+      "duration": "10-15 minutos", 
+      "features": [
+        "Análisis integral de personalidad",
+        "Coincidencias profesionales detalladas",
+        "Plan de desarrollo personalizado",
+        "Información del mercado y datos salariales"
+      ],
+      "cta": "Test de Ikigai"
+    }
+  },
+  "premiumFeatures": {
+    "title": "Características Premium",
+    "description": "Características avanzadas disponibles en nuestros análisis premium",
+    "careerAnalysis": {
+      "title": "Análisis de Carrera",
+      "description": "Obtén insights detallados sobre tu trayectoria profesional ideal con recomendaciones personalizadas.",
+      "features": [
+        "Análisis detallado de carrera",
+        "Puntuaciones de compatibilidad",
+        "Información salarial"
+      ]
+    },
+    "careerRoadmap": {
+      "title": "Hoja de Ruta Profesional",
+      "description": "Plan de acción paso a paso para alcanzar tus objetivos profesionales con hitos cronológicos.",
+      "features": [
+        "Hoja de ruta profesional personalizada",
+        "Planes de acción paso a paso",
+        "Hitos cronológicos"
+      ]
+    },
+    "personalityDeepDive": {
+      "title": "Análisis Profundo de Personalidad",
+      "description": "Análisis completo de personalidad con estilos de trabajo cognitivos y recomendaciones de crecimiento.",
+      "features": [
+        "Análisis profundo de personalidad",
+        "Estilos de trabajo cognitivos",
+        "Recomendaciones de crecimiento"
+      ]
+    }
+  },
+  "premiumTiers": {
+    "title": "Elige tu Nivel Premium",
+    "description": "Desbloquea características avanzadas y orientación personalizada con nuestras opciones premium por niveles.",
+    "mostPopular": "MÁS POPULAR",
+    "getStarted": "Comenzar",
+    "careerRoadmapGuide": {
+      "title": "Guía de Hoja de Ruta Profesional",
+      "price": "$2.95",
+      "features": [
+        "Hoja de ruta profesional de 12 meses",
+        "Plan de acción paso a paso",
+        "Networking específico de la industria",
+        "Preparación para entrevistas"
+      ]
+    },
+    "personalityDeepDive": {
+      "title": "Análisis Profundo de Personalidad",
+      "price": "$4.95",
+      "features": [
+        "Análisis completo de personalidad",
+        "Evaluación de estilo cognitivo",
+        "Guía de comunicación",
+        "Consejos de manejo del estrés"
+      ]
+    },
+    "successBlueprint": {
+      "title": "Plan de Éxito",
+      "price": "$9.95",
+      "features": [
+        "Plan de transformación de 90 días",
+        "Rastreador de hábitos diarios",
+        "Marco de establecimiento de objetivos",
+        "Ejercicios de construcción de confianza"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros usuarios",
+    "subtitle": "Únete a miles que han descubierto su propósito",
+    "testimonial1": "Esta evaluación me ayudó a encontrar claridad en mi carrera después de años de sentirme perdido. Finalmente encontré mi propósito.",
+    "testimonial2": "Los insights fueron increíblemente precisos. Me ayudó a hacer una transición profesional exitosa.",
+    "testimonial3": "Una herramienta poderosa para la autorreflexión. Recomiendo encarecidamente hacer la evaluación completa."
+  },
+  "stats": {
+    "title": "Únete a miles que han encontrado su propósito",
+    "testsCompleted": "Más de 10,000 evaluaciones completadas",
+    "satisfactionRate": "87% de aumento en satisfacción profesional",
+    "countriesServed": "Usuarios en más de 50 países"
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "description": "Todo lo que necesitas saber sobre la evaluación de Ikigai",
+    "q1": "¿Cuánto tiempo toma el test?",
+    "a1": "El test de Ikigai típicamente toma 5-10 minutos para completar. Hay 18 preguntas, y puedes tomarte tu tiempo para reflexionar en cada una.",
+    "q2": "¿Está el test validado científicamente?",
+    "a2": "Sí, nuestro test de Ikigai se basa en principios psicológicos establecidos y el concepto japonés auténtico de Ikigai. Las preguntas están diseñadas para evaluar las cuatro dimensiones principales que contribuyen a la satisfacción y realización profesional.",
+    "q3": "¿Cuál es la diferencia entre los resultados gratuitos y premium?",
+    "a3": "Los resultados gratuitos incluyen tu perfil de Ikigai, tipo de personalidad, fortalezas principales y recomendaciones profesionales básicas. Las funciones premium agregan hojas de ruta profesionales detalladas, preparación para entrevistas, análisis profundo de personalidad y planes de transformación de 90 días.",
+    "q4": "¿Puedo retomar el test?",
+    "a4": "Sí, puedes retomar el test en cualquier momento. Cada evaluación te dará nuevos insights sobre tu desarrollo personal y profesional."
+  },
+  "cta": {
+    "title": "¿Listo para descubrir tu Ikigai?",
+    "subtitle": "Únete a miles de personas que han encontrado el propósito de su vida",
+    "description": "Únete a miles de personas que han encontrado el propósito de su vida",
+    "free": "Comenzar test gratuito",
+    "premium": "Hacer evaluación completa",
+    "button": "Comenzar tu viaje"
+  },
+  "aboutTest": {
+    "title": "Nuestra Evaluación Integral de Ikigai",
+    "description": "Nuestra evaluación científicamente diseñada evalúa tu personalidad, habilidades, valores y aspiraciones para proporcionar insights personalizados sobre tu carrera ideal y propósito de vida.",
+    "features": [
+      {
+        "title": "18 Preguntas Cuidadosamente Elaboradas",
+        "description": "Cada pregunta está diseñada para revelar diferentes aspectos de tu personalidad y preferencias profesionales."
+      },
+      {
+        "title": "Algoritmo de Puntuación Avanzado",
+        "description": "Nuestro algoritmo patentado analiza tus respuestas en cuatro dimensiones clave del Ikigai."
+      },
+      {
+        "title": "Privacidad Protegida",
+        "description": "Tus respuestas son seguras y confidenciales. Nunca compartimos tus datos personales."
+      },
+      {
+        "title": "Resultados Instantáneos",
+        "description": "Obtén tu perfil personalizado de Ikigai inmediatamente después de completar la evaluación."
+      }
+    ],
+    "categories": {
+      "title": "Categorías del Test",
+      "passionAssessment": "Evaluación de Pasión",
+      "skillEvaluation": "Evaluación de Habilidades",
+      "missionDiscovery": "Descubrimiento de Misión",
+      "careerViability": "Viabilidad Profesional",
+      "questions": "{{count}} preguntas"
+    }
+  },
+  "whatYouDiscover": {
+    "title": "Lo que Descubrirás",
+    "description": "Tu informe personalizado de Ikigai proporciona insights profundos sobre tu propósito, personalidad y carrera profesional óptima.",
+    "features": [
+      {
+        "title": "Tu Perfil de Ikigai",
+        "description": "Desglose detallado de tus puntuaciones en las cuatro dimensiones del Ikigai con gráficos visuales.",
+        "badge": "Gratis"
+      },
+      {
+        "title": "Tipo de Personalidad",
+        "description": "Descubre tu tipo único de personalidad y cómo influye en tus preferencias profesionales.",
+        "badge": "Gratis"
+      },
+      {
+        "title": "Fortalezas Principales",
+        "description": "Identifica tus mejores fortalezas y cómo aprovecharlas en tu carrera.",
+        "badge": "Gratis"
+      },
+      {
+        "title": "Recomendaciones Profesionales",
+        "description": "Obtén sugerencias profesionales personalizadas basadas en tu perfil de Ikigai.",
+        "badge": "Gratis"
+      },
+      {
+        "title": "Plan de Acción",
+        "description": "Pasos prácticos para alinear tu vida y carrera con tu Ikigai.",
+        "badge": "Gratis"
+      },
+      {
+        "title": "Insights Premium",
+        "description": "Desbloquea características avanzadas como mapas de carrera, preparación para entrevistas y planes de éxito.",
+        "badge": "Premium"
+      }
+    ]
+  },
+  "premiumFeatures": {
+    "title": "Características Premium",
+    "description": "Funciones avanzadas disponibles en nuestro análisis premium",
+    "careerAnalysis": {
+      "title": "Análisis de Carrera",
+      "description": "Obtén información detallada sobre tu trayectoria profesional ideal con recomendaciones personalizadas.",
+      "features": [
+        "Análisis detallado de carrera",
+        "Porcentajes de compatibilidad",
+        "Información salarial"
+      ]
+    },
+    "careerRoadmap": {
+      "title": "Hoja de Ruta Profesional",
+      "description": "Plan de acción paso a paso para alcanzar tus objetivos profesionales con hitos cronológicos.",
+      "features": [
+        "Hoja de ruta profesional personalizada",
+        "Planes de acción paso a paso",
+        "Hitos cronológicos"
+      ]
+    },
+    "personalityDeepDive": {
+      "title": "Análisis Profundo de Personalidad",
+      "description": "Análisis completo de personalidad con estilos de trabajo cognitivos y recomendaciones de crecimiento.",
+      "features": [
+        "Análisis profundo de personalidad",
+        "Estilos de trabajo cognitivos",
+        "Recomendaciones de crecimiento"
+      ]
+    }
+  },
+  "seo": {
+    "title": "Test Gratuito de Ikigai - Descubre el Propósito de tu Vida | Test de Ikigai en Español",
+    "description": "Realiza nuestro test gratuito de Ikigai para descubrir qué es Ikigai y el propósito de tu vida. Test de Ikigai en español te ayuda a encontrar la intersección entre lo que amas, en lo que eres bueno, lo que el mundo necesita y por lo que te pueden pagar.",
+    "keywords": "test ikigai, ikigai test español, test de ikigai gratis, que es ikigai, ikigai significado, test de propósito de vida, evaluación de carrera, test de personalidad español",
+    "ogTitle": "Test de Ikigai - Descubre el Propósito de tu Vida | Evaluación Gratuita",
+    "ogDescription": "Realiza nuestro test integral de Ikigai para descubrir el propósito de tu vida. Encuentra la intersección entre lo que amas, en lo que eres bueno, lo que el mundo necesita y por lo que te pueden pagar.",
+    "structuredData": {
+      "name": "Test de Ikigai - Descubre el Propósito de tu Vida",
+      "description": "Realiza nuestro test integral de Ikigai para descubrir el propósito de tu vida. Encuentra la intersección entre lo que amas, en lo que eres bueno, lo que el mundo necesita y por lo que te pueden pagar."
+    }
+  },
+  "whyIkigaiMatters": {
+    "title": "Por qué Importa el Ikigai",
+    "description": "Abrazar el ikigai no es solo filosófico: tiene beneficios reales respaldados por la ciencia.",
+    "stats": [
+      {
+        "number": "50%",
+        "title": "Menor riesgo de mortalidad",
+        "description": "Las personas con ikigai tenían un riesgo significativamente menor de muerte por enfermedad cardiovascular"
+      },
+      {
+        "number": "36%",
+        "title": "Menor riesgo de demencia",
+        "description": "Los adultos con ikigai mostraron mejor función cognitiva y menor riesgo de demencia"
+      },
+      {
+        "number": "31%",
+        "title": "Menor riesgo de discapacidad",
+        "description": "Tener ikigai protege contra la discapacidad funcional a medida que envejecemos"
+      }
+    ]
+  },
+  "provenResults": {
+    "title": "Resultados Comprobados",
+    "description": "Nuestra evaluación de Ikigai ha ayudado a miles de profesionales a encontrar su verdadera vocación.",
+    "stats": [
+      {
+        "number": "10,000+",
+        "description": "Tests Completados"
+      },
+      {
+        "number": "87%",
+        "description": "Aumento de Satisfacción Profesional"
+      },
+      {
+        "number": "5,200+",
+        "description": "Transiciones Profesionales"
+      },
+      {
+        "number": "4.8/5",
+        "description": "Calificación Promedio"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Cómo funciona",
+    "description": "Obtén tus insights personalizados de Ikigai en solo tres pasos simples.",
+    "step1": "Responde preguntas reflexivas",
+    "step1Desc": "Completa nuestra evaluación integral sobre tus intereses, valores y aspiraciones",
+    "step2": "Recibe análisis personalizado",
+    "step2Desc": "Nuestro algoritmo analiza tus respuestas para identificar patrones únicos",
+    "step3": "Recibe tu informe",
+    "step3Desc": "Obtén insights personalizados y recomendaciones de carrera específicas"
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros usuarios",
+    "description": "Descubre cómo la evaluación de Ikigai ha transformado carreras y vidas.",
+    "users": {
+      "sarah": {
+        "quote": "La evaluación de Ikigai me ayudó a darme cuenta de que mi verdadera pasión estaba en el diseño sostenible. Nunca he sido más feliz en mi carrera.",
+        "name": "Sarah Johnson",
+        "role": "Diseñadora UX"
+      },
+      "david": {
+        "quote": "Estuve atrapado en consultoría corporativa durante años. Esta prueba me mostró que mi vocación estaba en la educación y el impacto social.",
+        "name": "David Chen",
+        "role": "Consultor de Impacto Social"
+      },
+      "maria": {
+        "quote": "Después de 15 años en marketing, descubrí mi Ikigai en la sostenibilidad alimentaria. Ahora dirijo mi propia consultoría.",
+        "name": "María Rodríguez",
+        "role": "Consultora de Sostenibilidad"
+      }
+    }
+  },
+
+  "finalCTA": {
+    "title": "¿Listo para descubrir tu Ikigai?",
+    "description": "Únete a miles que han encontrado su propósito de vida y transformado sus carreras. Comienza tu viaje hoy.",
+    "cta": "Comenzar evaluación gratuita"
+  }
+}

@@ -1,0 +1,4 @@
+[tool.replit.deployment]
+run = ["node", "start.mjs"]
+build = ["npm", "run", "build:client"]
+exclude = ["node_modules/.cache", "dist/static"]

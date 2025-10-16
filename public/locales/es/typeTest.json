@@ -1,0 +1,176 @@
+{
+  "title": "Test gratuito de tipos de Ikigai",
+  "subtitle": "Evaluación rápida de personalidad en 5 minutos",
+  "description": "Descubre tu tipo de personalidad Ikigai en solo 5 minutos con nuestro test rápido. Ideal para obtener una comprensión inicial de tu perfil antes de realizar la evaluación completa.",
+  "previousButton": "Anterior",
+  "nextButton": "Siguiente",
+  "progressText": "Pregunta {{current}} de {{total}}",
+  "resultsTitle": "Tu tipo de Ikigai",
+  "resultsSubtitle": "Basado en tus respuestas, aquí está tu tipo de personalidad",
+  "primaryType": "Tipo principal",
+  "secondaryType": "Tipo secundario",
+  "learnMore": "Saber más sobre {{type}}",
+  "takeFullTest": "Realizar evaluación completa",
+  "retakeTest": "Repetir test",
+  "questions": [
+    {
+      "question": "¿Qué te motiva más en la vida?",
+      "options": [
+        "Crear algo hermoso o significativo",
+        "Alcanzar objetivos ambiciosos y reconocimiento",
+        "Hacer un impacto positivo en otros",
+        "Descubrir nuevas experiencias y conocimientos",
+        "Construir algo duradero y valioso"
+      ]
+    },
+    {
+      "question": "¿Cómo prefieres pasar tu tiempo libre?",
+      "options": [
+        "Participando en actividades creativas",
+        "Trabajando en proyectos personales o profesionales",
+        "Voluntariado o ayudando a otros",
+        "Aprendiendo algo nuevo o viajando",
+        "Organizando y mejorando mi entorno"
+      ]
+    },
+    {
+      "question": "¿Qué tipo de trabajo te resulta más atractivo?",
+      "options": [
+        "Trabajo que permite autoexpresión",
+        "Roles con metas claras y métricas de éxito",
+        "Posiciones que me permiten ayudar a otros",
+        "Trabajos que ofrecen variedad y nuevos desafíos",
+        "Roles que requieren planificación y estructuración"
+      ]
+    },
+    {
+      "question": "¿Cuál es tu mayor fortaleza?",
+      "options": [
+        "Imaginación y creatividad",
+        "Determinación y orientación hacia objetivos",
+        "Empatía y comprensión de otros",
+        "Curiosidad y adaptabilidad",
+        "Organización y atención al detalle"
+      ]
+    },
+    {
+      "question": "¿Qué te hace sentir más realizado?",
+      "options": [
+        "Expresar mi visión única",
+        "Lograr un objetivo desafiante",
+        "Ver a otros prosperar debido a mi ayuda",
+        "Comprender algo completamente nuevo",
+        "Completar un proyecto bien estructurado"
+      ]
+    },
+    {
+      "question": "¿Cómo manejas los problemas?",
+      "options": [
+        "Busco soluciones innovadoras y creativas",
+        "Desarrollo un plan estratégico para superarlos",
+        "Busco apoyo y considero cómo afecta a otros",
+        "Investigo diferentes enfoques y perspectivas",
+        "Divido el problema en pasos manejables"
+      ]
+    },
+    {
+      "question": "¿Qué tipo de ambiente te inspira más?",
+      "options": [
+        "Espacios artísticos y creativos",
+        "Entornos competitivos y orientados a resultados",
+        "Lugares donde puedo conectar y ayudar a otros",
+        "Entornos diversos y estimulantes",
+        "Espacios organizados y estructurados"
+      ]
+    },
+    {
+      "question": "¿Cuál es tu enfoque hacia el aprendizaje?",
+      "options": [
+        "Prefiero aprender a través de la experimentación",
+        "Me enfoco en habilidades que me ayuden a alcanzar mis metas",
+        "Aprendo mejor cuando puedo compartir conocimientos",
+        "Me gusta explorar muchos temas diferentes",
+        "Prefiero un enfoque sistemático y estructurado"
+      ]
+    },
+    {
+      "question": "¿Qué te da más energía?",
+      "options": [
+        "Trabajar en proyectos que me apasionan",
+        "Superar desafíos y lograr el éxito",
+        "Hacer la diferencia en la vida de alguien",
+        "Descubrir nuevas posibilidades",
+        "Crear orden y eficiencia"
+      ]
+    },
+    {
+      "question": "¿Cómo te ves a ti mismo en 5 años?",
+      "options": [
+        "Creando trabajo que inspire a otros",
+        "Habiendo alcanzado posiciones de liderazgo",
+        "Habiendo impactado positivamente muchas vidas",
+        "Habiendo explorado nuevos campos y experiencias",
+        "Habiendo construido algo duradero e importante"
+      ]
+    },
+    {
+      "question": "Tu enfoque para el crecimiento personal implica:",
+      "options": [
+        "Explorar tu mundo interior y creatividad",
+        "Establecer y lograr objetivos más ambiciosos",
+        "Desarrollar relaciones más profundas",
+        "Aprender de experiencias diversas",
+        "Construir habilidades y experiencia"
+      ]
+    },
+    {
+      "question": "En situaciones estresantes, tiendes a:",
+      "options": [
+        "Retirarte y reflexionar profundamente",
+        "Esforzarte más hacia tus objetivos",
+        "Buscar apoyo de otros",
+        "Buscar nuevas perspectivas y soluciones",
+        "Crear estructura y organizar tu enfoque"
+      ]
+    },
+    {
+      "question": "Tu definición de éxito incluye:",
+      "options": [
+        "Crear algo significativo que refleje tus valores",
+        "Lograr reconocimiento y alcanzar tus objetivos ambiciosos",
+        "Hacer una diferencia positiva en las vidas de las personas",
+        "Tener experiencias ricas y aprendizaje continuo",
+        "Construir algo duradero y valioso"
+      ]
+    }
+  ],
+  "typeDescriptions": {
+    "dreamer": {
+      "name": "El Soñador",
+      "description": "Eres una persona visionaria llena de imaginación, profundidad e ideas sin explotar. Te sientes más vivo cuando puedes visualizar futuros positivos e inspirar a otros hacia una mejor versión de la realidad."
+    },
+    "achiever": {
+      "name": "El Triunfador", 
+      "description": "Eres una persona orientada hacia objetivos con una fuerte determinación para tener éxito. Te sientes más realizado cuando superas desafíos y alcanzas metas ambiciosas que otros consideran imposibles."
+    },
+    "helper": {
+      "name": "El Ayudante",
+      "description": "Eres una persona naturalmente empática que encuentra propósito en elevar a otros. Te sientes más energizado cuando puedes apoyar, nutrir y ayudar a otros a alcanzar su potencial."
+    },
+    "explorer": {
+      "name": "El Explorador",
+      "description": "Eres una persona curiosa y adaptable que prospera con la novedad y el descubrimiento. Te sientes más vivo cuando exploras nuevas ideas, lugares y posibilidades."
+    },
+    "builder": {
+      "name": "El Constructor",
+      "description": "Eres una persona práctica y orientada a sistemas que encuentra propósito en crear estructuras duraderas. Te sientes más satisfecho cuando puedes construir, organizar y mejorar los sistemas que rodean tu vida."
+    }
+  },
+  "seo": {
+    "title": "Test Gratuito de Tipo Ikigai - Descubre tu Personalidad Ikigai | 5 Minutos",
+    "description": "Realiza nuestro test gratuito de tipo Ikigai en 5 minutos. Descubre si eres Soñador, Triunfador, Ayudador, Explorador o Constructor. Test de personalidad gratuito basado en filosofía japonesa.",
+    "keywords": "test tipo ikigai, test personalidad ikigai, test ikigai gratis, tipos de personalidad ikigai, test rápido ikigai",
+    "ogTitle": "Test Gratuito de Tipo Ikigai - 5 Minutos | Descubre tu Personalidad",
+    "ogDescription": "Test rápido y gratuito para descubrir tu tipo de personalidad Ikigai. Resultados instantáneos con recomendaciones personalizadas."
+  }
+}

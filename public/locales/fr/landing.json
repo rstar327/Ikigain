@@ -1,0 +1,181 @@
+{
+  "seo": {
+    "title": "Test Ikigai Gratuit - Découvrez le But de Votre Vie | Ikigain.org",
+    "description": "Passez notre test Ikigai complet pour découvrir le but de votre vie. Trouvez l'intersection entre ce que vous aimez, ce en quoi vous excellez, ce dont le monde a besoin et ce pour quoi vous pouvez être payé.",
+    "keywords": "test ikigai, ikigai gratuit, but de la vie, test de personnalité, développement personnel, carrière, épanouissement",
+    "ogTitle": "Test Ikigai Gratuit - Découvrez Votre But dans la Vie",
+    "ogDescription": "Découvrez votre Ikigai avec notre test complet. Obtenez des insights personnalisés sur votre carrière et votre épanouissement personnel.",
+    "structuredData": {
+      "name": "Test Ikigai - Découvrez le But de Votre Vie",
+      "description": "Passez notre évaluation Ikigai complète pour découvrir le but de votre vie. Trouvez l'intersection entre ce que vous aimez, ce en quoi vous excellez, ce dont le monde a besoin et ce pour quoi vous pouvez être payé."
+    }
+  },
+  "hero": {
+    "title": "Découvrez Votre",
+    "ikigai": "Ikigai",
+    "subtitle": "Le test le plus complet pour trouver le but de votre vie",
+    "description": "Explorez l'intersection de vos passions, talents, valeurs et opportunités avec notre évaluation Ikigai scientifiquement validée. Rejoignez plus de 10 000 personnes qui ont transformé leur vie.",
+    "cta": "Commencer le Test Gratuit",
+    "trustBadges": {
+      "tested": "10 000+ testés",
+      "satisfaction": "87% de satisfaction",
+      "time": "15 minutes"
+    },
+    "timeRequired": "15 minutes",
+    "testedUsers": "10 000+ testés",
+    "rating": "4.8/5 étoiles"
+  },
+  "features": {
+    "title": "Pourquoi Choisir Notre Test Ikigai?",
+    "subtitle": "L'évaluation la plus complète disponible",
+    "comprehensive": {
+      "title": "Analyse Complète",
+      "description": "18 questions soigneusement conçues couvrant tous les aspects de votre Ikigai"
+    },
+    "personalized": {
+      "title": "Insights Personnalisés",
+      "description": "Recevez des recommandations spécifiques basées sur votre profil unique"
+    },
+    "actionable": {
+      "title": "Conseils Pratiques",
+      "description": "Obtenez des étapes concrètes pour aligner votre vie avec votre but"
+    },
+    "scientific": {
+      "title": "Basé sur la Science",
+      "description": "Fondé sur la recherche en psychologie positive et développement personnel"
+    }
+  },
+  "howItWorks": {
+    "title": "Comment Ça Marche",
+    "subtitle": "Découvrez votre Ikigai en 3 étapes simples",
+    "step1": "Répondez aux Questions",
+    "step1Desc": "18 questions réfléchies sur vos passions, talents et valeurs",
+    "step2": "Obtenez Votre Analyse",
+    "step2Desc": "Résultats instantanés avec votre type Ikigai personnalisé",
+    "step3": "Transformez Votre Vie",
+    "step3Desc": "Conseils pratiques pour aligner carrière et épanouissement"
+  },
+  "testimonials": {
+    "title": "Ce Que Disent Nos Utilisateurs",
+    "subtitle": "Des milliers ont déjà trouvé leur but",
+    "description": "Découvrez comment notre test Ikigai a transformé la vie de milliers de personnes"
+  },
+  "provenResults": {
+    "title": "Résultats Prouvés",
+    "description": "Des milliers de personnes ont déjà transformé leur vie grâce à notre test Ikigai"
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "subtitle": "Tout ce que vous devez savoir sur notre test Ikigai",
+    "description": "Réponses aux questions les plus courantes sur notre évaluation Ikigai",
+    "q1": "Qu'est-ce que l'Ikigai exactement?",
+    "a1": "L'Ikigai est un concept japonais qui signifie 'raison d'être' ou 'but de la vie'. C'est l'intersection entre ce que vous aimez, ce en quoi vous excellez, ce dont le monde a besoin et ce pour quoi vous pouvez être payé.",
+    "q2": "Combien de temps prend le test?",
+    "a2": "Le test complet prend environ 15 minutes. Nous vous recommandons de prendre votre temps pour réfléchir à chaque question afin d'obtenir les résultats les plus précis.",
+    "q3": "Le test est-il vraiment gratuit?",
+    "a3": "Oui, le test de base est entièrement gratuit. Nous proposons également des analyses premium avec des insights plus détaillés et des conseils de carrière personnalisés.",
+    "q4": "Mes données sont-elles sécurisées?",
+    "a4": "Absolument. Nous prenons la confidentialité très au sérieux et utilisons un cryptage de niveau bancaire pour protéger toutes vos informations personnelles."
+  },
+  "cta": {
+    "title": "Prêt à Découvrir Votre Ikigai?",
+    "subtitle": "Rejoignez des milliers de personnes qui ont trouvé leur but",
+    "description": "Rejoignez des milliers de personnes qui ont trouvé leur but",
+    "button": "Commencer le Test Maintenant",
+    "guarantee": "Résultats instantanés - 100% gratuit"
+  },
+  "whatIsIkigai": {
+    "title": "Qu'est-ce que l'Ikigai?",
+    "description": "L'Ikigai est un concept japonais ancien qui signifie 'raison d'être' ou 'but de la vie'. C'est l'intersection magique de quatre éléments essentiels qui créent une vie épanouie et significative.",
+    "passion": "Passion",
+    "passionDesc": "Ce que vous aimez faire",
+    "mission": "Mission", 
+    "missionDesc": "Ce dont le monde a besoin",
+    "profession": "Profession",
+    "professionDesc": "Ce pour quoi vous pouvez être payé",
+    "vocation": "Vocation",
+    "vocationDesc": "Ce en quoi vous excellez"
+  },
+  "assessments": {
+    "free": {
+      "cta": "Test de Type Gratuit"
+    }
+  },
+  "hero": {
+    "timeRequired": "15 minutes",
+    "testedUsers": "10 000+ testés",
+    "rating": "4.8/5 étoiles"
+  },
+  "premiumFeatures": {
+    "title": "Fonctionnalités Premium",
+    "description": "Débloquez des insights plus profonds avec nos analyses premium",
+    "careerAnalysis": {
+      "title": "Analyse de Carrière",
+      "description": "Découvrez les carrières parfaitement alignées avec votre Ikigai",
+      "features": [
+        "Correspondances de carrières personnalisées",
+        "Analyse des salaires et perspectives",
+        "Évaluation de l'environnement de travail",
+        "Conseils de transition de carrière"
+      ]
+    },
+    "careerRoadmap": {
+      "title": "Feuille de Route Carrière",
+      "description": "Plan étape par étape pour atteindre vos objectifs professionnels",
+      "features": [
+        "Parcours de développement personnalisé",
+        "Jalons et objectifs temporels",
+        "Recommandations de compétences",
+        "Ressources d'apprentissage"
+      ]
+    },
+    "personalityDeepDive": {
+      "title": "Analyse de Personnalité Approfondie", 
+      "description": "Comprenez vos traits de personnalité et vos motivations",
+      "features": [
+        "Profil de personnalité détaillé",
+        "Styles de communication",
+        "Préférences de travail",
+        "Conseils de développement personnel"
+      ]
+    }
+  },
+  "premiumTiers": {
+    "title": "Choisissez Votre Niveau d'Analyse",
+    "description": "Sélectionnez le niveau d'insights qui correspond le mieux à vos besoins",
+    "careerRoadmapGuide": {
+      "title": "Guide Feuille de Route Carrière",
+      "price": "2,95 $",
+      "features": [
+        "Analyse de carrière de base",
+        "3 correspondances de carrières top",
+        "Plan de développement simple",
+        "Résumé des forces et défis"
+      ]
+    },
+    "personalityDeepDive": {
+      "title": "Plongée Personnalité Profonde",
+      "price": "4,95 $", 
+      "features": [
+        "Tout du niveau précédent",
+        "Analyse de personnalité complète",
+        "5 correspondances de carrières détaillées",
+        "Profil de style de travail",
+        "Conseils de communication"
+      ]
+    },
+    "successBlueprint": {
+      "title": "Plan de Réussite",
+      "price": "9,95 $",
+      "features": [
+        "Analyse complète et ultime", 
+        "Feuille de route détaillée sur 6 mois",
+        "Plan de transformation personnel",
+        "Préparation d'entretien avancée",
+        "Support continu et ressources"
+      ]
+    },
+    "mostPopular": "Le Plus Populaire",
+    "getStarted": "Commencer"
+  }
+}
