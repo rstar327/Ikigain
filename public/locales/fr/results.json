@@ -1,0 +1,592 @@
+{
+  "title": "Vos Résultats Ikigai",
+  "subtitle": "Découvrez votre profil personnel et votre chemin vers l'épanouissement",
+  "loading": "Analyse de vos résultats...",
+  "error": "Erreur lors du chargement des résultats",
+  "retry": "Réessayer",
+  
+  "yourType": "Votre Type Ikigai",
+  "personalityType": "Type de Personnalité",
+  "overallScore": "Score Global",
+  "breakdown": "Répartition Détaillée",
+  
+  "pillars": {
+    "passion": "Passion",
+    "mission": "Mission", 
+    "vocation": "Vocation",
+    "profession": "Profession"
+  },
+  
+  "scores": {
+    "passion": "Ce que vous aimez",
+    "mission": "Ce dont le monde a besoin",
+    "vocation": "Ce en quoi vous excellez", 
+    "profession": "Ce pour quoi vous pouvez être payé"
+  },
+  
+  "interpretation": {
+    "title": "Interprétation de Vos Résultats",
+    "description": "Voici ce que vos scores révèlent sur votre Ikigai personnel:",
+    "highScore": "Score Élevé",
+    "moderateScore": "Score Modéré",
+    "lowScore": "Score Faible",
+    "balancedProfile": "Profil Équilibré"
+  },
+  
+  "recommendations": {
+    "title": "Recommandations Personnalisées",
+    "subtitle": "Étapes concrètes pour développer votre Ikigai",
+    "explore": "Explorer",
+    "develop": "Développer",
+    "strengthen": "Renforcer",
+    "balance": "Équilibrer"
+  },
+  
+  "nextSteps": {
+    "title": "Prochaines Étapes",
+    "subtitle": "Votre voyage Ikigai ne fait que commencer",
+    "learnMore": "En Savoir Plus sur Votre Type",
+    "exploreCareer": "Explorer les Carrières Compatibles",
+    "takeFullTest": "Passer le Test Complet",
+    "upgradeAnalysis": "Améliorer Votre Analyse"
+  },
+  
+  "share": {
+    "title": "Partager Vos Résultats",
+    "description": "Inspirez d'autres personnes avec votre découverte Ikigai",
+    "copyLink": "Copier le Lien",
+    "shareEmail": "Partager par Email",
+    "shareSocial": "Partager sur les Réseaux Sociaux"
+  },
+  
+  "overview": {
+    "primaryType": "Type Principal",
+    "secondaryType": "Type Secondaire",
+    "overallScore": "Score Global"
+  },
+  
+  "chart": {
+    "title": "Votre Équilibre Ikigai"
+  },
+  
+  "pillars": {
+    "title": "Les Quatre Piliers de Votre Ikigai",
+    "passion": {
+      "title": "Passion"
+    },
+    "mission": {
+      "title": "Mission"
+    },
+    "vocation": {
+      "title": "Vocation"
+    },
+    "profession": {
+      "title": "Profession"
+    }
+  },
+  
+  "learnMore": "En Savoir Plus sur {{type}}",
+  
+  "typeDescriptions": {
+    "Creative Enthusiast": "Vous prospérez dans l'expression créative et trouvez de la joie à apporter de la beauté et de l'innovation dans le monde. Votre passion guide vos choix et vous excellez lorsque vous pouvez mélanger créativité avec impact significatif.",
+    "Skilled Expert": "Vous êtes motivé par la maîtrise et l'excellence dans votre domaine d'expertise. Vous trouvez satisfaction à approfondir vos connaissances et à partager votre expertise avec les autres.",
+    "Purpose-Driven Leader": "Votre mission de créer un impact positif guide vos décisions. Vous excellez dans l'inspiration des autres et la création de changements significatifs dans votre communauté ou organisation.",
+    "Career-Focused Achiever": "Vous prospérez en atteignant des objectifs professionnels et en construisant une carrière réussie. Votre ambition et votre détermination vous propulsent vers vos aspirations."
+  },
+
+  "creativeEnthusiast": {
+    "strengths": [
+      "Capacités de résolution de problèmes innovantes",
+      "Sens esthétique fort et pensée visuelle",
+      "Capacité naturelle à inspirer et motiver les autres",
+      "Pensée adaptable et flexible",
+      "Intelligence émotionnelle et empathie élevées"
+    ],
+    "challenges": [
+      "Peut avoir des difficultés avec les tâches routinières ou administratives",
+      "Parfois des difficultés avec les échéances strictes",
+      "Peut être sensible aux critiques",
+      "Peut avoir besoin de structure pour maintenir la concentration",
+      "Enclin aux blocages créatifs pendant le stress"
+    ],
+    "careerMatches": {
+      "title": "Correspondances de Carrière Principales",
+      "uxDesigner": {
+        "title": "Designer UX/UI",
+        "match": "92% de correspondance",
+        "salary": "65 000$ - 120 000$",
+        "description": "Concevoir des expériences utilisateur qui combinent créativité et fonctionnalité."
+      },
+      "creativeDirector": {
+        "title": "Directeur Créatif",
+        "match": "88% de correspondance", 
+        "salary": "80 000$ - 150 000$",
+        "description": "Diriger des équipes créatives et façonner les identités de marque."
+      },
+      "artTherapist": {
+        "title": "Art-thérapeute",
+        "match": "85% de correspondance",
+        "salary": "45 000$ - 80 000$",
+        "description": "Utiliser la créativité pour aider les autres à guérir et grandir."
+      },
+      "contentCreator": {
+        "title": "Créateur de Contenu",
+        "match": "83% de correspondance",
+        "salary": "40 000$ - 100 000$+",
+        "description": "Créer du contenu engageant sur plusieurs plateformes."
+      }
+    },
+    "nurturingTips": {
+      "title": "Comment Nourrir Votre Type Enthousiaste Créatif",
+      "embrace": {
+        "title": "Embrassez Votre Processus Créatif",
+        "description": "Accordez-vous du temps pour l'inspiration et ne forcez pas la créativité. Créez un espace créatif dédié."
+      },
+      "structure": {
+        "title": "Construisez une Structure Autour de la Créativité",
+        "description": "Utilisez le time-blocking et les outils de gestion de projet pour équilibrer liberté créative et échéances."
+      },
+      "collaborate": {
+        "title": "Recherchez des Opportunités de Collaboration",
+        "description": "Associez-vous avec d'autres qui complètent vos compétences, surtout en affaires et exécution."
+      }
+    },
+    "callToAction": {
+      "title": "Prêt à Embrasser Votre Ikigai Créatif?",
+      "description": "Passez notre test Ikigai complet pour découvrir votre chemin unique vers le but et l'épanouissement.",
+      "takeTest": "Passer le Test Ikigai",
+      "freeTest": "Test Ikigai Type Gratuit"
+    }
+  },
+
+  "skilledExpert": {
+    "title": "Expert Spécialisé",
+    "description": "Vous excellez lorsque vous utilisez vos compétences pour résoudre des problèmes et prendre en charge des situations, toujours prêt à appliquer votre expertise.",
+    "purposeDescription": "Votre Ikigai découle de la maîtrise et de l'expertise. Vous trouvez une profonde satisfaction à développer des compétences spécialisées et à les appliquer pour résoudre des problèmes complexes. Vous prospérez lorsque votre compétence est reconnue et quand vous pouvez avoir un impact tangible grâce à vos capacités professionnelles.",
+    "strengths": [
+      "Expertise technique et connaissances approfondies",
+      "Approche systématique de résolution de problèmes",
+      "Forte attention aux détails et à la qualité",
+      "Capacité à travailler de manière indépendante",
+      "État d'esprit d'apprentissage continu"
+    ],
+    "challenges": [
+      "Peut devenir trop concentré sur la perfection",
+      "Parfois des difficultés avec les situations ambiguës",
+      "Peut résister au changement ou aux nouvelles méthodes",
+      "Peut être trop critique du travail des autres",
+      "Peut négliger le contexte commercial plus large"
+    ],
+    "careerMatches": {
+      "title": "Correspondances de Carrière Principales",
+      "softwareEngineer": {
+        "title": "Ingénieur Logiciel",
+        "match": "94% de correspondance",
+        "salary": "85 000$ - 160 000$",
+        "description": "Construire des systèmes logiciels robustes et scalables."
+      },
+      "dataScientist": {
+        "title": "Scientifique des Données",
+        "match": "91% de correspondance",
+        "salary": "95 000$ - 180 000$",
+        "description": "Analyser des données complexes pour découvrir des insights."
+      },
+      "consultant": {
+        "title": "Consultant Spécialisé",
+        "match": "87% de correspondance",
+        "salary": "75 000$ - 150 000$",
+        "description": "Fournir des conseils d'expert dans votre domaine."
+      },
+      "researcher": {
+        "title": "Chercheur",
+        "match": "85% de correspondance",
+        "salary": "60 000$ - 120 000$",
+        "description": "Mener des recherches approfondies dans votre spécialité."
+      }
+    },
+    "nurturingTips": {
+      "title": "Comment Nourrir Votre Type Expert Spécialisé",
+      "continuous": {
+        "title": "Investissez dans l'Apprentissage Continu",
+        "description": "Restez à jour avec les dernières tendances et technologies dans votre domaine."
+      },
+      "network": {
+        "title": "Construisez un Réseau Professionnel",
+        "description": "Connectez-vous avec d'autres experts pour partager des connaissances et collaborer."
+      },
+      "teach": {
+        "title": "Partagez Votre Expertise",
+        "description": "Mentorez les autres et partagez vos connaissances par l'enseignement ou l'écriture."
+      }
+    },
+    "callToAction": {
+      "title": "Prêt à Optimiser Votre Expertise?",
+      "description": "Découvrez comment aligner vos compétences spécialisées avec votre but de vie.",
+      "takeTest": "Passer le Test Ikigai",
+      "freeTest": "Test Ikigai Type Gratuit"
+    }
+  },
+
+  "purposeDrivenLeader": {
+    "title": "Leader Orienté Mission",
+    "subtitle": "Vous êtes motivé par un sentiment de but et un désir d'avoir un impact positif sur le monde par un travail significatif.",
+    "purposeSource": "Votre Source de But",
+    "purposeDescription": "Votre Ikigai découle de la contribution significative aux causes qui vous tiennent à cœur. Vous trouvez un profond épanouissement lorsque votre travail s'aligne avec vos valeurs et crée un changement positif dans le monde. Vous gravitez naturellement vers les rôles de leadership où vous pouvez inspirer les autres et mener des initiatives axées sur la mission.",
+    "coreStrengths": "Forces Principales",
+    "strengths": [
+      "Fort sens du but et des valeurs",
+      "Capacités naturelles de leadership et de constitution d'équipe", 
+      "Excellentes compétences de communication et de persuasion",
+      "Capacité à inspirer et motiver les autres",
+      "Pensée stratégique et développement de vision"
+    ],
+    "growthAreas": "Domaines de Croissance",
+    "challenges": [
+      "Peut devenir débordé par les problèmes sociaux",
+      "Parfois idéaliste concernant les délais de changement",
+      "Peut avoir des difficultés avec l'équilibre travail-vie",
+      "Peut négliger la sécurité financière pour le but",
+      "Peut être impatient avec les progrès lents"
+    ],
+    "careerMatches": "Principales Correspondances de Carrière",
+    "ctaTitle": "Prêt à Amplifier Votre Impact?",
+    "ctaDescription": "Découvrez comment aligner votre leadership avec votre but de vie.",
+    "takeTest": "Passer le Test Ikigai",
+    "freeTest": "Test Ikigai Type Gratuit"
+  },
+
+  "careerFocusedAchiever": {
+    "title": "Réalisateur Axé Carrière", 
+    "subtitle": "Vous êtes motivé par le succès professionnel et la sécurité financière, trouvant l'épanouissement dans l'avancement de carrière et la reconnaissance.",
+    "purposeSource": "Votre Source de But",
+    "purposeDescription": "Votre Ikigai découle de la réussite professionnelle et de la sécurité qui vient avec le succès de carrière. Vous trouvez une profonde satisfaction à faire progresser votre carrière, à obtenir une reconnaissance pour votre travail, et à construire une stabilité financière. Vous prospérez dans des environnements compétitifs où vos efforts se traduisent directement en succès mesurable.",
+    "coreStrengths": "Forces Principales",
+    "strengths": [
+      "Fort moteur pour la réussite et le succès",
+      "Excellentes capacités de définition d'objectifs et de planification",
+      "Esprit compétitif naturel et résilience", 
+      "Pensée stratégique et sens des affaires",
+      "Forte éthique de travail et détermination"
+    ],
+    "growthAreas": "Domaines de Croissance",
+    "challenges": [
+      "Peut sacrifier les relations personnelles pour la carrière",
+      "Peut devenir trop concentré sur la validation externe",
+      "Peut avoir des difficultés avec l'équilibre travail-vie",
+      "Peut être impatient avec les progrès lents",
+      "Peut négliger le bien-être personnel pour le succès"
+    ],
+    "careerMatches": "Principales Correspondances de Carrière",
+    "ctaTitle": "Prêt à Accélérer Votre Succès?",
+    "ctaDescription": "Découvrez comment aligner vos ambitions de carrière avec votre but de vie.",
+    "takeTest": "Passer le Test Ikigai",
+    "freeTest": "Test Ikigai Type Gratuit"
+  },
+
+  "individualTypes": {
+    "creativeEnthusiast": {
+      "title": "Enthousiaste Créatif",
+      "subtitle": "Vous êtes motivé par la créativité, l'innovation et le désir de vous exprimer à travers un travail significatif.",
+      "purposeSource": "Votre Source de But",
+      "purposeDescription": "Votre Ikigai découle de l'expression créative et de l'innovation. Vous trouvez une profonde satisfaction lorsque vous pouvez donner vie aux idées, que ce soit par le design, l'art, l'écriture ou la résolution innovante de problèmes. Vous prospérez dans des environnements qui encouragent la créativité et vous permettent d'explorer de nouvelles possibilités.",
+      "coreStrengths": "Forces Principales",
+      "strengths": [
+        "Pensée créative et innovation",
+        "Sens esthétique fort et compétences en design",
+        "Capacité d'inspirer et motiver les autres",
+        "Adaptabilité et ouverture aux nouvelles idées",
+        "Fortes compétences de communication et de narration"
+      ],
+      "growthAreas": "Domaines de Croissance", 
+      "challenges": [
+        "Peut avoir des difficultés avec les tâches routinières ou banales",
+        "Parfois des difficultés à respecter des échéances strictes",
+        "Peut résister à trop de structure ou de contrôle",
+        "Peut être trop critique de son propre travail",
+        "Peut négliger les considérations commerciales pratiques"
+      ],
+      "careerMatches": "Principales Correspondances de Carrière",
+      "ctaTitle": "Prêt à Libérer Votre Potentiel Créatif?",
+      "ctaDescription": "Découvrez comment aligner votre passion créative avec votre but de vie.",
+      "takeTest": "Passer le Test Ikigai",
+      "freeTest": "Test Ikigai Type Gratuit"
+    },
+    "skilledExpert": {
+      "title": "Expert Spécialisé",
+      "subtitle": "Vous êtes motivé par la maîtrise, l'expertise et la satisfaction de résoudre des problèmes complexes avec vos connaissances spécialisées.",
+      "purposeSource": "Votre Source de But",
+      "purposeDescription": "Votre Ikigai découle de l'expertise profonde et de la maîtrise dans votre domaine choisi. Vous trouvez l'épanouissement en développant continuellement vos compétences, en résolvant des problèmes complexes, et en étant reconnu comme un professionnel compétent. Vous prospérez quand vous pouvez appliquer vos connaissances spécialisées pour créer des solutions significatives.",
+      "coreStrengths": "Forces Principales",
+      "strengths": [
+        "Expertise technique et connaissances approfondies",
+        "Approche systématique de résolution de problèmes",
+        "Forte attention aux détails et à la qualité",
+        "Capacité à travailler de manière indépendante", 
+        "État d'esprit d'apprentissage continu"
+      ],
+      "growthAreas": "Domaines de Croissance",
+      "challenges": [
+        "Peut devenir trop concentré sur la perfection",
+        "Parfois des difficultés avec les situations ambiguës",
+        "Peut résister au changement ou aux nouvelles méthodes",
+        "Peut être trop critique du travail des autres",
+        "Peut négliger le contexte commercial plus large"
+      ],
+      "careerMatches": "Principales Correspondances de Carrière",
+      "ctaTitle": "Prêt à Optimiser Votre Expertise?",
+      "ctaDescription": "Découvrez comment aligner vos compétences spécialisées avec votre but de vie.",
+      "takeTest": "Passer le Test Ikigai",
+      "freeTest": "Test Ikigai Type Gratuit"
+    }
+  },
+
+  "purposeDrivenLeader": {
+    "title": "Leader Orienté Mission",
+    "description": "Vous êtes motivé par un sentiment de but et un désir d'avoir un impact positif sur le monde par un travail significatif.",
+    "purposeDescription": "Votre Ikigai découle de la contribution significative aux causes qui vous tiennent à cœur. Vous trouvez un profond épanouissement lorsque votre travail s'align avec vos valeurs et crée un changement positif dans le monde. Vous gravitez naturellement vers les rôles de leadership où vous pouvez inspirer les autres et mener des initiatives axées sur la mission.",
+    "strengths": [
+      "Fort sens du but et des valeurs",
+      "Capacités naturelles de leadership et de constitution d'équipe",
+      "Excellentes compétences de communication et de persuasion",
+      "Capacité à inspirer et motiver les autres",
+      "Pensée stratégique et développement de vision"
+    ],
+    "challenges": [
+      "Peut devenir débordé par les problèmes sociaux",
+      "Parfois idéaliste concernant les délais de changement",
+      "Peut avoir des difficultés avec l'équilibre travail-vie",
+      "Peut négliger la sécurité financière pour le but",
+      "Peut être impatient avec les progrès lents"
+    ],
+    "careerMatches": {
+      "title": "Correspondances de Carrière Principales",
+      "nonprofit": {
+        "title": "Directeur d'ONG",
+        "match": "96% de correspondance",
+        "salary": "65 000$ - 120 000$",
+        "description": "Diriger des organisations à but non lucratif vers l'impact social."
+      },
+      "socialWorker": {
+        "title": "Travailleur Social",
+        "match": "89% de correspondance",
+        "salary": "45 000$ - 75 000$",
+        "description": "Aider les individus et communautés à surmonter les défis."
+      },
+      "sustainability": {
+        "title": "Consultant en Durabilité",
+        "match": "87% de correspondance",
+        "salary": "70 000$ - 130 000$",
+        "description": "Guider les organisations vers des pratiques durables."
+      },
+      "educator": {
+        "title": "Éducateur/Formateur",
+        "match": "84% de correspondance",
+        "salary": "50 000$ - 90 000$",
+        "description": "Enseigner et développer les futurs leaders."
+      }
+    },
+    "nurturingTips": {
+      "title": "Comment Nourrir Votre Type Leader Orienté Mission",
+      "boundaries": {
+        "title": "Établissez des Limites Saines",
+        "description": "Équilibrez votre passion pour la cause avec les soins personnels et la famille."
+      },
+      "network": {
+        "title": "Connectez-vous avec des Leaders Similaires",
+        "description": "Rejoignez des communautés de leaders partageant les mêmes idées pour le soutien."
+      },
+      "sustainable": {
+        "title": "Créez un Impact Durable",
+        "description": "Concentrez-vous sur des changements systémiques plutôt que sur des solutions rapides."
+      }
+    },
+    "callToAction": {
+      "title": "Prêt à Amplifier Votre Impact?",
+      "description": "Découvrez comment aligner votre leadership avec votre but de vie.",
+      "takeTest": "Passer le Test Ikigai",
+      "freeTest": "Test Ikigai Type Gratuit"
+    }
+  },
+
+  "careerFocusedAchiever": {
+    "title": "Réalisateur Axé Carrière",
+    "description": "Vous êtes motivé par le succès professionnel et la sécurité financière, trouvant l'épanouissement dans l'avancement de carrière et la reconnaissance.",
+    "purposeDescription": "Votre Ikigai découle de la réussite professionnelle et de la sécurité qui vient avec le succès de carrière. Vous trouvez une profonde satisfaction à faire progresser votre carrière, à obtenir une reconnaissance pour votre travail, et à construire une stabilité financière. Vous prospérez dans des environnements compétitifs où vos efforts se traduisent directement en succès mesurable.",
+    "strengths": [
+      "Fort moteur pour la réussite et le succès",
+      "Excellentes capacités de définition d'objectifs et de planification",
+      "Esprit compétitif naturel et résilience",
+      "Pensée stratégique et sens des affaires",
+      "Forte éthique de travail et détermination"
+    ],
+    "challenges": [
+      "Peut sacrifier les relations personnelles pour la carrière",
+      "Peut devenir trop concentré sur la validation externe",
+      "Peut avoir des difficultés avec l'équilibre travail-vie",
+      "Peut être impatient avec les progrès lents",
+      "Peut négliger le bien-être personnel pour le succès"
+    ],
+    "careerMatches": {
+      "title": "Correspondances de Carrière Principales",
+      "executive": {
+        "title": "Cadre Dirigeant",
+        "match": "95% de correspondance",
+        "salary": "150 000$ - 500 000$+",
+        "description": "Diriger des organisations vers la croissance et la rentabilité."
+      },
+      "salesManager": {
+        "title": "Directeur des Ventes",
+        "match": "91% de correspondance",
+        "salary": "80 000$ - 200 000$+",
+        "description": "Gérer les équipes de vente et atteindre les objectifs de revenus."
+      },
+      "investment": {
+        "title": "Banquier d'Investissement",
+        "match": "88% de correspondance",
+        "salary": "100 000$ - 300 000$+",
+        "description": "Faciliter les transactions financières complexes."
+      },
+      "entrepreneur": {
+        "title": "Entrepreneur",
+        "match": "86% de correspondance",
+        "salary": "Variable - Potentiel illimité",
+        "description": "Créer et développer vos propres entreprises."
+      }
+    },
+    "nurturingTips": {
+      "title": "Comment Nourrir Votre Type Réalisateur Axé Carrière",
+      "balance": {
+        "title": "Priorisez l'Équilibre Travail-Vie",
+        "description": "Planifiez du temps pour les relations et les activités personnelles."
+      },
+      "values": {
+        "title": "Alignez le Succès avec les Valeurs",
+        "description": "Assurez-vous que vos objectifs de carrière reflètent vos valeurs profondes."
+      },
+      "health": {
+        "title": "Investissez dans Votre Santé",
+        "description": "Maintenez votre bien-être physique et mental pour un succès durable."
+      }
+    },
+    "callToAction": {
+      "title": "Prêt à Accélérer Votre Succès?",
+      "description": "Découvrez comment aligner vos ambitions de carrière avec votre but de vie.",
+      "takeTest": "Passer le Test Ikigai",
+      "freeTest": "Test Ikigai Type Gratuit"
+    }
+  },
+  
+  "personalityTypes": {
+    "Creative Enthusiast": "Enthousiaste Créatif",
+    "Skilled Expert": "Expert Spécialisé", 
+    "Purpose-Driven Leader": "Leader Orienté Mission",
+    "Career-Focused Achiever": "Ambitieux Orienté Carrière",
+    "Builder": "Le Constructeur",
+    "Explorer": "L'Explorateur",
+    "Dreamer": "Le Rêveur",
+    "Achiever": "L'Ambitieux",
+    "Helper": "L'Aidant"
+  },
+  
+  "vocations": {
+    "title": "Principales Zones de Vocation",
+    "Leadership": "Leadership",
+    "Problem Solving": "Résolution de Problèmes",
+    "Specialized Knowledge": "Connaissances Spécialisées",
+    "Communication": "Communication",
+    "Creativity": "Créativité",
+    "Analysis": "Analyse",
+    "Organization": "Organisation",
+    "Innovation": "Innovation"
+  },
+  
+  "strengths": {
+    "title": "Forces",
+    "Your entrepreneurial mindset enables You to spot opportunities and turn them into success.": "Votre mentalité entrepreneuriale vous permet de repérer les opportunités et de les transformer en succès.",
+    "You excel at analyzing complex problems and devising practical solutions.": "Vous excellez dans l'analyse de problèmes complexes et l'élaboration de solutions pratiques.",
+    "Your expertise in specialized areas sets You apart as a knowledgeable authority.": "Votre expertise dans des domaines spécialisés vous distingue comme une autorité compétente.",
+    "You are deeply committed to advancing social causes and making a positive impact.": "Vous êtes profondément engagé(e) dans l'avancement des causes sociales et la création d'un impact positif.",
+    "You have a natural talent for understanding and connecting with people.": "Vous avez un talent naturel pour comprendre et vous connecter avec les gens."
+  },
+  
+  "careers": {
+    "title": "Parcours Professionnel",
+    "Technical Specialist": "Spécialiste Technique",
+    "Engineer": "Ingénieur",
+    "Consultant": "Consultant",
+    "Project Manager": "Chef de Projet",
+    "Analyst": "Analyste", 
+    "Expert": "Expert",
+    "Social Worker": "Travailleur Social",
+    "Teacher": "Enseignant",
+    "Counselor": "Conseiller",
+    "Non-profit Leader": "Leader d'ONG",
+    "Community Organizer": "Organisateur Communautaire",
+    "Mentor": "Mentor",
+    "Therapist": "Thérapeute",
+    "Coach": "Coach"
+  },
+  
+  "actions": {
+    "title": "Étapes d'Action",
+    "Develop and master technical skills in your field": "Développez et maîtrisez les compétences techniques dans votre domaine",
+    "Take on leadership roles and problem-solving challenges": "Assumez des rôles de leadership et des défis de résolution de problèmes",
+    "Build expertise in specialized areas": "Développez une expertise dans des domaines spécialisés",
+    "Explore creative outlets and artistic pursuits": "Explorez les débouchés créatifs et les activités artistiques",
+    "Volunteer for causes you care about": "Faites du bénévolat pour des causes qui vous tiennent à cœur",
+    "Mentor others and share your knowledge": "Encadrez les autres et partagez vos connaissances",
+    "Build strong community connections": "Établissez de solides connexions communautaires",
+    "Join professional organizations in your field": "Rejoignez des organisations professionnelles dans votre domaine"
+  },
+  
+  "premium": {
+    "title": "Débloquez Votre Potentiel Ikigai Complet",
+    "description": "Obtenez une analyse approfondie avec des recommandations de carrière personnalisées et des feuilles de route de développement.",
+    "upgraded": {
+      "title": "Accès Premium Accordé",
+      "description": "Profitez de vos insights étendus !"
+    },
+    "error": "Échec de la mise à niveau vers premium. Veuillez réessayer."
+  },
+  
+  "personalityTypes": {
+    "Creative Enthusiast": "Enthousiaste Créatif",
+    "Skilled Expert": "Expert Spécialisé",
+    "Purpose-Driven Leader": "Leader Orienté Mission",
+    "Career-Focused Achiever": "Ambitieux Axé Carrière",
+    "Dreamer": "Rêveur",
+    "Achiever": "Ambitieux",
+    "Helper": "Aidant",
+    "Explorer": "Explorateur",
+    "Builder": "Constructeur"
+  },
+  
+  "personalityDescriptions": {
+    "Creative Enthusiast": "Vous prospérez dans l'expression créative et trouvez de la joie à apporter de la beauté et de l'innovation dans le monde. Votre passion guide vos choix et vous excellez lorsque vous pouvez mélanger créativité avec impact significatif.",
+    "Skilled Expert": "Vous êtes motivé par la maîtrise et l'excellence dans votre domaine d'expertise. Vous trouvez satisfaction à approfondir vos connaissances et à partager votre expertise avec les autres.",
+    "Purpose-Driven Leader": "Votre mission de créer un impact positif guide vos décisions. Vous excellez dans l'inspiration des autres et la création de changements significatifs dans votre communauté ou organisation.",
+    "Career-Focused Achiever": "Vous prospérez en atteignant des objectifs professionnels et en construisant une carrière réussie. Votre ambition et votre détermination vous propulsent vers vos aspirations.",
+    "Dreamer": "Rêveur",
+    "Achiever": "Ambitieux", 
+    "Helper": "Aidant",
+    "Explorer": "Explorateur",
+    "Builder": "Constructeur"
+  },
+  
+  "title": "Vos Résultats Actuels",
+  "personalityType": "Type Principal",
+  
+  "types": {
+    "creative-enthusiast": "Enthousiaste Créatif",
+    "skilled-expert": "Expert Spécialisé", 
+    "purpose-driven-leader": "Leader Orienté Mission",
+    "career-focused-achiever": "Ambitieux Orienté Carrière"
+  },
+  
+  "typeDescriptions": {
+    "creative-enthusiast": "Vous êtes motivé par la passion et la créativité, prospérant dans des environnements qui permettent l'expression artistique et l'innovation.",
+    "skilled-expert": "Vous excellez grâce à la maîtrise et l'expertise, trouvant l'épanouissement dans le développement et l'application de compétences spécialisées.",
+    "purpose-driven-leader": "Vous trouvez votre épanouissement en servant les autres et en ayant un impact positif sur le monde qui vous entoure.",
+    "career-focused-achiever": "Vous trouvez votre but en construisant des entreprises prospères et en créant de la valeur économique grâce à la pensée stratégique."
+  }
+}

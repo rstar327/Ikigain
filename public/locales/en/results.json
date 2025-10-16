@@ -1,0 +1,230 @@
+{
+  "title": "Your Ikigai Results",
+  "subtitle": "Your personalized life purpose profile",
+  
+  "overview": {
+    "primaryType": "Primary Type",
+    "secondaryType": "Secondary Type",
+    "overallScore": "Overall Score"
+  },
+  
+  "premiumOverview": {
+    "primaryType": "Primary Type",
+    "secondaryType": "Secondary Type", 
+    "overallScore": "Overall Score",
+    "careerMatches": "Career Matches",
+    "breakdown": "Ikigai Score Breakdown",
+    "personalityInsights": "Personality Insights"
+  },
+  
+  "tabs": {
+    "overview": "Overview",
+    "careers": "Career Matches",
+    "roadmaps": "Career Roadmaps",
+    "development": "Development Areas", 
+    "market": "Market Insights",
+    "personality": "Personality Profile",
+    "networking": "Networking Strategy",
+    "interview": "Interview Prep",
+    "success": "Success Blueprint",
+    "aiMentor": "AI Mentor"
+  },
+  
+  "chart": {
+    "title": "Your Ikigai Balance"
+  },
+  
+  "pillars": {
+    "title": "The Four Pillars of Your Ikigai",
+    "passion": {
+      "title": "Passion"
+    },
+    "mission": {
+      "title": "Mission"
+    },
+    "vocation": {
+      "title": "Vocation"
+    },
+    "profession": {
+      "title": "Profession"
+    }
+  },
+  
+  "learnMore": "Learn More About {{type}}",
+  
+  "personalityTypes": {
+    "Creative Enthusiast": "Creative Enthusiast",
+    "Skilled Expert": "Skilled Expert",
+    "Purpose-Driven Leader": "Purpose-Driven Leader", 
+    "Career-Focused Achiever": "Career-Focused Achiever",
+    "Builder": "The Builder",
+    "Explorer": "The Explorer",
+    "Dreamer": "The Dreamer", 
+    "Achiever": "The Achiever",
+    "Helper": "The Helper"
+  },
+  
+  "vocations": {
+    "title": "Top Vocation Areas",
+    "Leadership": "Leadership",
+    "Problem Solving": "Problem Solving",
+    "Specialized Knowledge": "Specialized Knowledge", 
+    "Communication": "Communication",
+    "Creativity": "Creativity",
+    "Analysis": "Analysis",
+    "Organization": "Organization",
+    "Innovation": "Innovation"
+  },
+  
+  "strengths": {
+    "title": "Strengths"
+  },
+  
+  "careers": {
+    "title": "Career Path"
+  },
+  
+  "actions": {
+    "title": "Action Steps"
+  },
+  
+  "premium": {
+    "title": "Premium Ikigai Results", 
+    "subtitle": "Your complete life purpose analysis",
+    "loading": "Loading your premium insights...",
+    "description": "Get deeper insights with personalized career recommendations and development roadmaps.",
+    "upgraded": {
+      "title": "Premium Access Granted",
+      "description": "Enjoy your extended insights!"
+    },
+    "lockedFeature": "Premium Feature",
+    "lockedDescription": "Upgrade to {{tier}} to unlock this feature",
+    "upgradeButton": "Upgrade to {{tier}}",
+    "error": "Failed to upgrade to premium. Please try again."
+  },
+  
+  "typeDescriptions": {
+    "Creative Enthusiast": "Creative and passionate individuals who thrive on innovation and artistic expression. You find deep fulfillment in bringing ideas to life and inspiring others through your creative work.",
+    "Skilled Expert": "Knowledgeable professionals who excel in their chosen field. You find satisfaction in developing specialized skills and applying your expertise to solve complex problems.",
+    "Purpose-Driven Leader": "Inspirational leaders focused on meaningful impact. You thrive when guiding others toward important goals and creating positive change in the world.",
+    "Career-Focused Achiever": "Ambitious professionals driven by career success. You find fulfillment in reaching professional milestones and building a successful career trajectory."
+  },
+
+  "individualTypes": {
+    "creativeEnthusiast": {
+      "title": "Creative Enthusiast",
+      "subtitle": "You are driven by creativity, innovation, and the desire to express yourself through meaningful work.",
+      "purposeSource": "Your Purpose Source",
+      "purposeDescription": "Your Ikigai flows from creative expression and innovation. You find deep satisfaction when you can bring ideas to life, whether through design, art, writing, or innovative problem-solving. You thrive in environments that encourage creativity and allow you to explore new possibilities.",
+      "coreStrengths": "Core Strengths",
+      "strengths": [
+        "Creative thinking and innovation",
+        "Strong aesthetic sense and design skills",
+        "Ability to inspire and motivate others",
+        "Adaptability and openness to new ideas",
+        "Strong communication and storytelling abilities"
+      ],
+      "growthAreas": "Growth Areas",
+      "challenges": [
+        "May struggle with routine or mundane tasks",
+        "Sometimes difficulty meeting strict deadlines",
+        "May resist too much structure or control",
+        "Can be overly critical of their own work",
+        "May neglect practical business considerations"
+      ],
+      "careerMatches": "Top Career Matches",
+      "ctaTitle": "Ready to Unleash Your Creative Potential?",
+      "ctaDescription": "Discover how to align your creative passion with your life purpose.",
+      "takeTest": "Take the Ikigai Test",
+      "freeTest": "Free Ikigai Type Test"
+    },
+    "skilledExpert": {
+      "title": "Skilled Expert",
+      "subtitle": "You are driven by mastery, expertise, and the satisfaction of solving complex problems with your specialized knowledge.",
+      "purposeSource": "Your Purpose Source", 
+      "purposeDescription": "Your Ikigai flows from deep expertise and mastery in your chosen field. You find fulfillment in continuously developing your skills, solving complex problems, and being recognized as a knowledgeable professional. You thrive when you can apply your specialized knowledge to create meaningful solutions.",
+      "coreStrengths": "Core Strengths",
+      "strengths": [
+        "Technical expertise and deep knowledge",
+        "Systematic problem-solving approach", 
+        "Strong attention to detail and quality",
+        "Ability to work independently",
+        "Continuous learning mindset"
+      ],
+      "growthAreas": "Growth Areas",
+      "challenges": [
+        "May become too focused on perfection",
+        "Sometimes struggle with ambiguous situations",
+        "May resist change or new methods",
+        "May be overly critical of others' work",
+        "May neglect broader business context"
+      ],
+      "careerMatches": "Top Career Matches",
+      "ctaTitle": "Ready to Optimize Your Expertise?",
+      "ctaDescription": "Discover how to align your specialized skills with your life purpose.",
+      "takeTest": "Take the Ikigai Test",
+      "freeTest": "Free Ikigai Type Test"
+    },
+    "purposeDrivenLeader": {
+      "title": "Purpose-Driven Leader",
+      "subtitle": "You are driven by a sense of purpose and desire to make a positive impact on the world through meaningful work.",
+      "purposeSource": "Your Purpose Source",
+      "purposeDescription": "Your Ikigai flows from meaningful contribution to causes you care about. You find deep fulfillment when your work aligns with your values and creates positive change in the world. You naturally gravitate toward leadership roles where you can inspire others and drive mission-focused initiatives.",
+      "coreStrengths": "Core Strengths", 
+      "strengths": [
+        "Strong sense of purpose and values",
+        "Natural leadership and team-building abilities",
+        "Excellent communication and persuasion skills",
+        "Ability to inspire and motivate others",
+        "Strategic thinking and vision development"
+      ],
+      "growthAreas": "Growth Areas",
+      "challenges": [
+        "May become overwhelmed by social issues",
+        "Sometimes idealistic about change timelines",
+        "May struggle with work-life balance",
+        "May neglect financial security for purpose",
+        "May be impatient with slow progress"
+      ],
+      "careerMatches": "Top Career Matches",
+      "ctaTitle": "Ready to Amplify Your Impact?",
+      "ctaDescription": "Discover how to align your leadership with your life purpose.",
+      "takeTest": "Take the Ikigai Test",
+      "freeTest": "Free Ikigai Type Test"
+    },
+    "careerFocusedAchiever": {
+      "title": "Career-Focused Achiever",
+      "subtitle": "You are driven by professional success and financial security, finding fulfillment in career advancement and recognition.",
+      "purposeSource": "Your Purpose Source",
+      "purposeDescription": "Your Ikigai flows from professional achievement and the security that comes with career success. You find deep satisfaction in advancing your career, gaining recognition for your work, and building financial stability. You thrive in competitive environments where your efforts translate directly into measurable success.",
+      "coreStrengths": "Core Strengths",
+      "strengths": [
+        "Strong drive for achievement and success",
+        "Excellent goal-setting and planning abilities", 
+        "Natural competitive spirit and resilience",
+        "Strategic thinking and business acumen",
+        "Strong work ethic and determination"
+      ],
+      "growthAreas": "Growth Areas",
+      "challenges": [
+        "May sacrifice personal relationships for career",
+        "May become too focused on external validation",
+        "May struggle with work-life balance",
+        "May be impatient with slow progress",
+        "May neglect personal well-being for success"
+      ],
+      "careerMatches": "Top Career Matches",
+      "ctaTitle": "Ready to Accelerate Your Success?",
+      "ctaDescription": "Discover how to align your career ambitions with your life purpose.",
+      "takeTest": "Take the Ikigai Test", 
+      "freeTest": "Free Ikigai Type Test"
+    }
+  },
+  
+  "actionButtons": {
+    "takeAgain": "Take Test Again",
+    "viewDashboard": "View Dashboard", 
+    "downloadReport": "Download Report",
+    "shareResults": "Share Results"
+  }
+}

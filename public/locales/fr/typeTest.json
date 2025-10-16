@@ -1,0 +1,229 @@
+{
+  "seo": {
+    "title": "Test de Type Ikigai Gratuit - Découvrez Votre Personnalité en 5 Minutes",
+    "description": "Passez notre test de type Ikigai gratuit et découvrez si vous êtes Constructeur, Explorateur, Rêveur, Ambitieux ou Aidant. Résultats instantanés!",
+    "keywords": "test type ikigai gratuit, test personnalité ikigai, constructeur explorateur rêveur, test rapide ikigai",
+    "ogTitle": "Test de Type Ikigai Gratuit - 5 Minutes pour Découvrir Votre Personnalité",
+    "ogDescription": "Découvrez votre type de personnalité Ikigai en seulement 5 minutes. Test gratuit avec résultats instantanés et conseils personnalisés."
+  },
+  "hero": {
+    "title": "Test de Type Ikigai Gratuit",
+    "subtitle": "Découvrez Votre Personnalité en 5 Minutes",
+    "description": "Un test rapide et précis pour identifier votre approche unique du but de la vie. Êtes-vous Constructeur, Explorateur, Rêveur, Ambitieux ou Aidant?"
+  },
+  "features": {
+    "quick": {
+      "title": "Rapide & Efficace",
+      "description": "Seulement 12 questions soigneusement sélectionnées",
+      "icon": "clock"
+    },
+    "accurate": {
+      "title": "Précis & Fiable",
+      "description": "Basé sur des recherches en psychologie positive",
+      "icon": "target"
+    },
+    "free": {
+      "title": "100% Gratuit",
+      "description": "Résultats instantanés sans inscription",
+      "icon": "gift"
+    },
+    "actionable": {
+      "title": "Conseils Pratiques",
+      "description": "Recommandations personnalisées pour votre type",
+      "icon": "lightbulb"
+    }
+  },
+  "instructions": {
+    "title": "Comment Ça Marche",
+    "steps": [
+      "Répondez aux 12 questions honnêtement",
+      "Obtenez votre type de personnalité instantanément", 
+      "Découvrez vos forces et conseils personnalisés",
+      "Explorez comment développer votre Ikigai"
+    ]
+  },
+  "types": {
+    "builder": {
+      "name": "Constructeur",
+      "description": "Créateur de solutions pratiques"
+    },
+    "explorer": {
+      "name": "Explorateur", 
+      "description": "Aventurier de nouvelles possibilités"
+    },
+    "dreamer": {
+      "name": "Rêveur",
+      "description": "Visionnaire d'un monde meilleur"
+    },
+    "achiever": {
+      "name": "Ambitieux",
+      "description": "Conquérant d'objectifs élevés"
+    },
+    "helper": {
+      "name": "Aidant",
+      "description": "Serviteur du bien-être d'autrui"
+    }
+  },
+  "test": {
+    "title": "Test de Type Ikigai",
+    "subtitle": "Question {{current}} sur {{total}}",
+    "instructions": "Choisissez la réponse qui vous correspond le mieux:",
+    "progress": "Progression: {{percent}}%",
+    "previousButton": "Précédent",
+    "nextButton": "Suivant",
+    "submitButton": "Voir Mes Résultats",
+    "startButton": "Commencer le Test"
+  },
+  "completion": {
+    "title": "Test Terminé!",
+    "subtitle": "Calcul de votre type de personnalité...",
+    "processing": "Analyse de vos réponses en cours..."
+  },
+  "cta": {
+    "title": "Prêt à Découvrir Votre Type?",
+    "subtitle": "Commencez maintenant - c'est gratuit et ne prend que 5 minutes!",
+    "startButton": "Commencer le Test Maintenant",
+    "guarantee": "✓ 100% Gratuit ✓ Résultats Instantanés ✓ Pas d'Inscription"
+  },
+  "benefits": {
+    "title": "Pourquoi Connaître Votre Type?",
+    "understanding": {
+      "title": "Meilleure Compréhension de Soi",
+      "description": "Découvrez vos motivations profondes et votre façon unique d'aborder la vie"
+    },
+    "career": {
+      "title": "Orientation Professionnelle",
+      "description": "Identifiez les carrières et environnements qui correspondent à votre type"
+    },
+    "relationships": {
+      "title": "Relations Améliorées",
+      "description": "Comprenez comment vous interagissez avec les autres types"
+    },
+    "growth": {
+      "title": "Développement Personnel",
+      "description": "Recevez des conseils spécifiques pour développer votre potentiel"
+    }
+  },
+  "questions": [
+    {
+      "question": "Qu'est-ce qui vous motive le plus dans la vie ?",
+      "options": [
+        "Créer quelque chose de beau ou de significatif",
+        "Atteindre des objectifs ambitieux et obtenir de la reconnaissance",
+        "Avoir un impact positif sur les autres",
+        "Découvrir de nouvelles expériences et connaissances",
+        "Construire quelque chose de durable et de valeur"
+      ]
+    },
+    {
+      "question": "Face à un défi, vous préférez :",
+      "options": [
+        "Réfléchir profondément et trouver des solutions créatives",
+        "Fixer des objectifs clairs et surmonter les obstacles",
+        "Chercher du soutien et travailler avec d'autres",
+        "Essayer différentes approches jusqu'à ce que quelque chose fonctionne",
+        "Le décomposer en étapes gérables"
+      ]
+    },
+    {
+      "question": "Votre environnement de travail idéal serait :",
+      "options": [
+        "Un espace calme où vous pouvez vous concentrer et créer",
+        "Un environnement compétitif qui vous pousse à exceller",
+        "Un espace collaboratif avec des collègues bienveillants",
+        "Un environnement dynamique avec variété et changement",
+        "Un environnement structuré avec des processus clairs"
+      ]
+    },
+    {
+      "question": "Qu'est-ce qui vous apporte le plus de satisfaction ?",
+      "options": [
+        "Exprimer votre vision unique et votre créativité",
+        "Atteindre des objectifs ambitieux et des jalons",
+        "Aider les autres à grandir et réussir",
+        "Apprendre de nouvelles choses et élargir vos horizons",
+        "Voir vos efforts produire des résultats tangibles"
+      ]
+    },
+    {
+      "question": "Votre plus grande force est :",
+      "options": [
+        "Votre imagination et votre capacité à penser différemment",
+        "Votre détermination et votre volonté de réussir",
+        "Votre empathie et votre capacité à comprendre les autres",
+        "Votre curiosité et votre ouverture d'esprit",
+        "Votre capacité à organiser et à exécuter des plans"
+      ]
+    },
+    {
+      "question": "Quand vous prenez des décisions, vous :",
+      "options": [
+        "Suivez votre intuition et vos valeurs",
+        "Analysez les risques et les récompenses potentielles",
+        "Considérez l'impact sur les autres",
+        "Pesez toutes les options et possibilités",
+        "Utilisez des données et des faits concrets"
+      ]
+    },
+    {
+      "question": "Votre approche de l'apprentissage est :",
+      "options": [
+        "Exploratoire et basée sur l'inspiration",
+        "Orientée vers des objectifs et des résultats",
+        "Interactive et collaborative",
+        "Expérientielle et pratique",
+        "Systématique et structurée"
+      ]
+    },
+    {
+      "question": "Dans un groupe, vous avez tendance à :",
+      "options": [
+        "Apporter des idées créatives et de nouvelles perspectives",
+        "Prendre le leadership et fixer la direction",
+        "Maintenir l'harmonie et soutenir les autres",
+        "Questionner les hypothèses et explorer les alternatives",
+        "Organiser et coordonner les efforts"
+      ]
+    },
+    {
+      "question": "Votre définition du succès est :",
+      "options": [
+        "Créer quelque chose qui vous inspire vraiment",
+        "Atteindre des objectifs élevés et être reconnu",
+        "Faire une différence dans la vie des gens",
+        "Vivre des expériences diverses et enrichissantes",
+        "Construire quelque chose de solide et durable"
+      ]
+    },
+    {
+      "question": "Vous gérez le stress en :",
+      "options": [
+        "Vous retirant pour réfléchir et recharger",
+        "Vous concentrant sur les solutions et l'action",
+        "Cherchant le soutien d'amis et de famille",
+        "Changeant d'environnement ou d'activité",
+        "Planifiant et organisant pour reprendre le contrôle"
+      ]
+    },
+    {
+      "question": "Votre style de communication est :",
+      "options": [
+        "Expressif et métaphorique",
+        "Direct et orienté résultats",
+        "Chaleureux et encourageant",
+        "Questionneur et exploratoire",
+        "Clair et factuel"
+      ]
+    },
+    {
+      "question": "Ce qui vous préoccupe le plus, c'est :",
+      "options": [
+        "Ne pas pouvoir exprimer votre véritable potentiel créatif",
+        "Ne pas atteindre vos objectifs ambitieux",
+        "Ne pas pouvoir aider ceux qui en ont besoin",
+        "Manquer des opportunités importantes",
+        "Que les choses deviennent chaotiques ou mal organisées"
+      ]
+    }
+  ]
+}

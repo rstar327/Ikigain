@@ -1,0 +1,227 @@
+{
+  "title": "Prueba de Ikigai",
+  "subtitle": "Descubre el propósito de tu vida",
+  "description": "Responde estas preguntas honestamente para descubrir tu Ikigai único",
+  "instruction": "Elige la opción que mejor te describe.",
+  "instructions": {
+    "title": "Instrucciones",
+    "points": [
+      "Responde todas las preguntas honestamente",
+      "No hay respuestas correctas o incorrectas",
+      "Confía en tu primer instinto",
+      "Tómate tiempo para reflexionar sobre cada pregunta"
+    ]
+  },
+  "progress": {
+    "question": "Pregunta {{current}} de {{total}}",
+    "completed": "{{percentage}}% completado"
+  },
+  "questions": {
+    "categories": {
+      "passion": "Pasión",
+      "mission": "Misión", 
+      "profession": "Profesión",
+      "vocation": "Vocación"
+    }
+  },
+  "answers": {
+    "scale": {
+      "1": "Totalmente en desacuerdo",
+      "2": "En desacuerdo", 
+      "3": "Neutral",
+      "4": "De acuerdo",
+      "5": "Totalmente de acuerdo"
+    },
+    "required": "Por favor selecciona una respuesta",
+    "placeholder": "Comparte tus pensamientos..."
+  },
+  "navigation": {
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "finish": "Finalizar prueba",
+    "skip": "Omitir pregunta"
+  },
+  "completion": {
+    "title": "¡Prueba Completada!",
+    "description": "Tus resultados de Ikigai están listos",
+    "message": "Procesando tus respuestas para generar tu perfil personalizado de Ikigai...",
+    "processing": "Analizando resultados...",
+    "redirect": "Redirigiendo a tus resultados..."
+  },
+  "errors": {
+    "startSession": "Error al iniciar la sesión de prueba",
+    "completeTest": "Error al completar la prueba",
+    "saveAnswer": "Error al guardar la respuesta"
+  },
+  "buttons": {
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "completeTest": "Completar Prueba",
+    "completing": "Completando Prueba...",
+    "processingMessage": "Procesando tus respuestas y generando tu análisis de Ikigai..."
+  },
+  "testQuestions": {
+    "13": {
+      "text": "Cuando tienes tiempo libre, prefieres:",
+      "options": {
+        "133": "Leer un libro o ver un documental",
+        "134": "Ir a correr o al gimnasio",
+        "135": "Finalmente abordar ese proyecto de bricolaje que te molesta",
+        "136": "Charlar con amigos tomando café"
+      }
+    },
+    "14": {
+      "text": "Tu amigo se muda a un lugar nuevo y necesita ayuda. Le ofreces:",
+      "options": {
+        "137": "Investigar los mejores barrios y escuelas",
+        "138": "Ayudarle a empacar y organizar sus pertenencias",
+        "139": "Crear un tablero de visión para su nuevo espacio",
+        "140": "Conectarle con empresas de mudanzas y servicios confiables"
+      }
+    },
+    "15": {
+      "text": "En un evento social, sueles:",
+      "options": {
+        "141": "Compartir artículos o ideas interesantes que has descubierto",
+        "142": "Organizar actividades o juegos para todos",
+        "143": "Contar historias que inspiren o entretengan",
+        "144": "Asegurar que todos se sientan incluidos y cómodos"
+      }
+    },
+    "16": {
+      "text": "Cuando te enfrentas a un problema, tu primer instinto es:",
+      "options": {
+        "145": "Investigar y reunir información",
+        "146": "Crear un plan paso a paso",
+        "147": "Pensar fuera de la caja para soluciones creativas",
+        "148": "Pedir a otros sus perspectivas y ayuda"
+      }
+    },
+    "17": {
+      "text": "Tu compañero de trabajo te pide consejo para mejorar su espacio de trabajo. Sugieres:",
+      "options": {
+        "149": "Buscar estudios ergonómicos e investigación de productividad",
+        "150": "Organizar y ordenar sistemáticamente",
+        "151": "Agregar plantas, arte o decoraciones inspiradoras",
+        "152": "Crear un espacio que fomente la colaboración"
+      }
+    },
+    "18": {
+      "text": "Durante una reunión de trabajo, sueles:",
+      "options": {
+        "153": "Aportar datos relevantes o estudios de casos",
+        "154": "Mantener a todos en el tema con la agenda",
+        "155": "Sugerir enfoques innovadores para los desafíos",
+        "156": "Asegurar que todas las voces sean escuchadas y valoradas"
+      }
+    },
+    "19": {
+      "text": "Cuando viajas, te emociona más:",
+      "options": {
+        "157": "Aprender sobre la historia y cultura local",
+        "158": "Planificar itinerarios eficientes y logística",
+        "159": "Descubrir gemas ocultas y experiencias únicas",
+        "160": "Conocer locales y hacer nuevas conexiones"
+      }
+    },
+    "20": {
+      "text": "Tus amigos te describen como:",
+      "options": {
+        "161": "El que siempre tiene datos interesantes",
+        "162": "El organizador confiable que hace las cosas",
+        "163": "El soñador creativo con grandes ideas",
+        "164": "El amigo cariñoso que siempre está ahí para ayudar"
+      }
+    },
+    "21": {
+      "text": "En el trabajo, te energiza más:",
+      "options": {
+        "165": "Profundizar en investigación y análisis",
+        "166": "Completar proyectos de manera eficiente y efectiva",
+        "167": "Hacer lluvia de ideas y explorar nuevas posibilidades",
+        "168": "Colaborar y apoyar a los miembros del equipo"
+      }
+    },
+    "22": {
+      "text": "Tu tipo favorito de libro o película es:",
+      "options": {
+        "169": "Documentales o no ficción que enseñen algo nuevo",
+        "170": "Thrillers o misterios con resoluciones claras",
+        "171": "Fantasía o ciencia ficción que exploren nuevos mundos",
+        "172": "Historias sobre relaciones humanas y emociones"
+      }
+    },
+    "23": {
+      "text": "Cuando planificas para el futuro, ¿qué tienes en mente?",
+      "options": {
+        "173": "Mantenerte curioso y continuar aprendiendo",
+        "174": "Construir estabilidad y lograr objetivos concretos",
+        "175": "Perseguir sueños y hacer un impacto significativo",
+        "176": "Crear relaciones positivas y comunidad"
+      }
+    },
+    "24": {
+      "text": "Cuando compras un regalo, sueles:",
+      "options": {
+        "177": "Investigar el artículo perfecto basado en sus intereses",
+        "178": "Elegir algo práctico que realmente usarán",
+        "179": "Escoger algo único o personalmente significativo",
+        "180": "Pedir sugerencias a otros para asegurar que sea correcto"
+      }
+    },
+    "25": {
+      "text": "Tu trabajo soñado involucra:",
+      "options": {
+        "181": "Aprendizaje continuo y desafíos intelectuales",
+        "182": "Objetivos claros y resultados tangibles",
+        "183": "Libertad creativa y pensamiento visionario",
+        "184": "Hacer una diferencia en la vida de las personas"
+      }
+    },
+    "26": {
+      "text": "En el trabajo, te piden a menudo:",
+      "options": {
+        "185": "Proporcionar ideas y experiencia sobre temas complejos",
+        "186": "Liderar proyectos y asegurar que se completen a tiempo",
+        "187": "Generar soluciones creativas para los desafíos",
+        "188": "Mediar conflictos y apoyar la dinámica del equipo"
+      }
+    },
+    "27": {
+      "text": "En un viaje por carretera con amigos, eres el que:",
+      "options": {
+        "189": "Investiga paradas interesantes y atracciones locales",
+        "190": "Planifica la ruta y gestiona la logística",
+        "191": "Sugiere desvíos espontáneos y aventuras",
+        "192": "Mantiene el ánimo de todos y resuelve conflictos"
+      }
+    },
+    "28": {
+      "text": "Cuando pruebas una nueva afición, te atrae:",
+      "options": {
+        "193": "Actividades que desafíen tu intelecto",
+        "194": "Manualidades o habilidades que produzcan resultados tangibles",
+        "195": "Actividades artísticas o expresivas",
+        "196": "Actividades grupales que impliquen ayudar a otros"
+      }
+    },
+    "29": {
+      "text": "Tus amigos te describirían como:",
+      "options": {
+        "197": "El conocedor que ama aprender",
+        "198": "El confiable que hace las cosas",
+        "199": "El visionario con ideas inspiradoras",
+        "200": "El solidario que se preocupa por todos"
+      }
+    },
+    "30": {
+      "text": "Cuando cocinas algo especial, tú:",
+      "options": {
+        "201": "Investigas recetas y técnicas auténticas",
+        "202": "Sigues una receta probada paso a paso",
+        "203": "Experimentas con combinaciones creativas de sabores",
+        "204": "Cocinas algo que sabes que a tus invitados les encantará"
+      }
+    }
+  }
+}

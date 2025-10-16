@@ -1,0 +1,399 @@
+{
+  "hero": {
+    "title": "Discover Your",
+    "subtitle": "Find your life's purpose and ideal career path",
+    "description": "Uncover your life's purpose through the ancient Japanese concept of Ikigai. Take our free Ikigai test to discover what is Ikigai and find the intersection of what you love, what you're good at, what the world needs, and what you can be paid for.",
+    "cta": "Start Free Ikigai Test",
+    "learnMore": "Learn More",
+    "timeRequired": "5 minutes",
+    "testedUsers": "10,000+ tested",
+    "rating": "4.8/5 stars"
+  },
+  "whatIsIkigai": {
+    "title": "What is Ikigai?",
+    "description": "Ever feel like you're just going through the motions? Ikigai combines \"iki\" (life) and \"gai\" (value) – your reason for being. It's not about climbing Everest or solving global issues. As neuroscientist Ken Mogi puts it: \"Ikigai can be small. It can be the joy of your morning routine.\"",
+    "passion": "What You Love",
+    "passionDesc": "Your passion – the things that light you up and make time fly. It could be painting, coaching, solving problems, or planting tomatoes. If it brings you joy, it belongs here.",
+    "mission": "What the World Needs", 
+    "missionDesc": "Where meaning deepens. About contribution – offering something that matters to others, whether it's support, service, creativity, or innovation.",
+    "profession": "What You're Good At",
+    "professionDesc": "Natural talents or skills you've honed over time. It's not about being perfect; it's about recognizing where you shine and feel confident.",
+    "vocation": "What You Can Be Paid For",
+    "vocationDesc": "Finding a way to turn your passion and skills into something that can support you. If it pays the bills and fuels your purpose, you're on the right track."
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "description": "Get your personalized Ikigai insights in just three simple steps.",
+    "step1": "Answer thoughtful questions",
+    "step1Desc": "Complete our comprehensive assessment about your interests, values, and aspirations",
+    "step2": "Personalized analysis",
+    "step2Desc": "Our algorithm analyzes your responses to identify unique patterns",
+    "step3": "Receive your report",
+    "step3Desc": "Get personalized insights and specific career recommendations"
+  },
+  "assessments": {
+    "title": "Choose Your Ikigai Test",
+    "description": "We offer two different ways to explore your Ikigai, each designed for different needs and time constraints.",
+    "free": {
+      "title": "Free Ikigai Type Test",
+      "subtitle": "Perfect for getting started",
+      "description": "Discover your dominant Ikigai personality type: Dreamer, Achiever, Helper, Explorer, or Builder. Get instant insights into your core motivations and basic career matches.",
+      "duration": "5-10 minutes",
+      "time": "5 minutes",
+      "tested": "10,000+ tested",
+      "rating": "4.8/5 stars",
+      "features": [
+        "Personality type identification",
+        "Basic strengths overview",
+        "General career recommendations"
+      ],
+      "cta": "Free Ikigai Type Test"
+    },
+    "premium": {
+      "title": "Free Ikigai Test",
+      "description": "In-depth analysis with detailed career guidance",
+      "duration": "10-15 minutes",
+      "features": [
+        "Comprehensive personality analysis",
+        "Detailed career matches",
+        "Personalized development plan",
+        "Market insights and salary data"
+      ],
+      "cta": "Ikigai Test"
+    }
+  },
+  "premiumFeatures": {
+    "title": "Premium Features",
+    "description": "Advanced features available in our premium analysis",
+    "careerAnalysis": {
+      "title": "Career Analysis",
+      "description": "Get detailed insights into your ideal career path with personalized recommendations.",
+      "features": [
+        "Detailed career analysis",
+        "Match percentage scores",
+        "Salary insights"
+      ]
+    },
+    "careerRoadmap": {
+      "title": "Career Roadmap",
+      "description": "Step-by-step action plan to achieve your career goals with timeline milestones.",
+      "features": [
+        "Personalized career roadmap",
+        "Step-by-step action plans",
+        "Timeline milestones"
+      ]
+    },
+    "personalityDeepDive": {
+      "title": "Personality Deep Dive",
+      "description": "Complete personality analysis with cognitive work styles and growth recommendations.",
+      "features": [
+        "Deep personality analysis",
+        "Cognitive work styles",
+        "Growth recommendations"
+      ]
+    }
+  },
+  "premiumTiers": {
+    "title": "Choose Your Premium Tier",
+    "description": "Unlock advanced features and personalized guidance with our tiered premium options.",
+    "mostPopular": "MOST POPULAR",
+    "getStarted": "Get Started",
+    "careerRoadmapGuide": {
+      "title": "Career Roadmap Guide",
+      "price": "$2.95",
+      "features": [
+        "12-month career roadmap",
+        "Step-by-step action plan",
+        "Industry-specific networking",
+        "Interview preparation"
+      ]
+    },
+    "personalityDeepDive": {
+      "title": "Personality Deep Dive",
+      "price": "$4.95",
+      "features": [
+        "Complete personality analysis",
+        "Cognitive style assessment",
+        "Communication guide",
+        "Stress management tips"
+      ]
+    },
+    "successBlueprint": {
+      "title": "Success Blueprint",
+      "price": "$9.95",
+      "features": [
+        "90-day transformation plan",
+        "Daily habits tracker",
+        "Goal-setting framework",
+        "Confidence building exercises"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "What Our Users Say",
+    "subtitle": "Join thousands who've discovered their purpose"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Everything you need to know about the Ikigai assessment",
+    "q1": "How long does the test take?",
+    "a1": "The Ikigai test typically takes 5-10 minutes to complete. There are 18 questions, and you can take your time to reflect on each one.",
+    "q2": "Is the test scientifically validated?",
+    "a2": "Yes, our Ikigai test is based on established psychological principles and the authentic Japanese concept of Ikigai. The questions are designed to evaluate the four core dimensions that contribute to life satisfaction and career fulfillment.",
+    "q3": "What's the difference between free and premium results?",
+    "a3": "Free results include your Ikigai profile, personality type, core strengths, and basic career recommendations. Premium features add detailed career roadmaps, interview preparation, personality deep dives, and 90-day transformation plans.",
+    "q4": "Can I retake the test?",
+    "a4": "Yes, you can retake the test at any time. Each assessment will give you new insights about your personal and professional development."
+  },
+  "cta": {
+    "title": "Ready to Discover Your Ikigai?",
+    "subtitle": "Join thousands who have found their life's purpose",
+    "description": "Join thousands who have found their life's purpose",
+    "free": "Start Free Test",
+    "premium": "Take Full Assessment",
+    "button": "Start Your Journey"
+  },
+  "aboutTest": {
+    "title": "Our Comprehensive Ikigai Test",
+    "description": "Our scientifically-designed Ikigai test evaluates your personality, skills, values, and aspirations to provide personalized insights about your ideal career path and life purpose.",
+    "features": [
+      {
+        "title": "18 Carefully Crafted Questions",
+        "description": "Each question is designed to reveal different aspects of your personality and career preferences."
+      },
+      {
+        "title": "Advanced Scoring Algorithm",
+        "description": "Our proprietary algorithm analyzes your responses across four key dimensions of Ikigai."
+      },
+      {
+        "title": "Privacy Protected",
+        "description": "Your responses are secure and confidential. We never share your personal data."
+      },
+      {
+        "title": "Instant Results",
+        "description": "Get your personalized Ikigai profile immediately after completing the test."
+      }
+    ],
+    "categories": {
+      "title": "Test Categories",
+      "passionAssessment": "Passion Ikigai Test",
+      "skillEvaluation": "Skill Evaluation",
+      "missionDiscovery": "Mission Discovery",
+      "careerViability": "Career Viability",
+      "questions": "{{count}} questions"
+    }
+  },
+  "whatYouDiscover": {
+    "title": "What You'll Discover",
+    "description": "Your personalized Ikigai report provides deep insights into your purpose, personality, and optimal career path.",
+    "features": [
+      {
+        "title": "Your Ikigai Profile",
+        "description": "Detailed breakdown of your scores across all four Ikigai dimensions with visual charts.",
+        "badge": "Free"
+      },
+      {
+        "title": "Personality Type",
+        "description": "Discover your unique personality type and how it influences your career preferences.",
+        "badge": "Free"
+      },
+      {
+        "title": "Core Strengths",
+        "description": "Identify your top strengths and how to leverage them in your career.",
+        "badge": "Free"
+      },
+      {
+        "title": "Career Recommendations",
+        "description": "Get personalized career suggestions based on your Ikigai profile.",
+        "badge": "Free"
+      },
+      {
+        "title": "Action Plan",
+        "description": "Practical steps to align your life and career with your Ikigai.",
+        "badge": "Free"
+      },
+      {
+        "title": "Premium Insights",
+        "description": "Unlock advanced features like career roadmaps, interview prep, and success blueprints.",
+        "badge": "Premium"
+      }
+    ]
+  },
+  "premiumFeatures": {
+    "title": "Unlock Your Full Potential",
+    "description": "Upgrade to premium for comprehensive career guidance, detailed personality analysis, and personalized transformation plans.",
+    "careers": {
+      "title": "Career Analysis",
+      "description": "Get detailed insights into your ideal career path with personalized recommendations."
+    },
+    "roadmap": {
+      "title": "Career Roadmap", 
+      "description": "Step-by-step action plan to achieve your career goals with timeline milestones."
+    },
+    "personality": {
+      "title": "Personality Deep Dive",
+      "description": "Complete personality analysis with cognitive work styles and growth recommendations."
+    },
+    "careerAnalysis": {
+      "title": "Career Analysis",
+      "description": "Get detailed insights into your ideal career path with personalized recommendations.",
+      "features": [
+        "Detailed career analysis",
+        "Match percentage scores",
+        "Salary insights"
+      ]
+    },
+    "careerRoadmap": {
+      "title": "Career Roadmap",
+      "description": "Step-by-step action plan to achieve your career goals with timeline milestones.",
+      "features": [
+        "Personalized career roadmap",
+        "Step-by-step action plans",
+        "Timeline milestones"
+      ]
+    },
+    "personalityDeepDive": {
+      "title": "Personality Deep Dive",
+      "description": "Complete personality analysis with cognitive work styles and growth recommendations.",
+      "features": [
+        "Deep personality analysis",
+        "Cognitive work styles",
+        "Growth recommendations"
+      ]
+    },
+    "tiers": [
+      {
+        "title": "Career Roadmap Guide",
+        "price": "$2.95",
+        "features": [
+          "12-month career roadmap",
+          "Step-by-step action plan",
+          "Industry-specific networking",
+          "Interview preparation"
+        ]
+      },
+      {
+        "title": "Personality Deep Dive",
+        "price": "$4.95",
+        "features": [
+          "Complete personality analysis",
+          "Cognitive style Ikigai test",
+          "Communication guide",
+          "Stress management tips"
+        ]
+      },
+      {
+        "title": "Success Blueprint",
+        "price": "$9.95",
+        "features": [
+          "90-day transformation plan",
+          "Daily habits tracker",
+          "Goal-setting framework",
+          "Confidence building"
+        ]
+      }
+    ]
+  },
+  "seo": {
+    "title": "Free Ikigai Test - Discover Your Life's Purpose | What is Ikigai Quiz",
+    "description": "Take our free Ikigai test to discover what is Ikigai and your life's purpose. Free Ikigai quiz helps you find the intersection of what you love, what you're good at, what the world needs, and what you can be paid for.",
+    "keywords": "ikigai test, free ikigai test, ikigai quiz, what is ikigai, ikigai test free, free ikigai quiz, life purpose test, career assessment, personality test",
+    "ogTitle": "Ikigai Test - Discover Your Life's Purpose | Free Assessment",
+    "ogDescription": "Take our comprehensive Ikigai assessment to discover your life's purpose. Find the intersection of what you love, what you're good at, what the world needs, and what you can be paid for.",
+    "structuredData": {
+      "name": "Ikigai Test - Discover Your Life's Purpose",
+      "description": "Take our comprehensive Ikigai assessment to discover your life's purpose. Find the intersection of what you love, what you're good at, what the world needs, and what you can be paid for."
+    }
+  },
+  "whyIkigaiMatters": {
+    "title": "Why Ikigai Matters",
+    "description": "Embracing ikigai isn't just philosophical—it has real benefits backed by science.",
+    "stats": [
+      {
+        "number": "50%",
+        "title": "Lower mortality risk",
+        "description": "People with ikigai had significantly lower risk of death from cardiovascular disease"
+      },
+      {
+        "number": "36%",
+        "title": "Lower dementia risk",
+        "description": "Adults with ikigai showed better cognitive function and reduced dementia risk"
+      },
+      {
+        "number": "31%",
+        "title": "Lower disability risk",
+        "description": "Having ikigai protects against functional disability as we age"
+      }
+    ]
+  },
+  "provenResults": {
+    "title": "Proven Results",
+    "description": "Our Ikigai test has helped thousands of professionals find their true calling.",
+    "stats": [
+      {
+        "number": "10,000+",
+        "description": "Tests Completed"
+      },
+      {
+        "number": "87%",
+        "description": "Career Satisfaction Increase"
+      },
+      {
+        "number": "5,200+",
+        "description": "Career Transitions"
+      },
+      {
+        "number": "4.8/5",
+        "description": "Average Rating"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "description": "Get your personalized Ikigai insights in just three simple steps.",
+    "step1": "Answer thoughtful questions",
+    "step1Desc": "Complete our comprehensive assessment about your interests, values, and aspirations",
+    "step2": "Get personalized analysis",
+    "step2Desc": "Our algorithm analyzes your responses to identify unique patterns",
+    "step3": "Receive your report",
+    "step3Desc": "Get personalized insights and specific career recommendations"
+  },
+  "testimonials": {
+    "title": "What Our Users Say",
+    "description": "Discover how the Ikigai test has transformed careers and lives.",
+    "users": {
+      "sarah": {
+        "quote": "The Ikigai test helped me realize that my true passion was in sustainable design. I've never been happier in my career.",
+        "name": "Sarah Johnson",
+        "role": "UX Designer"
+      },
+      "david": {
+        "quote": "I was stuck in corporate consulting for years. This test showed me my calling was in education and social impact.",
+        "name": "David Chen",
+        "role": "Social Impact Consultant"
+      },
+      "maria": {
+        "quote": "After 15 years in marketing, I discovered my Ikigai in food sustainability. Now I run my own consultancy.",
+        "name": "Maria Rodriguez",
+        "role": "Sustainability Consultant"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Everything you need to know about the Ikigai test.",
+    "q1": "How long does the test take?",
+    "a1": "The Ikigai test typically takes 5-10 minutes to complete. There are 18 questions, and you can take your time to reflect on each one.",
+    "q2": "Is the test scientifically validated?",
+    "a2": "Yes, our Ikigai test is based on established psychological principles and the authentic Japanese concept of Ikigai. The questions are designed to evaluate the four core dimensions that contribute to life satisfaction and career fulfillment.",
+    "q3": "What's the difference between free and premium results?",
+    "a3": "Free results include your Ikigai profile, personality type, core strengths, and basic career recommendations. Premium features add detailed career roadmaps, interview preparation, personality deep dives, and 90-day transformation plans.",
+    "q4": "Can I retake the test?",
+    "a4": "Yes, you can retake the test at any time. We recommend waiting at least 3-6 months between Ikigai tests to allow for personal growth and changes in your circumstances."
+  },
+  "finalCTA": {
+    "title": "Ready to discover your Ikigai?",
+    "description": "Join thousands who have found their life's purpose and transformed their careers. Start your journey today.",
+    "cta": "Start Free Ikigai Test"
+  }
+}

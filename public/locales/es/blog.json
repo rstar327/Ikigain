@@ -1,0 +1,36 @@
+{
+  "title": "Blog de Ikigai",
+  "subtitle": "Insights y guías para encontrar tu propósito",
+  "categories": {
+    "all": "Todos",
+    "selfDiscovery": "Autodescubrimiento",
+    "careerGuidance": "Orientación profesional",
+    "lifeBalance": "Equilibrio vital",
+    "motivation": "Motivación",
+    "mindfulness": "Atención plena"
+  },
+  "readingTime": "{{minutes}} min de lectura",
+  "publishedOn": "Publicado el {{date}}",
+  "tags": "Etiquetas",
+  "relatedPosts": "Artículos relacionados",
+  "sharePost": "Compartir artículo",
+  "backToBlog": "Volver al blog",
+  "noPostsFound": "No se encontraron artículos",
+  "searchPlaceholder": "Buscar artículos...",
+  "filterBy": "Filtrar por",
+  "sortBy": "Ordenar por",
+  "sortOptions": {
+    "newest": "Más recientes",
+    "oldest": "Más antiguos",
+    "popular": "Más populares"
+  },
+  "loadMore": "Cargar más artículos",
+  "subscribe": {
+    "title": "Suscríbete a nuestro newsletter",
+    "description": "Recibe las últimas reflexiones sobre Ikigai y desarrollo personal",
+    "placeholder": "Tu correo electrónico",
+    "button": "Suscribirse",
+    "success": "¡Gracias por suscribirte!",
+    "error": "Error al suscribirse. Inténtalo de nuevo."
+  }
+}

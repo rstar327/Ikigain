@@ -1,0 +1,164 @@
+{
+  "seo": {
+    "title": "Qu'est-ce que l'Ikigai? Guide Complet de la Philosophie Japonaise du But de la Vie 2025",
+    "description": "Découvrez l'Ikigai, le concept japonais ancien pour trouver le but de votre vie. Apprenez les 4 piliers de l'Ikigai et comment les appliquer à votre vie quotidienne.",
+    "keywords": "qu'est-ce que l'ikigai, signification ikigai, définition ikigai, 4 piliers ikigai, but de la vie, philosophie japonaise",
+    "ogTitle": "Qu'est-ce que l'Ikigai? - Le Guide Complet 2025",
+    "ogDescription": "Maîtrisez l'art japonais de trouver le but de votre vie avec notre guide complet sur l'Ikigai. Découvrez comment transformer votre approche de la vie et du travail."
+  },
+  "hero": {
+    "title": "Qu'est-ce que l'Ikigai?",
+    "subtitle": "Découvrez le Secret Japonais d'une Vie Épanouie",
+    "description": "L'Ikigai (生き甲斐) est un concept japonais ancien qui signifie 'raison d'être' ou 'but de la vie'. C'est l'intersection magique entre passion, mission, vocation et profession."
+  },
+  "definition": {
+    "title": "Signification de l'Ikigai: La Vraie Définition",
+    "meaning": "En japonais, 'iki' signifie 'vie' et 'gai' signifie 'valeur' ou 'mérite'. Ensemble, l'Ikigai représente ce qui donne de la valeur et du sens à votre existence.",
+    "philosophy": "Plus qu'un simple concept de carrière, l'Ikigai est une philosophie de vie holistique qui englobe votre bien-être émotionnel, votre épanouissement personnel et votre contribution au monde."
+  },
+  "fourPillars": {
+    "title": "Les 4 Piliers de l'Ikigai",
+    "subtitle": "Découvrez l'intersection de ces quatre éléments essentiels",
+    "passion": {
+      "title": "Ce que vous AIMEZ",
+      "subtitle": "Passion",
+      "description": "Vos intérêts profonds, ce qui vous passionne et vous fait perdre la notion du temps. C'est ce qui vous donne de la joie et de l'énergie."
+    },
+    "mission": {
+      "title": "Ce dont le monde a BESOIN",
+      "subtitle": "Mission", 
+      "description": "Les problèmes que vous voulez résoudre, l'impact que vous voulez avoir. C'est votre façon de contribuer positivement au monde."
+    },
+    "vocation": {
+      "title": "Ce en quoi vous êtes DOUÉ",
+      "subtitle": "Vocation",
+      "description": "Vos talents naturels, compétences et forces. Ce sont les domaines où vous excellez naturellement ou pouvez développer une expertise."
+    },
+    "profession": {
+      "title": "Ce pour quoi vous pouvez être PAYÉ",
+      "subtitle": "Profession",
+      "description": "Les opportunités économiques viables, les besoins du marché que vous pouvez satisfaire avec vos compétences et passions."
+    }
+  },
+  "intersections": {
+    "title": "Comprendre les Intersections",
+    "subtitle": "Chaque intersection révèle un aspect important de votre épanouissement",
+    "satisfaction": {
+      "title": "Satisfaction mais pas de Richesse",
+      "description": "Passion + Mission = Satisfaction mais peut manquer de stabilité financière"
+    },
+    "comfortable": {
+      "title": "Confortable mais Vide de Sens",
+      "description": "Vocation + Profession = Confort financier mais peut manquer de sens profond"
+    },
+    "excited": {
+      "title": "Excité mais Incertain",
+      "description": "Passion + Vocation = Enthousiasme mais incertitude sur la viabilité"
+    },
+    "useful": {
+      "title": "Utile mais pas Épanoui",
+      "description": "Mission + Profession = Impact social mais peut manquer d'épanouissement personnel"
+    }
+  },
+  "benefits": {
+    "title": "Pourquoi l'Ikigai est Important",
+    "subtitle": "Les bénéfices scientifiquement prouvés de vivre selon son Ikigai",
+    "longevity": {
+      "title": "Longévité Accrue",
+      "description": "Les études montrent que les personnes avec un sens clair du but vivent plus longtemps et en meilleure santé."
+    },
+    "happiness": {
+      "title": "Plus de Bonheur",
+      "description": "Aligner votre vie avec votre Ikigai augmente significativement le bien-être et la satisfaction de vie."
+    },
+    "resilience": {
+      "title": "Résilience Renforcée",
+      "description": "Un but clair vous aide à surmonter les défis et à rebondir plus rapidement face aux difficultés."
+    },
+    "performance": {
+      "title": "Meilleure Performance",
+      "description": "Quand votre travail s'aligne avec votre Ikigai, votre productivité et créativité s'améliorent naturellement."
+    }
+  },
+  "discovery": {
+    "title": "Comment Découvrir Votre Ikigai",
+    "subtitle": "Un processus de réflexion profonde et d'expérimentation",
+    "steps": [
+      "Identifiez vos passions profondes et ce qui vous énergise vraiment",
+      "Explorez les besoins du monde qui résonnent avec vous",
+      "Évaluez honnêtement vos forces et talents naturels",
+      "Recherchez les opportunités économiques viables dans vos domaines d'intérêt",
+      "Expérimentez à l'intersection de ces quatre domaines"
+    ]
+  },
+  "myths": {
+    "title": "Mythes Courants sur l'Ikigai",
+    "subtitle": "Clarifions les malentendus fréquents",
+    "myth1": {
+      "title": "Mythe: L'Ikigai est seulement pour le travail",
+      "truth": "Vérité: L'Ikigai englobe tous les aspects de la vie, pas seulement la carrière."
+    },
+    "myth2": {
+      "title": "Mythe: Vous avez un seul Ikigai",
+      "truth": "Vérité: Votre Ikigai peut évoluer et vous pouvez en avoir plusieurs selon les phases de vie."
+    },
+    "myth3": {
+      "title": "Mythe: L'Ikigai doit être grandiose",
+      "truth": "Vérité: L'Ikigai peut être trouvé dans les petites choses quotidiennes et les contributions simples."
+    }
+  },
+  "cta": {
+    "title": "Prêt à Découvrir Votre Ikigai?",
+    "subtitle": "Commencez votre voyage vers une vie plus épanouie",
+    "testButton": "Passer le Test Ikigai",
+    "learnButton": "Explorer les Types de Personnalité"
+  },
+  "researchFindings": {
+    "happiness": {
+      "quote": "Avoir un sens clair du but dans la vie est l'un des prédicteurs les plus forts du bonheur et de la satisfaction de vie."
+    },
+    "mortality": {
+      "title": "Recherche sur la Mortalité et la Longévité",
+      "description1": "Une étude de 2008 dans Psychosomatic Medicine a suivi 43 000 adultes japonais pendant 7 ans.",
+      "description2": "Les participants avec un fort sentiment d'Ikigai avaient significativement :",
+      "description3": "Les résultats étaient cohérents à travers tous les groupes d'âge et niveaux socio-économiques.",
+      "risks": [
+        "19% moins de risque de maladie cardiovasculaire",
+        "17% moins de risque de cancer",
+        "Taux de mortalité globalement plus bas de 15%"
+      ],
+      "conclusion1": "Cela suggère que l'Ikigai prolonge non seulement la vie, mais maintient aussi la qualité de vie à mesure que nous vieillissons.",
+      "conclusion2": "Les chercheurs attribuent ces bénéfices à la fois aux facteurs comportementaux (mode de vie plus sain) et physiologiques (réduction du stress)."
+    },
+    "unemployed": {
+      "title": "Ikigai et le Chômage",
+      "description1": "Une étude fascinante de l'Université de Tokyo a examiné l'impact de l'Ikigai sur les individus au chômage.",
+      "description2": "Les personnes au chômage avec un fort sentiment d'Ikigai ont montré :",
+      "benefits": [
+        "Moins de symptômes de dépression et d'anxiété",
+        "Meilleure résilience et adaptation aux changements"
+      ],
+      "conclusion": "Cela suggère que l'Ikigai fournit une stabilité psychologique qui transcende les circonstances externes comme le statut d'emploi."
+    },
+    "purposefulWork": {
+      "title": "Ikigai et le Travail Significatif",
+      "description1": "La recherche montre que l'alignement entre l'Ikigai personnel et le travail professionnel conduit à des résultats remarquables.",
+      "description2": "Les employés dont le travail s'aligne avec leur Ikigai rapportent :",
+      "description3": "Fait intéressant, l'étude a révélé des différences de genre :",
+      "genderDifferences": [
+        "Les femmes trouvent plus souvent l'Ikigai dans les rôles relationnels et communautaires",
+        "Les hommes tendent à identifier l'Ikigai à travers l'accomplissement et la reconnaissance"
+      ],
+      "conclusion": "Cependant, les deux genres bénéficient également de l'alignement travail-Ikigai en termes de satisfaction de vie et de performance professionnelle."
+    },
+    "healthyLife": {
+      "title": "L'Ikigai peut vous motiver à mener une vie saine",
+      "description1": "Au-delà des bénéfices psychologiques, l'Ikigai influence positivement les comportements de santé physique.",
+      "description2": "Les personnes avec un Ikigai clair sont plus susceptibles de :",
+      "description3": "Ces comportements créent un cycle positif : une meilleure santé physique soutient la clarté mentale et l'énergie nécessaires pour poursuivre son Ikigai.",
+      "description4": "La recherche suggère que ce n'est pas seulement la corrélation - avoir un but clair motive activement des choix de vie plus sains.",
+      "conclusion": "C'est peut-être pourquoi les communautés avec de forts concepts d'Ikigai, comme Okinawa, sont connues à la fois pour leur longévité et leurs modes de vie sains."
+    },
+    "conclusion": "Ces découvertes révèlent que l'Ikigai n'est pas seulement une philosophie abstraite - c'est un facteur mesurable et puissant qui influence la santé physique, le bien-être mental et la longévité. Les bénéfices s'étendent bien au-delà de la satisfaction personnelle pour créer des améliorations tangibles dans la qualité de vie."
+  }
+}

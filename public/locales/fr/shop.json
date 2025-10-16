@@ -1,0 +1,158 @@
+{
+  "pageTitle": "Cartes de Découverte Ikigai - Boutique",
+  "pageDescription": "Découvrez le but de votre vie avec nos cartes authentiques de découverte Ikigai inspirées du Japon. 35 invitations réfléchies couvrant passion, mission, vocation et profession.",
+  "breadcrumb": {
+    "home": "Accueil",
+    "shop": "Boutique"
+  },
+  "product": {
+    "title": "Cartes de Découverte de Soi Ikigai",
+    "subtitle": "35 Cartes de Pleine Conscience pour la Croissance Personnelle et la Découverte du But de Vie",
+    "badge": "Inspiré de la Culture Japonaise",
+    "price": "34,99 $",
+    "originalPrice": "49,99 $",
+    "discount": "30% DE RÉDUCTION",
+    "rating": "avis",
+    "features": [
+      "35 cartes magnifiquement conçues avec finition premium",
+      "Basé sur le concept authentique japonais Ikigai",
+      "Parfait pour les couples et activités de groupe",
+      "Carton de qualité premium avec revêtement UV",
+      "Pratiques quotidiennes de 5 minutes pour la croissance personnelle",
+      "Questions d'auto-réflexion guidées",
+      "Magnifiques œuvres d'art d'inspiration japonaise",
+      "Convient à tous les âges et milieux"
+    ],
+    "quantity": "Quantité",
+    "addToCart": "Ajouter au Panier",
+    "shipping": "Livraison gratuite dans le monde entier"
+  },
+  "benefits": {
+    "title": "Pourquoi Choisir les Cartes de Découverte de Soi Ikigai?",
+    "subtitle": "Découvrez les avantages qui transformeront votre voyage de découverte personnelle",
+    "findPurpose": {
+      "title": "Trouvez Votre But",
+      "description": "Découvrez ce qui compte vraiment pour vous grâce à l'auto-réflexion guidée"
+    },
+    "dailyMindfulness": {
+      "title": "Pleine Conscience Quotidienne", 
+      "description": "Pratiques quotidiennes de 5 minutes pour la croissance personnelle et la clarté"
+    },
+    "shareWithLovedOnes": {
+      "title": "Partagez avec Vos Proches",
+      "description": "Parfait pour les couples, familles et amis pour découvrir ensemble"
+    },
+    "beautifulDesign": {
+      "title": "Magnifique Design",
+      "description": "Cartes de qualité premium avec œuvres d'art inspirantes d'inspiration japonaise"
+    }
+  },
+  "tabs": {
+    "description": "Description",
+    "contents": "Contenu Inclus",
+    "benefits": "Avantages",
+    "reviews": "Avis"
+  },
+  "description": {
+    "title": "À Propos des Cartes de Découverte de Soi Ikigai",
+    "paragraph1": "Êtes-vous prêt à découvrir le but de votre vie? Notre jeu de cartes, rempli de 35 invitations réfléchies, est conçu pour vous guider dans un voyage vers une compréhension plus profonde de votre passion, mission, vocation et profession.",
+    "paragraph2": "Inspirées par le concept japonais d'Ikigai, ces cartes offrent une dose quotidienne de pleine conscience et de croissance personnelle. Ikigai est ce qui vous permet d'espérer l'avenir même si vous êtes misérable maintenant - cela pourrait vous aider à vivre une vie plus épanouissante.",
+    "paragraph3": "Ce n'est pas un jeu de vitesse ou de compétition. Nous vous invitons à considérer ces cartes comme un cycle de défis qui vous demande de plonger profondément en vous-même, de commencer de nouvelles habitudes et de changer votre façon de penser."
+  },
+  "contents": {
+    "title": "Ce qui est Inclus dans Votre Ensemble",
+    "heart": {
+      "title": "💖 Le Cœur",
+      "description": "Ce chapitre vous aidera à définir les choses qui vous excitent, vous intéressent et vous animent et sans lesquelles vous ne pourriez pas imaginer votre vie."
+    },
+    "lungs": {
+      "title": "🫁 Les Poumons",
+      "description": "Le chapitre poumons consiste à trouver votre place dans le monde. Les tâches vous mèneront à la réalisation de votre vrai potentiel et vous encourageront à expérimenter et explorer davantage."
+    },
+    "hands": {
+      "title": "👐 Les Mains",
+      "description": "Ce chapitre concerne le développement, l'évolution et la croissance. Les tâches vous encourageront à avancer dans l'amélioration de soi et aideront à comprendre les maillons manquants pour une transformation réussie."
+    },
+    "mind": {
+      "title": "🧠 L'Esprit",
+      "description": "Le chapitre esprit consiste à vous faire prendre conscience de vos talents et compétences. Les tâches vous aideront à comprendre ce que vous voulez faire dans votre vie et quels talents vous souhaitez acquérir."
+    },
+    "soul": {
+      "title": "✨ L'Âme",
+      "description": "Ce chapitre consiste à trouver votre vrai moi. Les tâches seront une petite poussée vers la conscience de soi et la vie authentique."
+    }
+  },
+  "benefitsTab": {
+    "title": "Avantages Clés",
+    "personalGrowth": {
+      "title": "Croissance Personnelle",
+      "benefits": [
+        "Trouvez le but et la signification de votre vie",
+        "Découvrez ce qui vous apporte vraiment de la joie",
+        "Développez une plus grande conscience de soi",
+        "Créez des habitudes quotidiennes positives"
+      ]
+    },
+    "relationshipBuilding": {
+      "title": "Construction de Relations",
+      "benefits": [
+        "Partagez le voyage avec amis et famille",
+        "Renforcez les liens avec votre partenaire",
+        "Découvrez de nouvelles choses l'un sur l'autre",
+        "Parfait pour les séances de thérapie de couple"
+      ]
+    }
+  },
+  "reviewsTab": {
+    "title": "Avis Clients",
+    "rating": "sur 5"
+  },
+  "cta": {
+    "title": "Prêt à Découvrir Votre Ikigai?",
+    "subtitle": "Rejoignez des milliers de personnes qui ont trouvé le but de leur vie avec nos cartes de découverte de soi.",
+    "button": "Commandez Votre Jeu de Cartes Aujourd'hui"
+  },
+  "finalCta": {
+    "title": "Prêt à Découvrir Votre",
+    "highlight": "But de Vie?",
+    "description": "Rejoignez plus de 12 000 personnes qui ont transformé leur vie avec nos cartes Ikigai d'inspiration japonaise",
+    "buttonText": "Obtenez Vos Cartes pour"
+  },
+  "trustIndicators": {
+    "customers": "Clients satisfaits",
+    "premium": "Premium",
+    "quality": "Qualité garantie"
+  },
+  "pricing": {
+    "youSave": "Vous économisez"
+  },
+  "stockMessage": "Il ne reste que {{count}} en stock",
+  "guarantees": {
+    "shipping": "Livraison gratuite dans le monde entier",
+    "moneyBack": "Garantie de remboursement de 30 jours"
+  },
+  "testimonials": {
+    "title": "Ce Que Disent Nos Clients",
+    "subtitle": "Rejoignez des milliers de personnes qui ont transformé leur vie avec nos cartes Ikigai"
+  },
+  "cart": {
+    "title": "Panier",
+    "empty": "Votre panier est vide",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "tax": "Taxe",
+    "total": "Total",
+    "checkout": "Commander",
+    "continueShopping": "Continuer les Achats",
+    "remove": "Supprimer",
+    "quantity": "Quantité",
+    "update": "Mettre à Jour"
+  },
+  "seo": {
+    "title": "Boutique Ikigai - Ressources Premium pour la Découverte du But | Ikigain",
+    "description": "Découvrez notre collection de journaux, cartes et guides Ikigai pour approfondir votre voyage de découverte du but. Livraison gratuite sur commandes 50$+.",
+    "keywords": "boutique ikigai, journal ikigai, cartes réflexion, guides développement personnel, ressources ikigai",
+    "ogTitle": "Boutique Ikigai - Ressources Premium pour Votre Voyage",
+    "ogDescription": "Collection soigneusement sélectionnée de ressources Ikigai incluant journaux, cartes de réflexion et guides pour votre développement personnel."
+  }
+}

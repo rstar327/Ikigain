@@ -1,0 +1,495 @@
+{
+  "title": "What is Ikigai? - The Japanese Secret to Life's Purpose",
+  "description": "Discover the authentic Japanese concept of Ikigai. Learn how this ancient philosophy can help you find your reason for being and live a more purposeful life.",
+  "keywords": "what is ikigai, ikigai meaning, Japanese philosophy, life purpose, ikigai concept, reason for being, ikigai definition",
+  "heroTitle": "What is Ikigai? Japanese Philosophy for Finding Life Purpose",
+  "heroDescription": "Ever feel like you're just going through the motions? You wake up, check your phone, get through the day—and somewhere in the middle of it all, you wonder, \"Is this it?\"",
+  "takeIkigaiTest": "Take Your Ikigai Test",
+  "quickTypeTest": "Quick Type Test",
+  "definition": {
+    "title": "Ikigai Meaning: The True Definition of Japanese Life Purpose",
+    "description": "Ikigai combines \"iki\" (life) and \"gai\" (value): your reason for being. It's not about scaling Mount Everest or solving world hunger. As neuroscientist Ken Mogi says: \"Ikigai can be small. It can be the joy of your morning routine.\""
+  },
+  "fourPillars": {
+    "title": "The 4 Pillars of Ikigai: How to Find Your Life Purpose",
+    "subtitle": "Ancient wisdom meets modern self-discovery",
+    "passion": {
+      "title": "What You Love",
+      "subtitle": "Your Passion",
+      "description": "Your passion: the things that light you up and make time fly. It could be painting, coaching, solving problems, or growing tomatoes. If it brings you joy, it belongs here."
+    },
+    "mission": {
+      "title": "What the World Needs",
+      "subtitle": "Your Mission",
+      "description": "Your mission: the problems you care about solving. Maybe it's helping kids learn, creating beautiful spaces, or making technology more accessible. What change do you want to see?"
+    },
+    "vocation": {
+      "title": "What You're Good At",
+      "subtitle": "Your Vocation",
+      "description": "Your vocation: your natural talents and developed skills. What comes easily to you? What do people ask for your help with? These are your superpowers."
+    },
+    "profession": {
+      "title": "What You Can Be Paid For",
+      "subtitle": "Your Profession",
+      "description": "Your profession: the intersection of your skills and market needs. How can you create value that people will pay for? This is where purpose meets practicality."
+    }
+  },
+  "notJustCareer": {
+    "title": "Ikigai Isn't Just About Your Career",
+    "subtitle": "It's about your whole life",
+    "description": "While many Western interpretations focus on career success, authentic Ikigai is much broader. It's about finding meaning in small daily moments, building relationships, and living authentically.",
+    "examples": {
+      "title": "Your Ikigai might be:",
+      "items": [
+        "The way you make your family laugh every morning",
+        "Your dedication to keeping your neighborhood clean",
+        "The stories you tell that help children understand difficult concepts",
+        "Your ability to calm anxious animals",
+        "The way you organize events that bring people together"
+      ]
+    }
+  },
+  "scientificBasis": {
+    "title": "The Science Behind Ikigai",
+    "subtitle": "Research-backed benefits of purpose-driven living",
+    "longevity": {
+      "title": "Increased Longevity",
+      "description": "Studies show people with a strong sense of purpose live longer, healthier lives."
+    },
+    "mentalHealth": {
+      "title": "Better Mental Health",
+      "description": "Purpose reduces anxiety, depression, and increases overall life satisfaction."
+    },
+    "resilience": {
+      "title": "Greater Resilience",
+      "description": "People with clear purpose bounce back faster from setbacks and challenges."
+    },
+    "engagement": {
+      "title": "Higher Engagement",
+      "description": "Purpose-driven individuals are more engaged in work, relationships, and life."
+    }
+  },
+  "modernChallenges": {
+    "title": "Modern Challenges to Finding Ikigai",
+    "subtitle": "Why it's harder today than ever",
+    "overwhelm": {
+      "title": "Information Overwhelm",
+      "description": "We're bombarded with choices and possibilities, making it harder to focus on what truly matters."
+    },
+    "expectations": {
+      "title": "External Expectations",
+      "description": "Social media and societal pressure push us toward what looks successful rather than what feels meaningful."
+    },
+    "speed": {
+      "title": "Speed of Life",
+      "description": "We move so fast that we don't have time to reflect on what truly brings us joy and purpose."
+    },
+    "disconnection": {
+      "title": "Disconnection from Self",
+      "description": "We're more connected than ever, but often disconnected from our own values and desires."
+    }
+  },
+  "howToDiscover": {
+    "title": "How to Discover Your Ikigai",
+    "subtitle": "A systematic approach to finding your purpose",
+    "steps": [
+      {
+        "title": "Self-Reflection",
+        "description": "Take time to explore your values, interests, and what truly matters to you."
+      },
+      {
+        "title": "Skills Assessment",
+        "description": "Identify your natural talents and developed abilities through feedback and observation."
+      },
+      {
+        "title": "Impact Exploration",
+        "description": "Consider how you want to contribute to the world and what problems you care about."
+      },
+      {
+        "title": "Market Research",
+        "description": "Understand where your skills and passions align with real-world needs and opportunities."
+      },
+      {
+        "title": "Experimentation",
+        "description": "Try small experiments to test your hypotheses about what gives you energy and meaning."
+      },
+      {
+        "title": "Integration",
+        "description": "Gradually align your daily activities with your discovered purpose."
+      }
+    ]
+  },
+  "ourApproach": {
+    "title": "Our Approach to Ikigai Discovery",
+    "subtitle": "Combining ancient wisdom with modern psychology",
+    "description": "Our Ikigai test uses a scientifically-backed approach that honors the authentic Japanese concept while providing practical insights for modern life.",
+    "features": [
+      "Comprehensive evaluation of all four Ikigai pillars",
+      "Personalized insights based on your unique situation",
+      "Practical action steps you can implement immediately",
+      "Ongoing support and resources for your journey"
+    ]
+  },
+  "cta": {
+    "title": "Ready to Discover Your Ikigai?",
+    "description": "Join thousands who have found clarity and purpose through our comprehensive Ikigai test.",
+    "button": "Start Your Journey"
+  },
+  "introduction": {
+    "title": "More than just \"life purpose\"",
+    "description": "The word ikigai comes from <strong>iki</strong> (to live) and <strong>gai</strong> (value). At its heart, it means your \"reason for being.\" But don't worry—it doesn't have to be climbing Everest or solving a global issue.",
+    "quote": "Ikigai can be small. It can be the joy of your morning routine.",
+    "author": "Ken Mogi, Neuroscientist",
+    "examples": {
+      "coffee": "The first sip of coffee while the world is still quiet",
+      "garden": "Tending to your garden before the day begins",
+      "walk": "Walking your dog along the same peaceful path every morning"
+    },
+    "conclusion": "Your reason for being might already be in the little things—the quiet moments, the daily rituals, the simple joys. That's where the beauty lives."
+  },
+  "dailyLife": {
+    "title": "A concept rooted in daily life",
+    "description": "Unlike Western ideas of purpose that often revolve around career goals or self-actualization, ikigai is personal and practical. It's not something to chase or measure, it's something you live and feel.",
+    "example": "A teacher might find it in their students, a retiree in their garden. It's about doing what feels meaningful, even in simple things.",
+    "research": "Psychologist Mieko Kamiya, who studied ikigai in the 1960s, described it as a sense of life's value - especially important during hardship. That's part of its quiet power: ikigai isn't about success. It's about significance."
+  },
+  "westernDiscovery": {
+    "title": "How the Western world discovered Ikigai",
+    "description": "While ikigai has shaped Japanese life for centuries, it only gained global attention recently. The 2016 book \"Ikigai: The Japanese Secret to a Long and Happy Life\" popularized the idea worldwide, especially through a four-circle diagram.",
+    "helpful": "Helpful?",
+    "helpfulAnswer": "Yes.",
+    "traditional": "Traditionally Japanese?",
+    "traditionalAnswer": "Not quite.",
+    "conclusion": "In Japan, ikigai isn't a diagram - it's a feeling. And you don't need to tick four boxes to have it."
+  },
+  "westernInterpretation": {
+    "title": "The Western (mis)interpretation",
+    "description": "Traditionally, ikigai in Japan is deeply rooted in what you love and what gives your days a sense of purpose. Still, it's also worth considering the other three pillars that are not part of the traditional meaning—what you're good at, what the world needs, and what you can be paid for.",
+    "why": "Why? Because when these areas align, they don't just bring joy—they create balance. They help you flourish, stay focused, and build a life that's both fulfilling and sustainable.",
+    "conclusion": "While life may not always stay perfectly balanced, understanding these pillars might help you move closer to a life that feels meaningful on your own terms."
+  },
+  "whyItMatters": {
+    "title": "Why Ikigai matters",
+    "description": "Embracing ikigai isn't just a philosophical exercise—it has real benefits backed by science. And the findings are pretty compelling: when people live with a sense of purpose, they thrive in more ways than one."
+  },
+  "pillars": {
+    "whatYouLove": {
+      "title": "What You Love",
+      "description": "This is your passion—the things that light you up and make time fly. It could be painting, coaching, solving problems, or planting tomatoes. If it brings you joy, it belongs here."
+    },
+    "whatYoureGoodAt": {
+      "title": "What You're Good At",
+      "description": "These can be natural talents or skills you've honed over time. It's not about being perfect; it's about recognizing where you shine and feel confident. When you use your abilities well, work becomes more rewarding and less draining."
+    },
+    "whatWorldNeeds": {
+      "title": "What the World Needs",
+      "description": "Here's where meaning deepens. This pillar is about contribution—offering something that matters to others, whether it's support, service, creativity, or innovation. It's not always about changing the world. Sometimes, it's just making someone's day better."
+    },
+    "whatYouCanBePaidFor": {
+      "title": "What You Can Be Paid For",
+      "description": "Ikigai can be about inner peace, as well as sustainability. This pillar is about finding a way to turn your passion and skills into something that can support you, even partially. If it pays the bills and fuels your purpose, you're on the right track."
+    }
+  },
+  "fourPillars": {
+    "whatYouLove": {
+      "title": "What You Love",
+      "description": "Activities that spark joy and deep engagement"
+    },
+    "whatYoureGoodAt": {
+      "title": "What You're Good At",
+      "description": "Your natural talents and developed skills"
+    },
+    "whatWorldNeeds": {
+      "title": "What the World Needs",
+      "description": "Ways to contribute meaningfully to others"
+    },
+    "whatYouCanBePaidFor": {
+      "title": "What You Can Be Paid For",
+      "description": "Skills that have economic value"
+    }
+  },
+  "healthBenefits": {
+    "mentalHealth": {
+      "title": "Mental & Emotional Health",
+      "benefits": [
+        "Fewer depression symptoms",
+        "Greater life satisfaction",
+        "More joyful activities"
+      ],
+      "symptoms1": "Fewer depression symptoms",
+      "symptoms2": "Greater life satisfaction", 
+      "symptoms3": "More joyful activities"
+    },
+    "healthyAging": {
+      "title": "Healthy Aging (65+)",
+      "benefits": [
+        "31% lower disability risk",
+        "36% lower dementia risk"
+      ],
+      "benefit1": "31% lower disability risk",
+      "benefit2": "36% lower dementia risk",
+      "studyNote": "3-year study of Japanese adults"
+    },
+    "careerSuccess": {
+      "title": "Career & Success",
+      "benefits": [
+        "Higher job satisfaction",
+        "Better work performance",
+        "Increased resilience"
+      ]
+    },
+    "longevity": {
+      "title": "Longevity & Health",
+      "benefits": [
+        "50% higher mortality risk without ikigai",
+        "60% higher CVD death risk"
+      ],
+      "risk1": "50% higher mortality risk without ikigai",
+      "risk2": "60% higher CVD death risk",
+      "studyNote": "43,000+ adults over 7 years"
+    }
+  },
+  "researchFindings": {
+    "title": "Research Findings",
+    "subtitle": "Scientific evidence supporting the transformative power of ikigai",
+    "happiness": {
+      "title": "Happiness and life satisfaction",
+      "description1": "Living in alignment with your ikigai tends to make you feel more grounded and motivated. You're not just getting through the day—you're moving with intention.",
+      "description2": "Studies show that people who report having ikigai experience fewer symptoms of depression, greater life satisfaction, and even more frequent participation in joyful activities like hobbies and social clubs.",
+      "quote": "Think of it as an emotional anchor. When you know what drives you—even if it's something small—you're better equipped to handle life's ups and downs. As one study put it, ikigai offers psychological protection by weaving meaning into your routine."
+    },
+    "healthYears": {
+      "title": "It may increase the number of health years",
+      "description1": "Research from Japan shows that people with ikigai tend to live healthier, longer lives.",
+      "description2": "A 7-year study of over 43,000 adults found that those without ikigai had a 60% higher risk of cardiovascular death.",
+      "description3": "The health benefits seem to come from the stress-reducing effects of having purpose and meaning in life.",
+      "benefits": [
+        "Lower stress levels and cortisol production",
+        "Better immune system function"
+      ],
+      "conclusion": "Having ikigai appears to be a protective factor for both physical and mental health."
+    },
+    "purposefulWork": {
+      "title": "Purposeful work and career satisfaction",
+      "description1": "People who feel their work aligns with their ikigai report higher job satisfaction and engagement.",
+      "description2": "They're more likely to see their work as meaningful rather than just a paycheck.",
+      "description3": "This doesn't mean you need to change careers—sometimes it's about finding purpose in what you already do.",
+      "genderDifferences": [
+        "Women often find ikigai in relationships and caregiving roles",
+        "Men often find ikigai in achievement and providing for others"
+      ],
+      "conclusion": "The key is finding what gives your work personal meaning and value."
+    },
+    "healthyLife": {
+      "title": "It may increase the number of health years",
+      "description1": "Research from Japan shows that people with ikigai tend to live healthier, longer lives.",
+      "description2": "A 7-year study of over 43,000 adults found that those without ikigai had a 60% higher risk of cardiovascular death.",
+      "description3": "The health benefits seem to come from the stress-reducing effects of having purpose and meaning in life.",
+      "description4": "Having ikigai appears to be a protective factor for both physical and mental health.",
+      "conclusion": "The research consistently shows that having a sense of purpose contributes to both longevity and quality of life."
+    },
+    "mortality": {
+      "title": "Mortality and longevity research",
+      "description1": "Multiple studies have found that people with a strong sense of ikigai live longer.",
+      "description2": "A landmark Japanese study followed over 40,000 adults for seven years.",
+      "description3": "Those without ikigai had significantly higher mortality rates from all causes.",
+      "risks": [
+        "60% higher risk of cardiovascular death without ikigai",
+        "50% higher overall mortality risk",
+        "Higher risk of all-cause mortality"
+      ],
+      "conclusion": "Having ikigai appears to be one of the strongest predictors of longevity and healthy aging.",
+      "conclusion1": "Having ikigai appears to be one of the strongest predictors of longevity.",
+      "conclusion2": "The research consistently shows that purpose contributes to healthy aging."
+    },
+    "conclusion": "The research is clear: having ikigai contributes to better health, longer life, and greater life satisfaction.",
+    "unemployed": {
+      "title": "Ikigai and unemployment",
+      "description1": "Even during periods of unemployment, people with ikigai show better mental health outcomes.",
+      "description2": "Having purpose beyond work helps maintain resilience during career transitions.",
+      "benefits": [
+        "Lower rates of depression during unemployment",
+        "Faster recovery and reemployment rates"
+      ],
+      "conclusion": "Ikigai provides stability that goes beyond job security."
+    }
+  },
+  "alignment": {
+    "title": "Alignment",
+    "description": "When these areas align, they don't just bring joy—they create balance. They help you flourish, stay focused, and build a life that's both fulfilling and sustainable."
+  },
+  "experimenting": {
+    "title": "Experimenting",
+    "description": "Remember: patterns aren't permanent. Life happens, priorities shift, and that's okay. What matters is taking small steps toward what feels meaningful to you, right now.",
+    "rememberTitle": "Remember:"
+  },
+  "findingIkigai": {
+    "title": "Finding Your Ikigai",
+    "subtitle": "A practical approach to discovering your purpose",
+    "questionsTitle": "Questions to Guide Your Journey",
+    "questionsDescription": "Use these questions to explore your unique path to purpose",
+    "questions": {
+      "title": "Guiding Questions",
+      "subtitle": "Self-reflection prompts to discover your ikigai",
+      "loseTime": {
+        "title": "What activities make you lose track of time?",
+        "description": "Notice when you're completely absorbed in what you're doing."
+      },
+      "childhood": {
+        "title": "What did you love doing as a child?",
+        "description": "Often our earliest interests point to our authentic selves."
+      },
+      "yourself": {
+        "title": "What would you do if you weren't worried about what others think?",
+        "description": "This reveals what truly matters to you, not what you think should matter."
+      },
+      "problems": {
+        "title": "What problems do you naturally want to solve?",
+        "description": "Pay attention to what frustrates or motivates you in the world."
+      },
+      "money": {
+        "title": "What would you do if money wasn't a concern?",
+        "description": "This reveals your deepest values and interests."
+      },
+      "help": {
+        "title": "What do people consistently ask for your help with?",
+        "description": "Your natural talents often show up in how others seek your assistance."
+      },
+      "useful": {
+        "title": "What makes you feel most useful?",
+        "description": "Notice when you feel like you're making a meaningful contribution."
+      }
+    },
+    "commonDenominators": {
+      "title": "Common Denominators",
+      "subtitle": "What connects your ikigai experiences",
+      "observe": {
+        "title": "Observe",
+        "description": "Notice patterns in what energizes you versus what drains you."
+      },
+      "connect": {
+        "title": "Connect",
+        "description": "Look for themes across different areas of your life."
+      },
+      "discover": {
+        "title": "Discover",
+        "description": "Find the common threads that point to your unique ikigai."
+      },
+      "description": "Look for patterns and themes that appear consistently across your most meaningful experiences.",
+      "teachingExample": {
+        "title": "Teaching Others",
+        "description": "You light up when explaining concepts or helping others learn."
+      },
+      "organizingExample": {
+        "title": "Organizing and Systems",
+        "description": "You naturally create order and efficiency in chaotic situations."
+      },
+      "rememberTitle": "Remember:",
+      "remember": "Your ikigai doesn't have to be grand or world-changing. It can be as simple as making someone smile or organizing a perfect spreadsheet."
+    },
+    "ikigaiApproachTitle": "Our Ikigai Approach",
+    "ikigaiApproachDescription": "We combine ancient wisdom with modern psychology to help you discover your unique purpose through scientifically-backed assessment and personalized guidance.",
+    "alignment": {
+      "title": "Finding Alignment",
+      "subtitle": "Making it work in real life",
+      "description": "When these areas align, they create a sense of flow and fulfillment that's both sustainable and deeply satisfying.",
+      "progressOverPerfection": "Progress Over Perfection",
+      "progressOverPerfectionDescription": "You don't need perfect alignment to live purposefully. Small steps toward what feels meaningful can transform your daily experience.",
+      "smallAdjustments": "Small Adjustments",
+      "smallAdjustmentsDescription": "Sometimes alignment means tweaking your current situation rather than overhauling your entire life.",
+      "biggerShifts": "Bigger Shifts",
+      "biggerShiftsDescription": "Other times, it means making bigger changes to honor what matters most to you.",
+      "ikigaiApproach": "The Ikigai Approach",
+      "ikigaiApproachDescription": "We help you find your unique path to purpose through scientific assessment and personalized guidance."
+    },
+    "experimenting": {
+      "title": "Experimenting",
+      "subtitle": "Testing what works for you",
+      "goldenRule": "The Golden Rule",
+      "description": "Try small experiments to discover what energizes you and what drains you.",
+      "startSmall": "Start Small",
+      "teachingExample": "Love teaching? Volunteer to train a new colleague.",
+      "creativityExample": "Feel drawn to creativity? Take a weekend art class.",
+      "weekendTest": "The Weekend Test",
+      "weekendDescription": "Notice what you're excited to do when you have free time.",
+      "energizingSigns": "Signs something is energizing:",
+      "energizingList": [
+        "Time flies when you're doing it",
+        "You find yourself thinking about it during downtime",
+        "You feel more confident and capable"
+      ],
+      "drainingSigns": "Signs something is draining:",
+      "drainingList": [
+        "You procrastinate or avoid it",
+        "You feel tired or frustrated afterward",
+        "You watch the clock while doing it"
+      ],
+      "rememberTitle": "Remember:",
+      "remember": "Patterns aren't permanent. Life happens, priorities shift, and that's okay. What matters is taking small steps toward what feels meaningful to you, right now."
+    },
+    "embracingProcess": {
+      "title": "Embracing the Process",
+      "subtitle": "Your ikigai journey is unique to you",
+      "gardenMetaphor": {
+        "title": "Like Tending a Garden",
+        "description": "Finding your ikigai is like tending a garden. Some days you'll feel crystal clear about your direction, other days might feel fuzzy. Both are normal and valuable."
+      },
+      "crystalClearDays": {
+        "title": "Crystal Clear Days",
+        "description": "These are the days when everything clicks. You feel energized, purposeful, and aligned with your values."
+      },
+      "fuzzyDays": {
+        "title": "Fuzzy Days",
+        "description": "These days feel unclear or overwhelming. They're opportunities for reflection and gentle exploration."
+      },
+      "authentic": {
+        "title": "Stay Authentic",
+        "description": "Your ikigai doesn't have to look like anyone else's. It's about what brings you genuine satisfaction and meaning."
+      },
+      "ongoingQuestion": {
+        "title": "An Ongoing Question",
+        "description": "Rather than a destination to reach, think of ikigai as an ongoing question to live with: 'What makes this life worth living?'"
+      }
+    },
+    "journeyStarts": {
+      "title": "Your Journey Starts Here",
+      "description": "Ready to discover what makes your life worth living? We offer two ways to begin:",
+      "scientificAssessment": {
+        "title": "Scientific Assessment",
+        "description": "Take our comprehensive test to get personalized insights about your unique ikigai profile."
+      },
+      "dailyReflection": {
+        "title": "Daily Reflection",
+        "description": "Use our self-discovery cards for ongoing reflection and purpose exploration."
+      },
+      "takeTest": "Take Your Ikigai Test",
+      "discoveryCards": "Get Discovery Cards",
+      "waiting": "Your ikigai is waiting to be discovered. The question is: are you ready to listen?"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions About Ikigai",
+    "subtitle": "Everything you need to know about Japanese life purpose philosophy",
+    "questions": {
+      "q1": "What does Ikigai mean in Japanese?",
+      "a1": "Ikigai (生き甲斐) combines two Japanese words: 'iki' meaning 'life' and 'gai' meaning 'value' or 'worth.' It literally translates to 'reason for being' or 'life's purpose.' The concept has been central to Japanese culture for over 1,000 years.",
+      "q2": "How do you pronounce Ikigai?",
+      "a2": "Ikigai is pronounced 'ee-kee-guy' (ē-kē-gī). The emphasis is placed evenly across all three syllables, with each vowel sound clearly articulated.",
+      "q3": "What are the 4 pillars of Ikigai?", 
+      "a3": "The 4 pillars of Ikigai are: What You Love (passion), What You're Good At (skills), What the World Needs (mission), and What You Can Be Paid For (profession). While this framework was popularized in the West, traditional Japanese Ikigai focuses more on what brings joy and meaning to daily life.",
+      "q4": "How do I find my Ikigai?",
+      "a4": "To find your Ikigai, start with deep self-reflection on what brings you joy, your natural talents, how you can contribute to others, and what activities make you lose track of time. Our free Ikigai test can guide you through this discovery process with scientifically-backed questions.",
+      "q5": "Is Ikigai just a Japanese concept?",
+      "a5": "While Ikigai originated in Japan and remains deeply rooted in Japanese culture, the search for life purpose is universal. Many cultures have similar concepts - the Greek 'eudaimonia,' the Danish 'hygge,' or the German 'Lebensinn' - but Ikigai offers a unique, practical framework for finding meaning.",
+      "q6": "Can Ikigai change over time?",
+      "a6": "Absolutely. Your Ikigai can evolve as you grow, gain new experiences, and your life circumstances change. What brought you purpose at 25 may be different from what fulfills you at 45. The key is staying connected to what currently brings you joy and meaning."
+    }
+  },
+  "seo": {
+    "title": "What is Ikigai? Complete Guide to Japanese Life Purpose Philosophy 2025",
+    "description": "What is Ikigai? Discover the authentic Japanese meaning, definition, and philosophy of Ikigai. Learn how to find your life purpose with our free Ikigai test and proven 4-pillar method.",
+    "keywords": "what is ikigai, ikigai meaning, ikigai definition, japanese philosophy, life purpose, ikigai concept, japanese life philosophy, ikigai test, find your purpose, reason for being",
+    "ogTitle": "What is Ikigai? - Complete Japanese Philosophy Guide & Free Test",
+    "ogDescription": "Discover the authentic Japanese meaning of Ikigai and find your life's purpose. Take our free Ikigai test based on the traditional 4-pillar philosophy. Start your journey today."
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "pageTitle": "Cartas de Autodescubrimiento Ikigai - Tienda",
+  "pageDescription": "Descubre el propósito de tu vida con nuestras auténticas cartas de autodescubrimiento Ikigai inspiradas en la cultura japonesa. 35 reflexiones profundas sobre pasión, misión, vocación y profesión.",
+  "breadcrumb": {
+    "home": "Inicio",
+    "shop": "Tienda"
+  },
+  "product": {
+    "title": "Cartas de Autodescubrimiento Ikigai",
+    "subtitle": "35 Cartas de Atención Plena para el Crecimiento Personal y Descubrimiento del Propósito de Vida",
+    "badge": "Inspirado en la Cultura Japonesa",
+    "price": "$29.99",
+    "originalPrice": "$39.99",
+    "discount": "25% DESCUENTO",
+    "rating": "reseñas",
+    "features": [
+      "35 cartas bellamente diseñadas con acabado premium",
+      "Basado en el auténtico concepto japonés Ikigai",
+      "Perfecto para parejas y actividades grupales",
+      "Cartón de calidad premium con recubrimiento UV",
+      "Prácticas diarias de 5 minutos para crecimiento personal",
+      "Preguntas de autorreflexión guiada",
+      "Hermoso arte inspirado en el estilo japonés",
+      "Adecuado para todas las edades y trasfondos"
+    ],
+    "quantity": "Cantidad",
+    "addToCart": "Añadir al Carrito",
+    "shipping": "Envío gratuito mundialmente"
+  },
+  "trustIndicators": {
+    "customers": "Clientes satisfechos",
+    "premium": "Premium",
+    "quality": "Calidad garantizada"
+  },
+  "pricing": {
+    "youSave": "Ahorras"
+  },
+  "stockMessage": "Solo quedan {{count}} en stock",
+  "guarantees": {
+    "shipping": "Envío gratuito mundialmente",
+    "moneyBack": "Garantía de devolución de 30 días"
+  },
+  "benefits": {
+    "title": "¿Por Qué Elegir las Cartas de Autodescubrimiento Ikigai?",
+    "subtitle": "Descubre los poderosos beneficios que hacen de nuestras cartas el compañero perfecto para tu viaje hacia encontrar el propósito de la vida.",
+    "findPurpose": {
+      "title": "Encuentra tu Propósito",
+      "description": "Descubre lo que realmente te importa a través de la autorreflexión guiada"
+    },
+    "dailyMindfulness": {
+      "title": "Atención Plena Diaria",
+      "description": "Prácticas diarias de 5 minutos para el crecimiento personal y claridad"
+    },
+    "shareWithLovedOnes": {
+      "title": "Comparte con Seres Queridos",
+      "description": "Perfecto para parejas, familias y amigos para descubrir juntos"
+    },
+    "beautifulDesign": {
+      "title": "Diseño Hermoso",
+      "description": "Cartas de calidad premium con arte inspirador de origen japonés"
+    }
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "subtitle": "Únete a miles de personas que han transformado sus vidas con nuestras cartas Ikigai"
+  },
+  "tabs": {
+    "description": "Descripción",
+    "contents": "Qué Incluye",
+    "benefits": "Beneficios",
+    "reviews": "Reseñas"
+  },
+  "description": {
+    "title": "Acerca de las Cartas de Autodescubrimiento Ikigai",
+    "paragraph1": "¿Estás listo para descubrir el propósito de tu vida? Nuestro set de cartas, lleno de 35 reflexiones profundas, está diseñado para guiarte en un viaje hacia una comprensión más profunda de tu pasión, misión, vocación y profesión.",
+    "paragraph2": "Inspirado en el concepto japonés de Ikigai, estas cartas ofrecen una dosis diaria de atención plena y crecimiento personal. Ikigai es lo que te permite mirar hacia el futuro incluso si te sientes miserable ahora - podría ayudarte a vivir una vida más plena.",
+    "paragraph3": "Esto no es un juego de velocidad o competencia. Te invitamos a ver estas cartas como un ciclo de desafíos que requiere que profundices en ti mismo, inicies nuevos hábitos y cambies tu forma de pensar."
+  },
+  "contents": {
+    "title": "Qué Incluye tu Set",
+    "heart": {
+      "title": "💖 El Corazón",
+      "description": "Este capítulo te ayudará a definir las cosas que te emocionan, interesan y vivifican y sin las cuales no podrías imaginar tu vida."
+    },
+    "lungs": {
+      "title": "🫁 Los Pulmones",
+      "description": "El capítulo pulmones se trata de encontrar tu lugar en el mundo. Las tareas te llevarán a la realización de tu verdadero potencial y te animarán a experimentar y explorar más."
+    },
+    "hands": {
+      "title": "👐 Las Manos",
+      "description": "Este capítulo se trata del desarrollo, evolución y crecimiento. Las tareas te animarán a avanzar en el auto-mejoramiento y ayudarán a entender los eslabones perdidos para una transformación exitosa."
+    },
+    "mind": {
+      "title": "🧠 La Mente",
+      "description": "El capítulo mente se trata de hacerte consciente de tus talentos y habilidades. Las tareas te ayudarán a entender qué quieres hacer en tu vida y qué talentos deseas adquirir."
+    },
+    "soul": {
+      "title": "✨ El Alma",
+      "description": "Este capítulo se trata de encontrar tu verdadero yo. Las tareas serán un pequeño empujón hacia la autoconciencia y la vida auténtica."
+    }
+  },
+  "benefitsTab": {
+    "title": "Beneficios Clave",
+    "personalGrowth": {
+      "title": "Crecimiento Personal",
+      "benefits": [
+        "Encuentra el propósito y significado de tu vida",
+        "Descubre lo que realmente te trae alegría",
+        "Desarrolla mayor autoconciencia",
+        "Crea hábitos diarios positivos"
+      ]
+    },
+    "relationshipBuilding": {
+      "title": "Construcción de Relaciones",
+      "benefits": [
+        "Comparte el viaje con amigos y familia",
+        "Fortalece vínculos con tu pareja",
+        "Descubre cosas nuevas sobre los demás",
+        "Perfecto para sesiones de terapia de parejas"
+      ]
+    }
+  },
+  "reviewsTab": {
+    "title": "Reseñas de Clientes",
+    "rating": "de 5"
+  },
+  "cta": {
+    "title": "¿Listo para Descubrir tu Ikigai?",
+    "subtitle": "Únete a miles de personas que han encontrado el propósito de su vida con nuestras cartas de autodescubrimiento.",
+    "button": "Ordena tu Set de Cartas Hoy"
+  },
+  "finalCta": {
+    "title": "¿Listo para Descubrir tu",
+    "highlight": "Propósito de Vida?",
+    "description": "Únete a más de 12,000 personas que han transformado sus vidas con nuestras cartas Ikigai inspiradas en la cultura japonesa",
+    "buttonText": "Obtén tus Cartas por"
+  },
+  "ui": {
+    "quantity": "Cantidad",
+    "productView": "Vista del producto {{number}}",
+    "onlyLeft": "Solo quedan {{count}}",
+    "inStock": "en stock",
+    "youSave": "Ahorras",
+    "discount": "DESCUENTO",
+    "outOf": "de",
+    "altText": {
+      "productImage": "Cartas de Autodescubrimiento Ikigai",
+      "productGallery": "Galería del producto"
+    }
+  }
+}

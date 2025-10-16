@@ -1,0 +1,146 @@
+{
+  "seo": {
+    "title": "Test de Ikigai Gratuito - Descubre tu Razón de Ser | Cuestionario Ikigai",
+    "description": "Realiza nuestro test de Ikigai gratuito para descubrir qué es Ikigai y encontrar tu propósito de vida. Cuestionario gratuito de Ikigai te ayuda a explorar tu razón de ser con esta evaluación integral.",
+    "keywords": "test ikigai, test ikigai gratuito, cuestionario ikigai, que es ikigai, test ikigai gratis, cuestionario ikigai gratuito, significado ikigai, cuestionario ikigai, test carrera ikigai, test propósito de vida",
+    "ogTitle": "Descubre tu Ikigai: Toma el Viaje para Encontrar tu Verdadero Ser",
+    "ogDescription": "¿Alguna vez te preguntas '¿Qué me hace realmente feliz?' o '¿Cuál es mi propósito?' Realiza nuestro test de Ikigai gratuito para descubrir tu razón de ser."
+  },
+  "hero": {
+    "title": "Test de Ikigai Gratuito - Descubre tu Razón de Ser",
+    "subtitle": "¿Qué es Ikigai? Realiza Nuestro Cuestionario Gratuito de Ikigai",
+    "question1": "¿Alguna vez te preguntas, \"¿Qué me hace realmente feliz?\" o \"¿Cuál es mi propósito?\"",
+    "personalStory": "Yo también me sentía perdido - hasta que descubrí",
+    "ikigaiMeaning": "Ikigai",
+    "ikigaiDefinition": "el concepto japonés que significa \"una razón de ser\"",
+    "impact": "Cambió cómo vivo, y ahora he creado un",
+    "testDescription": "test de Ikigai gratuito",
+    "purpose": "simple para ayudarte a encontrar tu propio Ikigai a través de este",
+    "comprehensiveQuiz": "cuestionario integral de Ikigai",
+    "cta": "Realizar el Test de Ikigai Gratuito"
+  },
+  "whatIsIkigai": {
+    "title": "Entonces, ¿qué es Ikigai?",
+    "description": "¿Qué es Ikigai? Ikigai es un concepto japonés que significa \"razón de ser\" - se trata de encontrar el equilibrio entre cuatro áreas esenciales de la vida:",
+    "whatYouLove": {
+      "title": "Lo que Amas",
+      "description": "Tus pasiones e intereses."
+    },
+    "whatWorldNeeds": {
+      "title": "Lo que el Mundo Necesita",
+      "description": "Tu contribución a la sociedad."
+    },
+    "whatYouCanBePaidFor": {
+      "title": "Por lo que te Pueden Pagar",
+      "description": "Tu carrera y seguridad financiera."
+    },
+    "whatYouAreGoodAt": {
+      "title": "En lo que Eres Bueno",
+      "description": "Tus habilidades y fortalezas."
+    },
+    "sweetSpot": "El punto dulce donde estas cuatro áreas se superponen es tu Ikigai—tu verdadero propósito que te trae alegría y realización.",
+    "ourTest": "Nuestro test de Ikigai gratuito es una herramienta integral diseñada para ayudarte a descubrir esta combinación única en tu vida.",
+    "searchingText": "Si has estado buscando cómo encontrar Ikigai o preguntándote \"¿qué es Ikigai?\", este cuestionario gratuito de Ikigai y evaluación de Ikigai es perfecto para ti."
+  },
+  "howItWorks": {
+    "title": "¿Cómo Funciona Nuestro Test de Ikigai Gratuito?",
+    "description": "¡Es simple! Nuestro test de Ikigai gratuito te guía a través de preguntas reflexivas que exploran tus pasiones, fortalezas, valores y cómo estos se alinean con el mundo que te rodea.",
+    "visualization": "A través de este cuestionario gratuito de Ikigai, podrás visualizar tu Ikigai—esa poderosa intersección donde la felicidad y el propósito se encuentran.",
+    "benefits": "Muchos encuentran que esta evaluación gratuita de Ikigai no solo aclara su propósito personal sino que también ayuda a alinear su carrera con sus valores.",
+    "cta": "Comenzar tu Viaje"
+  },
+  "needTest": {
+    "title": "¿Necesitas este Test de Ikigai Gratuito?",
+    "description": "¡Definitivamente! Ya sea que estés al comienzo de tu viaje de autodescubrimiento, navegando una transición de vida difícil, o simplemente queriendo entender mejor \"qué es Ikigai\", este test de Ikigai gratuito te guiará hacia mayor claridad y dirección.",
+    "outcome": "Es un paso hacia descubrir qué te impulsa realmente, y puede ayudarte a reevaluar tu trayectoria profesional con los insights obtenidos de este cuestionario integral gratuito de Ikigai."
+  },
+  "whatYouDiscover": {
+    "title": "Desbloquea la clave de una vida significativa con nuestro Test de Ikigai Gratuito",
+    "description": "Este cuestionario gratuito de Ikigai te ayudará a aprender sobre tus fortalezas, pasiones y propósito. Esto es lo que descubrirás:",
+    "coreStrengths": {
+      "title": "Tus Fortalezas Principales",
+      "description": "Descubrirás las habilidades y cualidades que te hacen único—tus talentos naturales y habilidades que te distinguen de otros. Ya sea tu capacidad de resolución de problemas, creatividad, habilidades de liderazgo o talentos interpersonales, este test revelará en qué sobresales y cómo aprovecharlo en tu vida y carrera.",
+      "example": "Ejemplo de Insight: Eres un líder natural, impulsado por el deseo de inspirar y motivar a quienes te rodean. Tu capacidad de comunicar y construir relaciones es una de tus mayores fortalezas.",
+      "cardTitle": "Descubre tus Habilidades Únicas"
+    },
+    "whatDrivesYou": {
+      "title": "Lo que te Impulsa",
+      "description": "Este test te ayudará a identificar qué realmente te emociona y energiza—las actividades y pasiones que te iluminan por dentro. Descubrirás cómo alinear estas pasiones con tu vida diaria para sentirte más realizado y motivado.",
+      "example": "Ejemplo de Insight: Prosperas cuando estás creando algo nuevo, ya sea a través del arte, resolución de problemas o dando vida a ideas frescas. Tu pasión por la innovación te hace destacar.",
+      "cardTitle": "Descubre tus Pasiones"
+    },
+    "missionPurpose": {
+      "title": "Tu Misión y Propósito",
+      "description": "Descubre cómo puedes contribuir al mundo de una manera que se alinee con tus valores. Descubrirás cómo tus pasiones y habilidades se intersectan con lo que el mundo necesita, dándote un claro sentido de propósito.",
+      "example": "Ejemplo de Insight: Estás impulsado por un fuerte sentido de propósito y el deseo de tener un impacto positivo. Ya sea ayudando a otros o abordando desafíos globales, tu misión es crear un cambio significativo.",
+      "cardTitle": "Encuentra tu Misión"
+    },
+    "vocation": {
+      "title": "Tu Vocación",
+      "description": "Aprende cómo convertir tus pasiones y habilidades en una carrera sostenible. Descubrirás oportunidades profesionales que no solo pagan las cuentas sino que también alimentan tu alma, creando un equilibrio perfecto entre propósito y prosperidad.",
+      "example": "Ejemplo de Insight: Tu capacidad de conectar con otros y crear soluciones innovadoras te hace ideal para roles en consultoría, coaching o emprendimiento social. Puedes construir una carrera que sea tanto financieramente gratificante como personalmente significativa.",
+      "cardTitle": "Construye tu Carrera"
+    }
+  },
+  "readyToStart": {
+    "title": "¿Listo para Comenzar?",
+    "description": "Tu viaje hacia encontrar tu Ikigai comienza con un solo paso. Nuestro test gratuito de Ikigai está diseñado para ser reflexivo, perspicaz y, lo más importante, transformador.",
+    "takeTime": "Tómate tu tiempo con cada pregunta, y recuerda: no hay respuestas incorrectas, solo insights honestos sobre quién eres realmente.",
+    "cta": "Comenzar el Test de Ikigai Gratuito"
+  },
+  "actionPlan": {
+    "title": "Un Plan de Acción Personalizado",
+    "description": "¡No nos detenemos solo en las ideas! Después de completar el test, recibirás un plan de acción paso a paso adaptado a tus resultados. Este plan está diseñado para ayudarte a tomar pasos pequeños y significativos hacia alinear tu vida con tu Ikigai.",
+    "exampleTitle": "Ejemplo de tu Plan de Acción del Test Gratuito de Ikigai:",
+    "phase1": {
+      "title": "1-3 Meses:",
+      "description": "Comienza a explorar tus pasiones a través de proyectos pequeños, pasatiempos o trabajo voluntario."
+    },
+    "phase2": {
+      "title": "3-6 Meses:",
+      "description": "Construye conexiones más profundas con personas afines o comienza a desarrollar nuevas habilidades relacionadas con tu Misión."
+    },
+    "phase3": {
+      "title": "6-12 Meses:",
+      "description": "Busca oportunidades avanzadas, como certificaciones, transiciones profesionales o proyectos a largo plazo que se alineen con tu Ikigai."
+    },
+    "phase4": {
+      "title": "Después de 12 Meses:",
+      "description": "Integra tu Ikigai completamente en tu vida persiguiendo trabajo significativo y siendo mentor de otros."
+    }
+  },
+  "testimonials": {
+    "title": "Lo que Dicen las Personas Sobre Nuestro Test de Ikigai",
+    "sarah": {
+      "quote": "Este test de Ikigai gratuito me ayudó a realizar que mi verdadera pasión estaba en el diseño sostenible. Nunca he estado más feliz en mi carrera.",
+      "name": "Sarah M.",
+      "role": "Diseñadora UX"
+    },
+    "david": {
+      "quote": "Estuve atrapado en consultoría corporativa durante años. Este cuestionario me mostró que mi vocación estaba en educación e impacto social.",
+      "name": "David L.",
+      "role": "Consultor de Impacto Social"
+    },
+    "maria": {
+      "quote": "Después de 15 años en marketing, descubrí mi Ikigai en sostenibilidad alimentaria. Ahora dirijo mi propia consultoría.",
+      "name": "María R.",
+      "role": "Consultora de Sostenibilidad"
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes sobre el Test de Ikigai",
+    "q1": "¿Cuánto tiempo toma el test?",
+    "a1": "El test de Ikigai gratuito típicamente toma 10-15 minutos para completar. Hay 18 preguntas reflexivas, y te recomendamos que te tomes tu tiempo con cada una.",
+    "q2": "¿Es realmente gratuito?",
+    "a2": "Sí, nuestro test básico de Ikigai es completamente gratuito. Recibirás insights valiosos sobre tu propósito y tipo de personalidad sin costo alguno.",
+    "q3": "¿Qué hace que este test sea diferente?",
+    "a3": "Nuestro test está basado en el concepto auténtico japonés de Ikigai, no solo en pruebas de personalidad occidentales. Se enfoca en la intersección de pasión, habilidad, propósito y sustento financiero.",
+    "q4": "¿Puedo retomar el test?",
+    "a4": "Absolutamente. Recomendamos retomar el test cada 6-12 meses ya que tu Ikigai puede evolucionar a medida que creces y cambias."
+  },
+  "finalCTA": {
+    "title": "Tu Ikigai Te Está Esperando",
+    "description": "No esperes más para descubrir tu razón de ser. Únete a miles de personas que han encontrado claridad, propósito y dirección a través de nuestro test de Ikigai gratuito.",
+    "cta": "Descubre tu Ikigai Ahora"
+  }
+}

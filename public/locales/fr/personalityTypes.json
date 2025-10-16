@@ -1,0 +1,95 @@
+{
+  "seo": {
+    "title": "Types de Personnalité Ikigai - Découvrez Votre Type Unique | Guide Complet 2025",
+    "description": "Explorez les 5 types de personnalité Ikigai: Constructeur, Explorateur, Rêveur, Ambitieux et Aidant. Découvrez votre type et débloquez votre potentiel.",
+    "keywords": "types personnalité ikigai, test personnalité, constructeur, explorateur, rêveur, ambitieux, aidant, développement personnel"
+  },
+  "hero": {
+    "title": "Types de Personnalité Ikigai",
+    "subtitle": "Découvrez Votre Approche Unique du But de la Vie",
+    "description": "Chaque personne a une façon unique d'exprimer son Ikigai. Découvrez les 5 types principaux et identifiez celui qui vous correspond le mieux."
+  },
+  "overview": {
+    "title": "Comprendre les Types Ikigai",
+    "subtitle": "Chaque type représente une approche différente pour trouver et vivre son but",
+    "description": "Ces types ne sont pas des boîtes rigides, mais plutôt des guides pour comprendre vos tendances naturelles et optimiser votre chemin vers l'épanouissement."
+  },
+  "types": {
+    "builder": {
+      "name": "Le Constructeur",
+      "subtitle": "Créateur de Solutions Pratiques",
+      "description": "Vous excellez à transformer les idées en réalité concrète. Votre Ikigai se trouve dans la création de quelque chose de tangible et utile.",
+      "traits": ["Orienté solutions", "Pragmatique", "Persévérant", "Innovateur", "Fiable"],
+      "strengths": "Transformation d'idées en réalité, résolution de problèmes concrets, leadership dans l'exécution",
+      "challenges": "Peut négliger l'aspect émotionnel, tendance au perfectionnisme, difficulté à déléguer"
+    },
+    "explorer": {
+      "name": "L'Explorateur",
+      "subtitle": "Aventurier de Nouvelles Possibilités",
+      "description": "Votre Ikigai réside dans la découverte de nouveaux horizons et l'expansion des limites connues. Vous êtes motivé par la curiosité et l'aventure.",
+      "traits": ["Curieux", "Adaptable", "Courageux", "Créatif", "Indépendant"],
+      "strengths": "Innovation, adaptation au changement, vision large, capacité d'inspiration",
+      "challenges": "Difficulté à se fixer, peut manquer de profondeur, résistance aux routines"
+    },
+    "dreamer": {
+      "name": "Le Rêveur",
+      "subtitle": "Visionnaire d'un Monde Meilleur",
+      "description": "Vous êtes animé par une vision d'un avenir meilleur. Votre Ikigai se trouve dans l'inspiration et la transformation positive du monde.",
+      "traits": ["Visionnaire", "Empathique", "Créatif", "Idéaliste", "Inspirant"],
+      "strengths": "Vision d'avenir, capacité d'inspiration, créativité sans limites, empathie profonde",
+      "challenges": "Peut manquer de pragmatisme, sensibilité aux critiques, difficulté avec les détails"
+    },
+    "achiever": {
+      "name": "L'Ambitieux",
+      "subtitle": "Conquérant d'Objectifs Élevés",
+      "description": "Votre Ikigai se manifeste à travers l'atteinte d'objectifs ambitieux et l'excellence dans votre domaine. Vous êtes motivé par la réussite et la reconnaissance.",
+      "traits": ["Déterminé", "Compétitif", "Orienté résultats", "Stratégique", "Leader"],
+      "strengths": "Atteinte d'objectifs, leadership naturel, résilience, orientation performance",
+      "challenges": "Peut négliger l'équilibre vie-travail, pression constante, difficulté à célébrer les succès"
+    },
+    "helper": {
+      "name": "L'Aidant",
+      "subtitle": "Serviteur du Bien-Être d'Autrui",
+      "description": "Votre Ikigai s'épanouit dans le service aux autres et l'amélioration de leur bien-être. Vous trouvez votre sens dans l'aide et le soutien.",
+      "traits": ["Altruiste", "Empathique", "Patient", "Généreux", "Intuitif"],
+      "strengths": "Soutien émotionnel, compréhension des besoins d'autrui, création d'harmonie, loyauté",
+      "challenges": "Tendance à s'oublier, difficulté à dire non, peut être trop dépendant de la reconnaissance"
+    }
+  },
+  "mixedTypes": {
+    "title": "Types Mixtes et Évolution",
+    "subtitle": "La plupart des gens combinent plusieurs types",
+    "description": "Il est normal d'avoir des traits de plusieurs types. Votre type principal peut aussi évoluer selon les phases de votre vie et vos expériences.",
+    "combinations": {
+      "builderExplorer": "Constructeur-Explorateur: Innovation pratique",
+      "dreamerHelper": "Rêveur-Aidant: Vision altruiste",
+      "achieverBuilder": "Ambitieux-Constructeur: Excellence exécutive",
+      "explorerDreamer": "Explorateur-Rêveur: Créativité aventureuse",
+      "helperAchiever": "Aidant-Ambitieux: Leadership bienveillant"
+    }
+  },
+  "discovery": {
+    "title": "Découvrez Votre Type",
+    "subtitle": "Deux façons de révéler votre personnalité Ikigai",
+    "quickTest": {
+      "title": "Test Rapide de Type",
+      "description": "5 minutes pour identifier votre type principal",
+      "duration": "5 minutes",
+      "questions": "12 questions",
+      "button": "Test Rapide"
+    },
+    "fullTest": {
+      "title": "Test Ikigai Complet",
+      "description": "Analyse approfondie avec recommandations personnalisées",
+      "duration": "15 minutes", 
+      "questions": "18 questions",
+      "button": "Test Complet"
+    }
+  },
+  "cta": {
+    "title": "Prêt à Découvrir Votre Type?",
+    "subtitle": "Choisissez le test qui vous convient le mieux",
+    "quickButton": "Test de Type Rapide",
+    "fullButton": "Test Ikigai Complet"
+  }
+}

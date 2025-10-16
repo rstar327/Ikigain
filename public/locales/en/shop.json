@@ -1,0 +1,137 @@
+{
+  "pageTitle": "Ikigai Self-Discovery Cards - Shop",
+  "pageDescription": "Discover your life's purpose with our authentic Japanese-inspired Ikigai self-discovery cards. 35 thoughtful prompts covering passion, mission, vocation & profession.",
+  "breadcrumb": {
+    "home": "Home",
+    "shop": "Shop"
+  },
+  "product": {
+    "title": "Ikigai Self-Discovery Cards",
+    "subtitle": "35 Mindfulness Cards for Personal Growth & Life Purpose Discovery",
+    "badge": "Japanese Culture Inspired",
+    "price": "$34.99",
+    "originalPrice": "$49.99",
+    "discount": "30% OFF",
+    "rating": "reviews",
+    "features": [
+      "35 beautifully designed cards with premium finish",
+      "Based on authentic Japanese Ikigai concept",
+      "Perfect for couples and group activities",
+      "Premium quality card stock with UV coating",
+      "5-minute daily practices for personal growth",
+      "Guided self-reflection questions",
+      "Beautiful Japanese-inspired artwork",
+      "Suitable for all ages and backgrounds"
+    ],
+    "quantity": "Quantity",
+    "addToCart": "Add to Cart",
+    "shipping": "Free shipping worldwide"
+  },
+  "benefits": {
+    "title": "Why Choose Ikigai Self-Discovery Cards?",
+    "findPurpose": {
+      "title": "Find Your Purpose",
+      "description": "Discover what truly matters to you through guided self-reflection"
+    },
+    "dailyMindfulness": {
+      "title": "Daily Mindfulness", 
+      "description": "5-minute daily practices for personal growth and clarity"
+    },
+    "shareWithLovedOnes": {
+      "title": "Share with Loved Ones",
+      "description": "Perfect for couples, families, and friends to discover together"
+    },
+    "beautifulDesign": {
+      "title": "Beautiful Design",
+      "description": "Premium quality cards with inspiring Japanese-inspired artwork"
+    }
+  },
+  "tabs": {
+    "description": "Description",
+    "contents": "What's Included",
+    "benefits": "Benefits",
+    "reviews": "Reviews"
+  },
+  "description": {
+    "title": "About Ikigai Self-Discovery Cards",
+    "paragraph1": "Are you ready to discover your life's purpose? Our card set, filled with 35 thoughtful prompts, are designed to guide you on a journey towards a deeper understanding of your passion, mission, vocation, and profession.",
+    "paragraph2": "Inspired by the Japanese concept of Ikigai, these cards offer a daily dose of mindfulness and personal growth. Ikigai is what allows you to look forward to the future even if you're miserable right now - it might just help you live a more fulfilling life.",
+    "paragraph3": "This is not a game of speed or competition. We invite you to look at these cards as a cycle of challenges that requires you to dive deep into yourself, start new habits and change your way of thinking."
+  },
+  "contents": {
+    "title": "What's Included in Your Set",
+    "heart": {
+      "title": "💖 The Heart",
+      "description": "This chapter will help you define the things that excite, interest & enliven you and without which you couldn't imagine your life."
+    },
+    "lungs": {
+      "title": "🫁 The Lungs",
+      "description": "Chapter lungs is about finding your place in the world. The tasks will lead you to the realization of your true potential and encourage you to experiment and explore more."
+    },
+    "hands": {
+      "title": "👐 The Hands",
+      "description": "This chapter is about development, evolvement and growth. The tasks will encourage you to move forward in self-improvement and help understand the missing links for successful transformation."
+    },
+    "mind": {
+      "title": "🧠 The Mind",
+      "description": "The chapter mind is about making you aware of your talents and skills. The tasks will help you understand what you want to do in your life and what talents you wish to acquire."
+    },
+    "soul": {
+      "title": "✨ The Soul",
+      "description": "This chapter is about finding your true self. The tasks will be a small push towards self-awareness and authentic living."
+    }
+  },
+  "benefitsTab": {
+    "title": "Key Benefits",
+    "personalGrowth": {
+      "title": "Personal Growth",
+      "benefits": [
+        "Find your life's purpose and meaning",
+        "Discover what truly brings you joy",
+        "Develop greater self-awareness",
+        "Create positive daily habits"
+      ]
+    },
+    "relationshipBuilding": {
+      "title": "Relationship Building",
+      "benefits": [
+        "Share the journey with friends and family",
+        "Strengthen bonds with your partner",
+        "Discover new things about each other",
+        "Perfect for couples therapy sessions"
+      ]
+    }
+  },
+  "reviewsTab": {
+    "title": "Customer Reviews",
+    "rating": "out of 5"
+  },
+  "cta": {
+    "title": "Ready to Discover Your Ikigai?",
+    "subtitle": "Join thousands of people who have found their life's purpose with our self-discovery cards.",
+    "button": "Order Your Card Set Today"
+  },
+  "finalCta": {
+    "title": "Ready to Discover Your",
+    "highlight": "Life's Purpose?",
+    "description": "Join over 12,000 people who have transformed their lives with our Japanese-inspired Ikigai cards",
+    "buttonText": "Get Your Cards for"
+  },
+  "trustIndicators": {
+    "customers": "Happy customers",
+    "premium": "Premium",
+    "quality": "Quality guaranteed"
+  },
+  "pricing": {
+    "youSave": "You save"
+  },
+  "stockMessage": "Only {{count}} left in stock",
+  "guarantees": {
+    "shipping": "Free shipping worldwide",
+    "moneyBack": "30-day money back guarantee"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Join thousands of people who have transformed their lives with our Ikigai cards"
+  }
+}

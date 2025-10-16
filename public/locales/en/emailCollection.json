@@ -1,0 +1,42 @@
+{
+  "title": "Your Ikigai Results Are Ready!",
+  "subtitle": "Get instant access to your personalized Ikigai profile and career recommendations.",
+  "formTitle": "Enter Your Email to Access Your Results",
+  "emailLabel": "Email Address",
+  "emailPlaceholder": "your@email.com",
+  "whatYouGet": "What You'll Get:",
+  "benefits": {
+    "analysis": "Detailed Ikigai personality analysis",
+    "recommendations": "Personalized career recommendations",
+    "report": "Your complete Ikigai profile report",
+    "tips": "Optional: Career development tips via email"
+  },
+  "privacy": "We respect your privacy. No spam, unsubscribe anytime.",
+  "buttons": {
+    "submit": "Get My Results",
+    "submitting": "Saving...",
+    "skip": "Skip"
+  },
+  "legal": "By continuing, you agree to our",
+  "privacyPolicy": "Privacy Policy",
+  "and": "and",
+  "termsOfService": "Terms of Service",
+  "toasts": {
+    "emailSaved": {
+      "title": "Email Saved",
+      "description": "Your results are ready! Redirecting..."
+    },
+    "error": {
+      "title": "Error",
+      "description": "Failed to save email. Please try again."
+    },
+    "invalidEmail": {
+      "title": "Invalid Email",
+      "description": "Please enter a valid email address"
+    },
+    "invalidSession": {
+      "title": "Invalid Session",
+      "description": "Session ID is invalid. Please try again."
+    }
+  }
+}

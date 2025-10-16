@@ -1,0 +1,132 @@
+{
+  "builder": {
+    "name": "Constructeur",
+    "description": "Créateur de solutions pratiques",
+    "fullDescription": "Vous excellez à transformer les idées en réalité concrète. Votre Ikigai se trouve dans la création de quelque chose de tangible et utile qui améliore la vie des gens.",
+    "coreStrengths": [
+      "Vision pratique et réaliste",
+      "Capacité d'exécution exceptionnelle", 
+      "Leadership naturel dans les projets",
+      "Résolution de problèmes créative",
+      "Persévérance face aux défis"
+    ],
+    "challenges": [
+      "Peut négliger l'aspect émotionnel",
+      "Tendance au perfectionnisme",
+      "Difficulté à déléguer",
+      "Impatience avec les processus lents",
+      "Peut sous-estimer les besoins relationnels"
+    ],
+    "nurturingTips": [
+      "Prenez du temps pour la réflexion stratégique",
+      "Développez vos compétences de communication",
+      "Apprenez à valoriser les contributions des autres",
+      "Créez des espaces pour l'innovation",
+      "Équilibrez action et planification"
+    ]
+  },
+  "explorer": {
+    "name": "Explorateur",
+    "description": "Aventurier de nouvelles possibilités",
+    "fullDescription": "Votre Ikigai réside dans la découverte de nouveaux horizons et l'expansion des limites connues. Vous êtes motivé par la curiosité et l'aventure.",
+    "coreStrengths": [
+      "Curiosité insatiable et ouverture d'esprit",
+      "Adaptabilité exceptionnelle",
+      "Courage face à l'inconnu",
+      "Pensée innovante et créative",
+      "Capacité d'inspiration des autres"
+    ],
+    "challenges": [
+      "Difficulté à se fixer sur un seul projet",
+      "Peut manquer de profondeur",
+      "Résistance aux routines nécessaires",
+      "Tendance à abandonner avant la fin",
+      "Peut négliger les détails pratiques"
+    ],
+    "nurturingTips": [
+      "Créez de la variété dans vos routines",
+      "Fixez-vous des objectifs à court terme",
+      "Trouvez des partenaires complémentaires",
+      "Documentez vos découvertes",
+      "Alternez exploration et consolidation"
+    ]
+  },
+  "dreamer": {
+    "name": "Rêveur",
+    "description": "Visionnaire d'un monde meilleur",
+    "fullDescription": "Vous êtes animé par une vision d'un avenir meilleur. Votre Ikigai se trouve dans l'inspiration et la transformation positive du monde.",
+    "coreStrengths": [
+      "Vision inspirante de l'avenir",
+      "Empathie profonde et authentique",
+      "Créativité sans limites",
+      "Idéalisme motivant",
+      "Capacité d'inspiration naturelle"
+    ],
+    "challenges": [
+      "Peut manquer de pragmatisme",
+      "Sensibilité excessive aux critiques",
+      "Difficulté avec les détails pratiques",
+      "Tendance à la procrastination",
+      "Peut être déçu par la réalité"
+    ],
+    "nurturingTips": [
+      "Associez-vous avec des personnes pratiques",
+      "Décomposez vos visions en étapes concrètes",
+      "Célébrez les petits progrès",
+      "Protégez votre sensibilité créative",
+      "Trouvez des moyens d'expression artistique"
+    ]
+  },
+  "achiever": {
+    "name": "Ambitieux",
+    "description": "Conquérant d'objectifs élevés",
+    "fullDescription": "Votre Ikigai se manifeste à travers l'atteinte d'objectifs ambitieux et l'excellence dans votre domaine. Vous êtes motivé par la réussite et la reconnaissance.",
+    "coreStrengths": [
+      "Détermination inébranlable",
+      "Esprit compétitif sain",
+      "Orientation résultats exceptionnelle",
+      "Pensée stratégique développée",
+      "Leadership naturel et charismatique"
+    ],
+    "challenges": [
+      "Peut négliger l'équilibre vie-travail",
+      "Pression constante sur soi-même",
+      "Difficulté à célébrer les succès",
+      "Peut être impatient avec les autres",
+      "Risque de burnout professionnel"
+    ],
+    "nurturingTips": [
+      "Planifiez des moments de récupération",
+      "Développez votre intelligence émotionnelle",
+      "Apprenez à déléguer efficacement",
+      "Créez des objectifs équilibrés",
+      "Cultivez des relations personnelles"
+    ]
+  },
+  "helper": {
+    "name": "Aidant",
+    "description": "Serviteur du bien-être d'autrui",
+    "fullDescription": "Votre Ikigai s'épanouit dans le service aux autres et l'amélioration de leur bien-être. Vous trouvez votre sens dans l'aide et le soutien.",
+    "coreStrengths": [
+      "Altruisme authentique et profond",
+      "Empathie naturelle exceptionnelle",
+      "Patience et persévérance",
+      "Générosité sans limites",
+      "Intuition développée des besoins"
+    ],
+    "challenges": [
+      "Tendance à s'oublier soi-même",
+      "Difficulté à dire non",
+      "Dépendance à la reconnaissance",
+      "Épuisement émotionnel possible",
+      "Peut négliger ses propres besoins"
+    ],
+    "nurturingTips": [
+      "Pratiquez l'autosoins régulièrement",
+      "Apprenez à poser des limites saines",
+      "Développez votre estime personnelle",
+      "Trouvez des sources d'énergie renouvelables",
+      "Acceptez l'aide des autres"
+    ]
+  }
+}

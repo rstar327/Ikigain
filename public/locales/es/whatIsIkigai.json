@@ -1,0 +1,513 @@
+{
+  "title": "¿Qué es Ikigai? - El Secreto Japonés para el Propósito de la Vida",
+  "description": "Descubre el auténtico concepto japonés de Ikigai. Aprende cómo esta filosofía antigua puede ayudarte a encontrar tu razón de ser y vivir una vida más significativa.",
+  "keywords": "qué es ikigai, significado ikigai, filosofía japonesa, propósito de vida, concepto ikigai, razón de ser, definición ikigai",
+  "heroTitle": "¿Qué es Ikigai?",
+  "heroDescription": "¿Alguna vez sientes que solo estás pasando por las emociones? Te despiertas, revisas tu teléfono, pasas el día, y en algún momento te preguntas: \"¿Es esto todo?\"",
+  "takeIkigaiTest": "Haz Tu Prueba de Ikigai",
+  "quickTypeTest": "Prueba Rápida de Tipo",
+  "definition": {
+    "title": "El Verdadero Significado de Ikigai",
+    "description": "Ikigai combina \"iki\" (vida) y \"gai\" (valor): tu razón de ser. No se trata de escalar el Monte Everest o resolver el hambre mundial. Como dice el neurocientífico Ken Mogi: \"Ikigai puede ser pequeño. Puede ser la alegría de tu rutina matutina.\""
+  },
+  "fourPillars": {
+    "title": "Los Cuatro Pilares del Ikigai",
+    "subtitle": "La sabiduría antigua se encuentra con el autodescubrimiento moderno",
+    "passion": {
+      "title": "Lo que Amas",
+      "subtitle": "Tu Pasión",
+      "description": "Tu pasión: las cosas que te iluminan y hacen que el tiempo vuele. Podría ser pintar, entrenar, resolver problemas, o cultivar tomates. Si te trae alegría, pertenece aquí."
+    },
+    "mission": {
+      "title": "Lo que el Mundo Necesita",
+      "subtitle": "Tu Misión",
+      "description": "Tu misión: los problemas que te importa resolver. Tal vez sea ayudar a los niños a aprender, crear espacios hermosos, o hacer la tecnología más accesible. ¿Qué cambio quieres ver?"
+    },
+    "vocation": {
+      "title": "En lo que Eres Bueno",
+      "subtitle": "Tu Vocación",
+      "description": "Tu vocación: tus talentos naturales y habilidades desarrolladas. ¿Qué te resulta fácil? ¿Para qué piden tu ayuda las personas? Estos son tus superpoderes."
+    },
+    "profession": {
+      "title": "Por lo que Te Pueden Pagar",
+      "subtitle": "Tu Profesión",
+      "description": "Tu profesión: la intersección de tus habilidades y las necesidades del mercado. ¿Cómo puedes crear valor por el que la gente pagará? Aquí es donde el propósito se encuentra con la practicidad."
+    }
+  },
+  "notJustCareer": {
+    "title": "Ikigai No Se Trata Solo de Tu Carrera",
+    "subtitle": "Se trata de toda tu vida",
+    "description": "Mientras que muchas interpretaciones occidentales se enfocan en el éxito profesional, el Ikigai auténtico es mucho más amplio. Se trata de encontrar significado en pequeños momentos diarios, construir relaciones y vivir auténticamente.",
+    "examples": {
+      "title": "Tu Ikigai podría ser:",
+      "items": [
+        "La forma en que haces reír a tu familia cada mañana",
+        "Tu dedicación a mantener limpio tu vecindario",
+        "Las historias que cuentas que ayudan a los niños a entender conceptos difíciles",
+        "Tu habilidad para calmar animales ansiosos",
+        "La forma en que organizas eventos que unen a las personas"
+      ]
+    }
+  },
+  "scientificBasis": {
+    "title": "La Ciencia Detrás del Ikigai",
+    "subtitle": "Beneficios respaldados por la investigación de vivir con propósito",
+    "longevity": {
+      "title": "Mayor Longevidad",
+      "description": "Los estudios muestran que las personas con un fuerte sentido del propósito viven vidas más largas y saludables."
+    },
+    "mentalHealth": {
+      "title": "Mejor Salud Mental",
+      "description": "El propósito reduce la ansiedad, depresión y aumenta la satisfacción general con la vida."
+    },
+    "resilience": {
+      "title": "Mayor Resistencia",
+      "description": "Las personas con un propósito claro se recuperan más rápido de los contratiempos y desafíos."
+    },
+    "engagement": {
+      "title": "Mayor Compromiso",
+      "description": "Los individuos con propósito están más comprometidos en el trabajo, las relaciones y la vida."
+    }
+  },
+  "modernChallenges": {
+    "title": "Desafíos Modernos para Encontrar Ikigai",
+    "subtitle": "Por qué es más difícil hoy que nunca",
+    "overwhelm": {
+      "title": "Sobrecarga de Información",
+      "description": "Estamos bombardeados con opciones y posibilidades, haciendo más difícil enfocarnos en lo que realmente importa."
+    },
+    "expectations": {
+      "title": "Expectativas Externas",
+      "description": "Las redes sociales y la presión social nos empujan hacia lo que parece exitoso en lugar de lo que se siente significativo."
+    },
+    "speed": {
+      "title": "Velocidad de la Vida",
+      "description": "Nos movemos tan rápido que no tenemos tiempo para reflexionar sobre lo que realmente nos trae alegría y propósito."
+    },
+    "disconnection": {
+      "title": "Desconexión de Uno Mismo",
+      "description": "Estamos más conectados que nunca, pero a menudo desconectados de nuestros propios valores y deseos."
+    }
+  },
+  "howToDiscover": {
+    "title": "Cómo Descubrir Tu Ikigai",
+    "subtitle": "Un enfoque sistemático para encontrar tu propósito",
+    "steps": [
+      {
+        "title": "Auto-reflexión",
+        "description": "Toma tiempo para explorar tus valores, intereses y lo que realmente te importa."
+      },
+      {
+        "title": "Evaluación de Habilidades",
+        "description": "Identifica tus talentos naturales y habilidades desarrolladas a través de retroalimentación y observación."
+      },
+      {
+        "title": "Exploración de Impacto",
+        "description": "Considera cómo quieres contribuir al mundo y qué problemas te importan."
+      },
+      {
+        "title": "Investigación de Mercado",
+        "description": "Entiende dónde tus habilidades y pasiones se alinean con necesidades y oportunidades del mundo real."
+      },
+      {
+        "title": "Experimentación",
+        "description": "Prueba pequeños experimentos para probar tus hipótesis sobre lo que te da energía y significado."
+      },
+      {
+        "title": "Integración",
+        "description": "Gradualmente alinea tus actividades diarias con tu propósito descubierto."
+      }
+    ]
+  },
+  "ourApproach": {
+    "title": "Nuestro Enfoque para el Descubrimiento del Ikigai",
+    "subtitle": "Combinando sabiduría antigua con psicología moderna",
+    "description": "Nuestra evaluación utiliza un enfoque respaldado científicamente que honra el concepto japonés auténtico mientras proporciona insights prácticos para la vida moderna.",
+    "features": [
+      "Evaluación comprensiva de los cuatro pilares del Ikigai",
+      "Insights personalizados basados en tu situación única",
+      "Pasos de acción prácticos que puedes implementar inmediatamente",
+      "Apoyo continuo y recursos para tu viaje"
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para Descubrir Tu Ikigai?",
+    "description": "Únete a miles que han encontrado claridad y propósito a través de nuestra evaluación comprensiva.",
+    "button": "Comienza Tu Viaje"
+  },
+  "introduction": {
+    "title": "Más que solo \"propósito de vida\"",
+    "description": "La palabra ikigai proviene de <strong>iki</strong> (vivir) y <strong>gai</strong> (valor). En su esencia, significa tu \"razón de ser.\" Pero no te preocupes—no tiene que ser escalar el Everest o resolver un problema global.",
+    "quote": "Ikigai puede ser pequeño. Puede ser la alegría de tu rutina matutina.",
+    "author": "Ken Mogi, Neurocientífico",
+    "examples": {
+      "coffee": "El primer sorbo de café mientras el mundo aún está en silencio",
+      "garden": "Cuidar tu jardín antes de que comience el día",
+      "walk": "Caminar con tu perro por el mismo sendero pacífico cada mañana"
+    },
+    "conclusion": "Tu razón de ser podría estar ya en las pequeñas cosas—los momentos silenciosos, los rituales diarios, las alegrías simples. Ahí es donde vive la belleza."
+  },
+  "dailyLife": {
+    "title": "Un concepto arraigado en la vida diaria",
+    "description": "A diferencia de las ideas occidentales de propósito que a menudo giran en torno a objetivos profesionales o autorrealización, ikigai es personal y práctico. No es algo que perseguir o medir, es algo que vives y sientes.",
+    "example": "Un maestro podría encontrarlo en sus estudiantes, un jubilado en su jardín. Se trata de hacer lo que se siente significativo, incluso en cosas simples.",
+    "research": "La psicóloga Mieko Kamiya, quien estudió ikigai en los años 60, lo describió como un sentido del valor de la vida - especialmente importante durante las dificultades. Esa es parte de su poder silencioso: ikigai no se trata de éxito. Se trata de significado."
+  },
+  "westernDiscovery": {
+    "title": "Cómo el mundo occidental descubrió Ikigai",
+    "description": "Mientras que ikigai ha dado forma a la vida japonesa durante siglos, solo ganó atención global recientemente. El libro de 2016 \"Ikigai: El Secreto Japonés para una Vida Larga y Feliz\" popularizó la idea mundialmente, especialmente a través de un diagrama de cuatro círculos.",
+    "helpful": "¿Útil?",
+    "helpfulAnswer": "Sí.",
+    "traditional": "¿Tradicionalmente japonés?",
+    "traditionalAnswer": "No exactamente.",
+    "conclusion": "En Japón, ikigai no es un diagrama - es un sentimiento. Y no necesitas marcar cuatro casillas para tenerlo."
+  },
+  "westernInterpretation": {
+    "title": "La (mal)interpretación occidental",
+    "description": "Tradicionalmente, ikigai en Japón está profundamente arraigado en lo que amas y lo que da sentido a tus días. Aún así, también vale la pena considerar los otros tres pilares que no forman parte del significado tradicional: en lo que eres bueno, lo que el mundo necesita y por lo que te pueden pagar.",
+    "why": "¿Por qué? Porque cuando estas áreas se alinean, no solo traen alegría—crean equilibrio. Te ayudan a prosperar, mantenerte enfocado y construir una vida que sea tanto satisfactoria como sostenible.",
+    "conclusion": "Aunque la vida puede no mantenerse siempre perfectamente equilibrada, entender estos pilares puede ayudarte a moverte más cerca de una vida que se sienta significativa en tus propios términos."
+  },
+  "whyItMatters": {
+    "title": "Por qué importa Ikigai",
+    "description": "Adoptar ikigai no es solo un ejercicio filosófico—tiene beneficios reales respaldados por la ciencia. Y los hallazgos son bastante convincentes: cuando las personas viven con un sentido de propósito, prosperan de más maneras que una."
+  },
+  "fourPillars": {
+    "whatYouLove": {
+      "title": "Lo que Amas",
+      "description": "Esta es tu pasión—las cosas que te encienden y hacen que el tiempo vuele. Podría ser pintar, entrenar, resolver problemas, o plantar tomates. Si te trae alegría, pertenece aquí."
+    },
+    "whatYoureGoodAt": {
+      "title": "En lo que Eres Bueno",
+      "description": "Estos pueden ser talentos naturales o habilidades que has perfeccionado con el tiempo. No se trata de ser perfecto; se trata de reconocer dónde brillas y te sientes seguro. Cuando usas bien tus habilidades, el trabajo se vuelve más gratificante y menos agotador."
+    },
+    "whatWorldNeeds": {
+      "title": "Lo que el Mundo Necesita",
+      "description": "Aquí es donde el significado se profundiza. Este pilar se trata de contribución—ofrecer algo que importa a otros, ya sea apoyo, servicio, creatividad, o innovación. No siempre se trata de cambiar el mundo. A veces, solo se trata de hacer el día de alguien mejor."
+    },
+    "whatYouCanBePaidFor": {
+      "title": "Por lo que te Pueden Pagar",
+      "description": "Ikigai puede tratarse tanto de paz interior como de sostenibilidad. Este pilar se trata de encontrar una manera de convertir tu pasión y habilidades en algo que pueda apoyarte, incluso parcialmente. Si paga las cuentas y alimenta tu propósito, estás en el camino correcto."
+    }
+  },
+  "healthBenefits": {
+    "mentalHealth": {
+      "title": "Salud Mental y Emocional",
+      "benefits": [
+        "Menos síntomas de depresión",
+        "Mayor satisfacción con la vida",
+        "Más actividades alegres"
+      ],
+      "symptoms1": "Menos síntomas de depresión",
+      "symptoms2": "Mayor satisfacción con la vida",
+      "symptoms3": "Más actividades alegres"
+    },
+    "healthyAging": {
+      "title": "Envejecimiento Saludable (65+)",
+      "benefits": [
+        "30% menos riesgo de demencia",
+        "Sistema inmunológico más fuerte",
+        "Mejor salud física"
+      ]
+    },
+    "careerSuccess": {
+      "title": "Carrera y Éxito",
+      "benefits": [
+        "Mayor satisfacción laboral",
+        "Mejor rendimiento laboral",
+        "Mayor resistencia"
+      ]
+    },
+    "healthyAging": {
+      "title": "Envejecimiento Saludable (65+)",
+      "benefits": [
+        "31% menor riesgo de discapacidad",
+        "36% menor riesgo de demencia"
+      ],
+      "benefit1": "31% menor riesgo de discapacidad",
+      "benefit2": "36% menor riesgo de demencia",
+      "studyNote": "Estudio de 3 años con adultos japoneses"
+    },
+    "longevity": {
+      "title": "Longevidad y Salud",
+      "benefits": [
+        "50% mayor riesgo de mortalidad sin ikigai",
+        "60% mayor riesgo de muerte por enfermedades cardiovasculares"
+      ],
+      "risk1": "50% mayor riesgo de mortalidad sin ikigai",
+      "risk2": "60% mayor riesgo de muerte por enfermedades cardiovasculares",
+      "studyNote": "Más de 43,000 adultos durante 7 años"
+    }
+  },
+  "researchFindings": {
+    "title": "Hallazgos de Investigación",
+    "subtitle": "Evidencia científica que respalda el poder transformador del ikigai",
+    "happiness": {
+      "title": "Felicidad y satisfacción con la vida",
+      "description1": "Vivir en armonía con tu ikigai tiende a hacerte sentir más centrado y motivado. No solo estás pasando el día—te estás moviendo con intención.",
+      "description2": "Los estudios muestran que las personas que reportan tener ikigai experimentan menos síntomas de depresión, mayor satisfacción con la vida e incluso más participación frecuente en actividades alegres como pasatiempos y clubes sociales.",
+      "quote": "Piénsalo como un ancla emocional. Cuando sabes qué te impulsa—incluso si es algo pequeño—estás mejor equipado para manejar los altibajos de la vida. Como lo expresó un estudio, ikigai ofrece protección psicológica al tejer significado en tu rutina."
+    },
+    "healthYears": {
+      "title": "Puede aumentar el número de años de salud",
+      "description1": "No solo queremos vivir mucho tiempo, todos queremos maximizar el número de años saludables.",
+      "description2": "En un estudio a gran escala de adultos japoneses de 65 años y mayores, aquellos que reportaron tener ikigai experimentaron resultados psicosociales significativamente mejores durante un período de tres años.",
+      "description3": "En comparación con aquellos sin ikigai, los participantes tuvieron:",
+      "benefits": [
+        "31% menor riesgo de desarrollar discapacidad funcional",
+        "36% menor riesgo de desarrollar demencia"
+      ],
+      "conclusion": "El estudio también encontró que estos efectos positivos fueron especialmente fuertes entre los hombres y las personas con mayor estatus socioeconómico. En general, la investigación sugiere que tener ikigai puede servir como un factor protector tanto para la salud mental como para el funcionamiento diario mientras envejecemos."
+    },
+    "mortality": {
+      "title": "Menor riesgo de mortalidad",
+      "description1": "Uno de los estudios más conocidos sobre ikigai y mortalidad es el Estudio Ohsaki, que siguió a más de 43,000 adultos japoneses durante siete años.",
+      "description2": "A los participantes se les hizo una pregunta simple: '¿Tienes ikigai en tu vida?' y sus respuestas resultaron ser predictores poderosos de salud a largo plazo.",
+      "description3": "Los resultados fueron claros: las personas que no reportaron tener un sentido de ikigai tuvieron:",
+      "risks": [
+        "50% mayor riesgo de mortalidad por todas las causas",
+        "60% mayor riesgo de muerte por enfermedad cardiovascular",
+        "90% mayor riesgo de muerte por causas externas, como accidentes o lesiones"
+      ],
+      "conclusion1": "No hubo diferencia significativa en las muertes relacionadas con el cáncer, pero el vínculo entre la falta de ikigai y otros riesgos importantes para la salud fue fuerte.",
+      "conclusion2": "Este estudio añade peso a la idea de que tener una razón para vivir—ya sea grande o pequeña—no solo afecta cómo nos sentimos. Puede literalmente ayudarnos a vivir más tiempo."
+    },
+    "unemployed": {
+      "title": "Ikigai y los desempleados",
+      "description1": "Otro estudio a gran escala y a largo plazo conocido como el Estudio Colaborativo de Cohorte de Japón siguió a más de 71,000 adultos (edades 40-79) durante casi dos décadas.",
+      "description2": "Encontraron que los individuos desempleados con un fuerte sentido de ikigai tenían un riesgo significativamente menor de morir por enfermedad cardiovascular:",
+      "benefits": [
+        "Un 26%-31% menor riesgo de muerte relacionada con ECV en hombres",
+        "Un 22%-23% menor riesgo en mujeres"
+      ],
+      "conclusion": "Estas asociaciones se mantuvieron incluso después de ajustar por otros factores de salud y excluir las muertes tempranas."
+    },
+    "purposefulWork": {
+      "title": "Ikigai y el trabajo con propósito",
+      "description1": "Para los adultos mayores, mantenerse comprometido en un trabajo significativo puede hacer más que pasar el tiempo: puede aumentar su sentido de ikigai. Un estudio que involucró a más de 4,300 miembros senior del Centro de Recursos Humanos Silver de Japón encontró que los cambios de vida provocados por el trabajo—como hacer nuevos amigos, tener más conversaciones y desarrollar interés social—estaban fuertemente asociados con tener ikigai.",
+      "description2": "En comparación con aquellos que reportaron cambios negativos, los participantes con las puntuaciones de cambio de vida más positivas tenían más de 7 veces más probabilidades de reportar un fuerte sentido de ikigai.",
+      "description3": "El estudio también reveló diferencias de género:",
+      "genderDifferences": [
+        "Para los hombres, el ikigai estaba más fuertemente ligado a la salud física, los ingresos y el compromiso laboral.",
+        "Para las mujeres, estaba más vinculado a la satisfacción con la vida y tener una pareja de apoyo."
+      ],
+      "conclusion": "Los hallazgos sugieren que la participación continua en trabajo con propósito y social—especialmente en la vida posterior—puede enriquecer significativamente el sentido de significado y bienestar de una persona."
+    },
+    "healthyLife": {
+      "title": "Ikigai puede motivarte a llevar una vida saludable",
+      "description1": "Ikigai no solo influye en cuánto tiempo vivimos, también moldea cómo nos cuidamos. Un estudio de más de 600 adultos japoneses (edades 20 a 59) exploró cómo el bienestar del ikigai se relaciona con la motivación para comportamientos saludables como comer bien y mantenerse activo.",
+      "description2": "Los hallazgos fueron claros: las personas con niveles más altos de bienestar ikigai—una combinación de satisfacción hedónica (placer) y eudaimónica (significado de vida)—tenían más probabilidades de autorregular sus hábitos de salud.",
+      "description3": "En otras palabras, estaban motivados a tomar mejores decisiones de estilo de vida no por obligación, sino por un impulso interno alineado con valores personales.",
+      "description4": "El estudio también encontró que el apoyo social y un fuerte sentido de coherencia (la creencia de que la vida es manejable y significativa) contribuyeron tanto al ikigai como a un comportamiento más saludable.",
+      "conclusion": "Juntos, estos resultados sugieren que el ikigai puede ser un motivador poderoso—no solo para objetivos a largo plazo, sino para decisiones cotidianas que apoyan la salud física y mental."
+    },
+    "conclusion": "Ikigai no se trata de arreglar tu vida—se trata de entender qué le da forma. Y ya sea que tu propósito sea grandioso o silenciosamente personal, la ciencia es clara: vivir con significado es una de las cosas más saludables y felices que puedes hacer."
+  },
+  "findingIkigai": {
+    "title": "Encontrar tu Ikigai",
+    "subtitle": "Ahora llega la parte que probablemente te has estado preguntando: ¿Cómo encuentras realmente tu ikigai? Se trata de aprender a notar lo que ya está ahí, esperando silenciosamente en el trasfondo de tu vida.",
+    "questions": {
+      "title": "7 preguntas para hacerte primero",
+      "subtitle": "Antes de empezar a mirar hacia afuera, ayuda mirar hacia adentro. Estas preguntas no están destinadas a estresarte o crear presión—son iniciadores de conversación contigo mismo.",
+      "loseTime": {
+        "title": "¿Qué te hace perder la noción del tiempo?",
+        "description": "Piensa más allá del trabajo u obligaciones. ¿Cuándo las horas se sienten como minutos? La distorsión del tiempo a menudo es una pista de que estás en tu elemento."
+      },
+      "childhood": {
+        "title": "¿Qué amabas cuando eras niño?",
+        "description": "¿Antes de que alguien te dijera qué era 'práctico'? Los niños no se preocupan por las perspectivas de carrera cuando están fascinados por algo."
+      },
+      "yourself": {
+        "title": "¿Cuándo te sientes más como tú mismo?",
+        "description": "No la versión de ti que está tratando de impresionar a nadie o cumplir expectativas—solo tú, naturalmente."
+      },
+      "problems": {
+        "title": "¿Qué problemas resuelves naturalmente?",
+        "description": "¿Qué problemas te hacen pensar, 'Alguien realmente debería hacer algo sobre esto'—y luego te encuentras queriendo ser esa persona?"
+      },
+      "money": {
+        "title": "¿Qué harías si el dinero no fuera un factor?",
+        "description": "Esta pregunta clásica aún funciona porque elimina la presión externa. La respuesta no tiene que convertirse en tu carrera."
+      },
+      "help": {
+        "title": "¿Por qué recurre la gente a ti?",
+        "description": "Los amigos y la familia a menudo reconocen nuestras fortalezas antes que nosotros. ¿Para qué piden tu ayuda?"
+      },
+      "useful": {
+        "title": "¿Cuándo te sientes útil de una manera que importa?",
+        "description": "Esto no se trata de estar ocupado—se trata de sentirse genuinamente útil. No te apresures con estas preguntas. Algunas respuestas pueden venir inmediatamente; otras pueden necesitar tiempo para surgir."
+      }
+    },
+    "commonDenominators": {
+      "title": "Encontrar denominadores comunes",
+      "subtitle": "Convertirte en detective en tu propia historia de vida",
+      "description": "Una vez que te hayas sentado con esas preguntas por un tiempo, los patrones generalmente comienzan a emerger. Aquí es donde te conviertes en detective en tu propia vida, buscando hilos que se tejen a través de diferentes experiencias.",
+      "teachingExample": "Enseñar a tu sobrino a andar en bicicleta → Entrenar a nuevos empleados → Explicar temas complejos a amigos",
+      "organizingExample": "Organizar tu cocina → Planificar eventos → Ayudar a amigos a ordenar decisiones",
+      "remember": "Recuerda: Estos denominadores comunes no siempre son obvios al principio. A veces se esconden detrás de diferentes actividades que parecen no estar relacionadas en la superficie. El objetivo no es forzar conexiones donde no existen, sino notar las que ya están ahí."
+    },
+    "experimenting": {
+      "title": "Experimentar y explorar",
+      "subtitle": "Donde el ikigai se vuelve práctico—y divertido",
+      "goldenRule": "La Regla de Oro: Empezar Pequeño",
+      "description": "Aquí es donde el ikigai se vuelve práctico—y divertido. Una vez que hayas identificado algunos patrones y posibilidades, es hora de probarlos en el mundo real. Piensa en esto como experimentación de bajo riesgo, no compromisos que cambien la vida.",
+      "startSmall": "Empezar pequeño. Realmente pequeño.",
+      "teachingExample": "Si crees que tu ikigai podría involucrar enseñar, ofrécete a dar una presentación corta en el trabajo u ofrece ayudar a un amigo a aprender algo en lo que eres bueno.",
+      "creativityExample": "Si la creatividad sigue surgiendo en tus reflexiones, inscríbete en una clase de cerámica de fin de semana o comienza un pequeño proyecto secundario.",
+      "weekendTest": "La Prueba del Fin de Semana",
+      "weekendDescription": "Dedica unas horas cada fin de semana a explorar algo que te intrigó durante tu auto-reflexión. Presta atención a cómo se sienten estas experiencias, no solo si eres 'bueno' en ellas.",
+      "energizingSigns": "Señales Energizantes",
+      "energizingList": ["Tienes ganas de hacerlo", "El tiempo vuela cuando lo haces", "Te sientes motivado después"],
+      "drainingSigns": "Señales Agotadoras",
+      "drainingList": ["Buscas excusas para evitarlo", "Se siente como una tarea", "Te sientes agotado después"],
+      "rememberTitle": "Recuerda:",
+      "remember": "Algunos experimentos serán callejones sin salida, y esa también es información valiosa. Estás buscando esa sensación silenciosa de 'sí, esto se siente bien'."
+    },
+    "alignment": {
+      "title": "Alineación",
+      "subtitle": "Evolución natural, no transformación forzada",
+      "description": "A medida que experimentes, comenzarás a ver dónde diferentes aspectos de tu vida podrían entrar en mejor alineación. Esto no significa que todo tenga que cambiar a la vez—o incluso cambiar en absoluto.",
+      "smallAdjustments": {
+        "title": "Pequeños Ajustes",
+        "description": "A veces la alineación significa hacer pequeños ajustes a tu situación actual. Ajustar tu rol, cambiar tu enfoque o cambiar prioridades."
+      },
+      "biggerShifts": {
+        "title": "Cambios Más Grandes",
+        "description": "Otras veces, podría requerir cambios más grandes. Cambios de carrera, nuevas actividades o ajustes de vida significativos que se sientan naturalmente alineados."
+      },
+      "ikigaiApproach": {
+        "title": "El Enfoque Ikigai",
+        "description": "Aquí está la cosa sobre los cambios impulsados por el ikigai—tienden a sentirse más como evolución natural que transformación forzada. No estás luchando contra ti mismo; estás fluyendo con tu naturaleza auténtica."
+      },
+      "progressOverPerfection": {
+        "title": "Progreso Sobre Perfección",
+        "description": "El objetivo no es una alineación perfecta (que probablemente no existe de todos modos), sino una mejor alineación. Estás buscando formas de pasar más de tu tiempo y energía en cosas que se sientan significativas para ti, incluso si es solo 20% más que antes."
+      }
+    },
+    "embracingProcess": {
+      "title": "Abrazar todo el proceso",
+      "subtitle": "Una forma de vivir, no un problema que resolver",
+      "gardenMetaphor": {
+        "title": "La Metáfora del Jardín",
+        "description": "Aquí está quizás la parte más importante: encontrar tu ikigai no es un problema que resolver—es una forma de vivir. Los japoneses no piensan en el ikigai como algo que encuentras una vez y luego posees para siempre. Es más como un jardín que necesita cuidado."
+      },
+      "crystalClearDays": {
+        "title": "Días Cristalinos",
+        "description": "Algunos días tu sentido de propósito se sentirá cristalino. Sabrás exactamente qué te impulsa y te sentirás profundamente conectado con tu camino."
+      },
+      "fuzzyDays": {
+        "title": "Días Difusos",
+        "description": "Otros días podría sentirse difuso o distante. Ambas experiencias son partes normales del proceso. Lo que importa es mantenerse gentilmente curioso en lugar de buscar desesperadamente."
+      },
+      "authentic": {
+        "title": "Auténtico para Ti",
+        "description": "Sé paciente contigo mismo durante esta exploración. Tu ikigai no tiene que ser extraordinario o impresionante para nadie más. No necesita cambiar el mundo o hacer titulares. Solo necesita traerte un sentido de significado y propósito que se sienta auténtico para quien eres."
+      },
+      "ongoingQuestion": {
+        "title": "La Pregunta Continua",
+        "description": "La belleza del ikigai radica no en encontrar la respuesta perfecta, sino en vivir la pregunta continua: ¿Qué hace que la vida se sienta digna de vivir hoy? Y luego prestar atención a lo que emerge."
+      }
+    },
+    "journeyStarts": {
+      "title": "Tu viaje comienza aquí",
+      "description": "Descubrir tu ikigai es profundamente personal, pero no tienes que navegarlo solo. Ya sea que estés empezando a explorar lo que trae significado a tu vida o estés listo para profundizar en la auto-reflexión, hay herramientas diseñadas para guiarte en el camino.",
+      "scientificAssessment": {
+        "title": "Evaluación Científica",
+        "description": "En ikigain.org, una prueba diseñada científicamente te ayudará a descubrir tu ikigai y te guiará hacia una vida más con propósito. Es un punto de partida reflexivo para cualquiera que busque claridad sobre su camino adelante."
+      },
+      "dailyReflection": {
+        "title": "Reflexión Diaria",
+        "description": "Para aquellos que prefieren un enfoque más práctico para la reflexión, el Juego de Cartas de Autodescubrimiento de 35 ofrece indicaciones diarias para la atención plena y el crecimiento personal. Cada carta está diseñada para ayudarte a explorar tu pasión, misión, vocación y profesión a través de preguntas reflexivas inspiradas en la filosofía del ikigai."
+      },
+      "takeTest": "Haz la Prueba Completa de Ikigai",
+      "discoveryCards": "Cartas de Autodescubrimiento",
+      "waiting": "Tu ikigai está esperando ser notado, no encontrado."
+    },
+    "alignment": {
+      "title": "Alineación",
+      "subtitle": "Evolución natural, no transformación forzada",
+      "description": "Mientras experimentas, comenzarás a ver dónde diferentes aspectos de tu vida podrían lograr una mejor alineación. Esto no significa que todo tenga que cambiar de una vez, o incluso cambiar en absoluto.",
+      "smallAdjustments": "Pequeños Ajustes",
+      "smallAdjustmentsDescription": "A veces la alineación significa hacer pequeños ajustes a tu situación actual. Modificar tu rol, cambiar tu enfoque, o cambiar las prioridades.",
+      "biggerShifts": "Cambios Mayores",
+      "biggerShiftsDescription": "Otras veces, podría requerir cambios mayores. Cambios de carrera, nuevos caminos, o ajustes significativos en la vida que se sienten naturalmente alineados.",
+      "ikigaiApproach": "El Enfoque Ikigai",
+      "ikigaiApproachDescription": "Aquí está el punto sobre los cambios impulsados por ikigai: tienden a sentirse más como evolución natural que transformación forzada. No estás luchando contra ti mismo; estás fluyendo con tu naturaleza auténtica.",
+      "progressOverPerfection": "Progreso sobre Perfección",
+      "progressOverPerfectionDescription": "El objetivo no es la alineación perfecta (que probablemente no existe de todos modos), sino una mejor alineación. Estás buscando formas de pasar más de tu tiempo y energía en cosas que te resulten significativas, incluso si es solo un 20% más que antes."
+    },
+    "embracingProcess": {
+      "title": "Abrazar todo el proceso",
+      "subtitle": "Una forma de vivir, no un problema que resolver",
+      "gardenMetaphor": {
+        "title": "La Metáfora del Jardín",
+        "description": "Aquí está quizás la parte más importante: encontrar tu ikigai no es un problema que resolver, es una forma de vivir. Los japoneses no piensan en el ikigai como algo que encuentras una vez y luego posees para siempre. Es más como un jardín que necesita cuidado."
+      },
+      "crystalClearDays": {
+        "title": "Días Cristalinos",
+        "description": "Algunos días tu sentido de propósito se sentirá cristalino. Sabrás exactamente qué te impulsa y te sentirás profundamente conectado con tu camino."
+      },
+      "fuzzyDays": {
+        "title": "Días Difusos",
+        "description": "Otros días podría sentirse difuso o distante. Ambas experiencias son partes normales del proceso. Lo que importa es mantenerse gentilmente curioso en lugar de buscar desesperadamente."
+      },
+      "authentic": {
+        "title": "Auténtico para Ti",
+        "description": "Ten paciencia contigo mismo durante esta exploración. Tu ikigai no tiene que ser extraordinario o impresionante para nadie más. No necesita cambiar el mundo o hacer titulares. Solo necesita traerte un sentido de significado y propósito que se sienta auténtico para quien eres."
+      },
+      "ongoingQuestion": {
+        "title": "La Pregunta Continua",
+        "description": "La belleza del ikigai no radica en encontrar la respuesta perfecta, sino en vivir la pregunta continua: ¿Qué hace que la vida se sienta digna de vivir hoy? Y luego prestar atención a lo que emerge."
+      }
+    },
+    "journeyStarts": {
+      "title": "Tu viaje comienza aquí",
+      "description": "Descubrir tu ikigai es profundamente personal, pero no tienes que navegarlo solo. Ya sea que estés comenzando a explorar qué trae significado a tu vida o estés listo para profundizar en la auto-reflexión, hay herramientas diseñadas para guiarte en el camino.",
+      "scientificAssessment": {
+        "title": "Evaluación Científica",
+        "description": "En ikigain.org, un test diseñado científicamente te ayudará a descubrir tu ikigai y te guiará hacia una vida más significativa. Es un punto de partida reflexivo para cualquiera que busque claridad sobre su camino hacia adelante."
+      },
+      "dailyReflection": {
+        "title": "Reflexión Diaria",
+        "description": "Para aquellos que prefieren un enfoque más práctico para la reflexión, el Set de 35 Cartas de Autodescubrimiento ofrece indicaciones diarias para la atención plena y el crecimiento personal. Cada carta está diseñada para ayudarte a explorar tu pasión, misión, vocación y profesión a través de preguntas reflexivas inspiradas en la filosofía del ikigai."
+      },
+      "takeTest": "Haz la Prueba Completa de Ikigai",
+      "discoveryCards": "Cartas de Autodescubrimiento",
+      "waiting": "Tu ikigai está esperando ser notado, no encontrado."
+    },
+    "commonDenominators": {
+      "title": "Encontrar denominadores comunes",
+      "subtitle": "Buscar patrones que se repiten en tu vida",
+      "description": "La clave aquí es buscar patrones que se repiten en tu vida. ¿Qué temas comunes aparecen en las diferentes cosas que disfrutas, los roles que asumes naturalmente, las actividades que te energizan?",
+      "observe": {
+        "title": "Observar",
+        "description": "Nota patrones en tus experiencias"
+      },
+      "connect": {
+        "title": "Conectar",
+        "description": "Encuentra hilos entre diferentes actividades"
+      },
+      "discover": {
+        "title": "Descubrir",
+        "description": "Descubre tus patrones naturales"
+      },
+      "teachingExample": {
+        "title": "Ejemplo de Patrón de Enseñanza",
+        "description": "Enseñar a tu sobrino a andar en bicicleta → Entrenar a nuevos empleados → Explicar temas complejos a amigos"
+      },
+      "organizingExample": {
+        "title": "Ejemplo de Patrón de Organización",
+        "description": "Organizar tu cocina → Planificar eventos → Ayudar a amigos a ordenar decisiones"
+      },
+      "rememberTitle": "Recuerda:",
+      "remember": "Los patrones pueden ser sutiles. No están buscando grandes gestos dramáticos, sino hilos consistentes que atraviesan diferentes áreas de tu vida."
+    }
+  },
+  "seo": {
+    "title": "¿Qué es Ikigai? - Descubre el Significado de Ikigai | Filosofía Japonesa",
+    "description": "Descubre qué es Ikigai, el significado de esta filosofía japonesa para encontrar tu propósito de vida. Aprende cómo el concepto de Ikigai puede transformar tu carrera y bienestar.",
+    "keywords": "qué es ikigai, ikigai significado, ikigai filosofía japonesa, propósito de vida, ikigai concepto, filosofía japonesa de vida",
+    "ogTitle": "¿Qué es Ikigai? - Guía Completa de la Filosofía Japonesa",
+    "ogDescription": "Descubre el verdadero significado de Ikigai, la filosofía japonesa que ha ayudado a millones a encontrar su propósito de vida y bienestar."
+  }
+}

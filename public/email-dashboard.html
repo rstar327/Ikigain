@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Collection Dashboard</title>
+    <style>
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; 
+            margin: 0; 
+            padding: 20px; 
+            background-color: #f9fafb;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .header { 
+            background: white; 
+            padding: 30px; 
+            border-radius: 12px; 
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1); 
+            margin-bottom: 30px; 
+            text-align: center;
+        }
+        .stats { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+            gap: 20px; 
+            margin-bottom: 30px; 
+        }
+        .stat-card { 
+            background: white; 
+            padding: 25px; 
+            border-radius: 12px; 
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .stat-number { 
+            font-size: 36px; 
+            font-weight: bold; 
+            color: #2563eb; 
+            margin-bottom: 8px; 
+        }
+        .stat-label { 
+            color: #6b7280; 
+            font-size: 14px; 
+        }
+        .key-status { 
+            background: white; 
+            padding: 25px; 
+            border-radius: 12px; 
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1); 
+            margin-bottom: 30px; 
+        }
+        .status-item { 
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center; 
+            padding: 10px 0; 
+            border-bottom: 1px solid #e5e7eb; 
+        }
+        .status-item:last-child { border-bottom: none; }
+        .status-badge { 
+            padding: 4px 12px; 
+            border-radius: 20px; 
+            font-size: 12px; 
+            font-weight: 600; 
+        }
+        .found { background: #dcfce7; color: #16a34a; }
+        .not-found { background: #fee2e2; color: #dc2626; }
+        .table-container { 
+            background: white; 
+            border-radius: 12px; 
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1); 
+            overflow: hidden; 
+        }
+        .table-header { 
+            background: #f9fafb; 
+            padding: 20px; 
+            border-bottom: 1px solid #e5e7eb; 
+        }
+        table { 
+            width: 100%; 
+            border-collapse: collapse; 
+        }
+        th, td { 
+            text-align: left; 
+            padding: 12px 20px; 
+            border-bottom: 1px solid #e5e7eb; 
+        }
+        th { 
+            background: #f9fafb; 
+            font-weight: 600; 
+            color: #374151; 
+            font-size: 12px; 
+            text-transform: uppercase; 
+        }
+        tr:hover { background: #f9fafb; }
+        .complete { 
+            background: #dcfce7; 
+            color: #16a34a; 
+            padding: 4px 8px; 
+            border-radius: 12px; 
+            font-size: 12px; 
+        }
+        .incomplete { 
+            background: #fef3c7; 
+            color: #d97706; 
+            padding: 4px 8px; 
+            border-radius: 12px; 
+            font-size: 12px; 
+        }
+        .refresh-btn { 
+            background: #2563eb; 
+            color: white; 
+            border: none; 
+            padding: 12px 24px; 
+            border-radius: 8px; 
+            cursor: pointer; 
+            font-size: 14px;
+            margin-top: 20px;
+        }
+        .refresh-btn:hover { background: #1d4ed8; }
+        .loading { 
+            text-align: center; 
+            padding: 40px; 
+            color: #6b7280; 
+        }
+        .error { 
+            background: #fee2e2; 
+            color: #dc2626; 
+            padding: 20px; 
+            border-radius: 8px; 
+            margin: 20px 0; 
+        }
+        @media (max-width: 768px) {
+            .stats { grid-template-columns: 1fr; }
+            .status-item { flex-direction: column; gap: 10px; }
+            table { font-size: 14px; }
+            th, td { padding: 8px 12px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1 style="margin: 0 0 10px 0; color: #1f2937; font-size: 32px;">📧 Email Collection Dashboard</h1>
+            <p style="margin: 0; color: #6b7280;">Manage and view collected user emails from Ikigai tests</p>
+        </div>
+        
+        <div id="loading" class="loading">
+            <div style="display: inline-block; width: 20px; height: 20px; border: 3px solid #f3f3f3; border-top: 3px solid #3498db; border-radius: 50%; animation: spin 1s linear infinite;"></div>
+            <p>Loading emails...</p>
+        </div>
+        
+        <div id="error" class="error" style="display: none;"></div>
+        
+        <div id="dashboard" style="display: none;">
+            <div class="stats">
+                <div class="stat-card">
+                    <div class="stat-number" id="total-emails">0</div>
+                    <div class="stat-label">Total Emails</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="real-emails">0</div>
+                    <div class="stat-label">Real Users</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="today-emails">0</div>
+                    <div class="stat-label">Today's Collection</div>
+                </div>
+            </div>
+
+            <div class="key-status">
+                <h2 style="margin: 0 0 20px 0; color: #1f2937; font-size: 20px;">Key Email Status</h2>
+                <div class="status-item">
+                    <span>cindytradellc@gmail.com</span>
+                    <span class="status-badge" id="cindy-status">Checking...</span>
+                </div>
+                <div class="status-item">
+                    <span>baltscandlv@gmail.com</span>
+                    <span class="status-badge" id="balts-status">Checking...</span>
+                </div>
+            </div>
+
+            <div class="table-container">
+                <div class="table-header">
+                    <h2 style="margin: 0; color: #1f2937; font-size: 20px;">All Collected Emails (<span id="email-count">0</span>)</h2>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Email Address</th>
+                            <th>Collection Date</th>
+                            <th>Test Status</th>
+                            <th>Premium Tier</th>
+                        </tr>
+                    </thead>
+                    <tbody id="emails-tbody">
+                    </tbody>
+                </table>
+            </div>
+            
+            <button class="refresh-btn" onclick="loadEmails()">🔄 Refresh Data</button>
+            <div style="margin-top: 20px; text-align: center;">
+                <a href="/" style="color: #2563eb; text-decoration: none;">← Back to Main Site</a>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+
+    <script>
+        async function loadEmails() {
+            const loadingDiv = document.getElementById('loading');
+            const errorDiv = document.getElementById('error');
+            const dashboardDiv = document.getElementById('dashboard');
+            
+            // Show loading
+            loadingDiv.style.display = 'block';
+            errorDiv.style.display = 'none';
+            dashboardDiv.style.display = 'none';
+            
+            try {
+                const response = await fetch('/api/collected-emails');
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const emails = await response.json();
+                
+                // Filter real emails
+                const realEmails = emails.filter(email => 
+                    email.email && !email.email.includes('@example.com')
+                );
+                
+                // Filter today's emails
+                const todayEmails = emails.filter(email => {
+                    const date = new Date(email.created_at);
+                    const today = new Date();
+                    return date.toDateString() === today.toDateString();
+                });
+                
+                // Update stats
+                document.getElementById('total-emails').textContent = emails.length;
+                document.getElementById('real-emails').textContent = realEmails.length;
+                document.getElementById('today-emails').textContent = todayEmails.length;
+                document.getElementById('email-count').textContent = emails.length;
+                
+                // Update key email status
+                const cindyFound = emails.some(e => e.email === 'cindytradellc@gmail.com');
+                const baltsFound = emails.some(e => e.email === 'baltscandlv@gmail.com');
+                
+                const cindyStatus = document.getElementById('cindy-status');
+                const baltsStatus = document.getElementById('balts-status');
+                
+                cindyStatus.textContent = cindyFound ? 'Found' : 'Not Found';
+                cindyStatus.className = 'status-badge ' + (cindyFound ? 'found' : 'not-found');
+                
+                baltsStatus.textContent = baltsFound ? 'Found' : 'Not Found';
+                baltsStatus.className = 'status-badge ' + (baltsFound ? 'found' : 'not-found');
+                
+                // Update table
+                const tbody = document.getElementById('emails-tbody');
+                tbody.innerHTML = '';
+                
+                emails.forEach(email => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td style="font-weight: 500;">${email.email}</td>
+                        <td>${new Date(email.created_at).toLocaleDateString()}</td>
+                        <td><span class="${email.is_completed ? 'complete' : 'incomplete'}">${email.is_completed ? 'Complete' : 'Incomplete'}</span></td>
+                        <td>${email.premium_tier || 'Free'}</td>
+                    `;
+                    tbody.appendChild(row);
+                });
+                
+                // Show dashboard
+                loadingDiv.style.display = 'none';
+                dashboardDiv.style.display = 'block';
+                
+            } catch (error) {
+                console.error('Error loading emails:', error);
+                errorDiv.textContent = 'Error loading emails: ' + error.message;
+                errorDiv.style.display = 'block';
+                loadingDiv.style.display = 'none';
+            }
+        }
+        
+        // Load emails on page load
+        loadEmails();
+    </script>
+</body>
+</html>
