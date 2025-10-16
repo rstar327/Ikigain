@@ -1,0 +1,186 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Print Styles for Blog Posts */
+@media print {
+  /* Hide interactive elements when printing */
+  .print-hidden {
+    display: none !important;
+  }
+  
+  /* Optimize text for printing */
+  .prose {
+    font-size: 12pt !important;
+    line-height: 1.4 !important;
+  }
+  
+  /* Ensure proper page breaks */
+  .prose h1, .prose h2, .prose h3 {
+    page-break-after: avoid;
+  }
+  
+  .prose p {
+    page-break-inside: avoid;
+  }
+  
+  /* Remove background colors for print */
+  * {
+    background: white !important;
+    color: black !important;
+  }
+  
+  /* Optimize images for print */
+  img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+}
+
+:root {
+  --background: hsl(0, 0%, 100%);
+  --foreground: hsl(20, 14.3%, 4.1%);
+  --muted: hsl(60, 4.8%, 95.9%);
+  --muted-foreground: hsl(25, 5.3%, 44.7%);
+  --popover: hsl(0, 0%, 100%);
+  --popover-foreground: hsl(20, 14.3%, 4.1%);
+  --card: hsl(0, 0%, 100%);
+  --card-foreground: hsl(20, 14.3%, 4.1%);
+  --border: hsl(20, 5.9%, 90%);
+  --input: hsl(20, 5.9%, 90%);
+  --primary: hsl(231, 71%, 60%);
+  --primary-foreground: hsl(211, 100%, 99%);
+  --secondary: hsl(188, 85%, 59%);
+  --secondary-foreground: hsl(24, 9.8%, 10%);
+  --accent: hsl(43, 96%, 56%);
+  --accent-foreground: hsl(24, 9.8%, 10%);
+  --destructive: hsl(0, 84.2%, 60.2%);
+  --destructive-foreground: hsl(60, 9.1%, 97.8%);
+  --ring: hsl(20, 14.3%, 4.1%);
+  --radius: 0.5rem;
+
+  /* Custom colors for Ikigai theme */
+  --primary-50: hsl(231, 71%, 95%);
+  --primary-500: hsl(231, 71%, 60%);
+  --primary-600: hsl(231, 71%, 50%);
+  --primary-700: hsl(231, 71%, 40%);
+  
+  --secondary-50: hsl(188, 85%, 95%);
+  --secondary-500: hsl(188, 85%, 59%);
+  --secondary-600: hsl(188, 85%, 49%);
+}
+
+.dark {
+  --background: hsl(240, 10%, 3.9%);
+  --foreground: hsl(0, 0%, 98%);
+  --muted: hsl(240, 3.7%, 15.9%);
+  --muted-foreground: hsl(240, 5%, 64.9%);
+  --popover: hsl(240, 10%, 3.9%);
+  --popover-foreground: hsl(0, 0%, 98%);
+  --card: hsl(240, 10%, 3.9%);
+  --card-foreground: hsl(0, 0%, 98%);
+  --border: hsl(240, 3.7%, 15.9%);
+  --input: hsl(240, 3.7%, 15.9%);
+  --primary: hsl(231, 71%, 60%);
+  --primary-foreground: hsl(211, 100%, 99%);
+  --secondary: hsl(240, 3.7%, 15.9%);
+  --secondary-foreground: hsl(0, 0%, 98%);
+  --accent: hsl(240, 3.7%, 15.9%);
+  --accent-foreground: hsl(0, 0%, 98%);
+  --destructive: hsl(0, 62.8%, 30.6%);
+  --destructive-foreground: hsl(0, 0%, 98%);
+  --ring: hsl(240, 4.9%, 83.9%);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+}
+
+@layer components {
+  .primary-50 {
+    @apply bg-primary-50;
+  }
+  
+  .primary-500 {
+    @apply bg-primary-500;
+  }
+  
+  .primary-600 {
+    @apply bg-primary-600;
+  }
+  
+  .primary-700 {
+    @apply bg-primary-700;
+  }
+  
+  .secondary-50 {
+    @apply bg-secondary-50;
+  }
+  
+  .secondary-500 {
+    @apply bg-secondary-500;
+  }
+  
+  .secondary-600 {
+    @apply bg-secondary-600;
+  }
+}
+
+/* ReactQuill Editor Styles */
+.ql-snow .ql-toolbar {
+  border-top: 1px solid hsl(var(--border));
+  border-left: 1px solid hsl(var(--border));
+  border-right: 1px solid hsl(var(--border));
+  border-bottom: none;
+  background: hsl(var(--background));
+  border-radius: 0.5rem 0.5rem 0 0;
+}
+
+.ql-snow .ql-container {
+  border-bottom: 1px solid hsl(var(--border));
+  border-left: 1px solid hsl(var(--border));
+  border-right: 1px solid hsl(var(--border));
+  border-top: none;
+  border-radius: 0 0 0.5rem 0.5rem;
+  font-family: inherit;
+}
+
+.ql-snow .ql-editor {
+  min-height: 300px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: hsl(var(--foreground));
+}
+
+.ql-snow .ql-editor.ql-blank::before {
+  color: hsl(var(--muted-foreground));
+  font-style: normal;
+}
+
+.ql-snow .ql-toolbar .ql-picker-label {
+  color: hsl(var(--foreground));
+}
+
+.ql-snow .ql-toolbar .ql-picker-options {
+  background: hsl(var(--background));
+  border: 1px solid hsl(var(--border));
+}
+
+.ql-snow .ql-toolbar button {
+  color: hsl(var(--foreground));
+}
+
+.ql-snow .ql-toolbar button:hover {
+  background: hsl(var(--muted));
+}
+
+.ql-snow .ql-toolbar button.ql-active {
+  background: hsl(var(--primary));
+  color: hsl(var(--primary-foreground));
+}

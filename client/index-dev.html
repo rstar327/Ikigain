@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ikigai Test - Discover Your Life Purpose | Ikigain</title>
+    <meta name="description" content="Discover your Ikigai with our comprehensive personality test. Get personalized insights into your life purpose through our scientifically-backed assessment." />
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    
+    <!-- Initial CSS to prevent FOUC (Flash of Unstyled Content) -->
+    <style>
+      /* Critical above-the-fold styles */
+      * { box-sizing: border-box; }
+      body { 
+        margin: 0; 
+        font-family: system-ui, -apple-system, sans-serif;
+        background: #ffffff;
+        color: #1f2937;
+        line-height: 1.6;
+      }
+      #root { 
+        min-height: 100vh; 
+        display: flex;
+        flex-direction: column;
+      }
+      
+      /* Loading spinner for initial render */
+      .loading-spinner {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 40px;
+        height: 40px;
+        border: 4px solid #f3f4f6;
+        border-top: 4px solid #8b5cf6;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+        z-index: 9999;
+      }
+      @keyframes spin {
+        0% { transform: translate(-50%, -50%) rotate(0deg); }
+        100% { transform: translate(-50%, -50%) rotate(360deg); }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root">
+      <!-- Loading indicator for initial page load -->
+      <div class="loading-spinner"></div>
+    </div>
+    <script type="module" src="/src/main.tsx"></script>
+    
+    <!-- Performance optimization: Load non-critical scripts after page load -->
+    <script>
+      // Remove loading spinner once React mounts
+      document.addEventListener('DOMContentLoaded', function() {
+        setTimeout(function() {
+          const spinner = document.querySelector('.loading-spinner');
+          if (spinner && document.querySelector('[data-react-root]')) {
+            spinner.remove();
+          }
+        }, 100);
+      });
+    </script>
+  </body>
+</html>
